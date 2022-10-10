@@ -7,5 +7,5 @@ Details about Boot camp.
 
 Paragraph 1
 
-![My Fight](../images/Week%201/fight.jpg)
+![My Fight](../images/week1/fight.jpg)
 
