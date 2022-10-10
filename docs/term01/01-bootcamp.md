@@ -7,7 +7,7 @@ Details about Boot camp.
 
 Paragraph 1
 
-![My Fight](../images/Week%201/My%20Fight.jpg)
+![My Fight](../images/Week%201/fight.jpg)
 
 ## PDF
 
