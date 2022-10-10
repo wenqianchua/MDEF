@@ -1,5 +1,11 @@
-## Welcome
+## Home
 
-![](../images/perezoso.jpg)
+![profile](../docs/images/home/profile.JPG)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Professionally trained as an architect, I am a UIUX / Product designer. My job revolves around Branding, Interaction Design, User Experience-design, and Visual Design. I build meaningful experiences, connect users and increase system efficiency through design.
+
+[Linkedin](https://my.linkedin.com/in/wen-qian-chua-a1a6451b0)
+
+[Behance](https://www.behance.net/qianmade14c5)
+
+[Issuu](https://issuu.com/wenqianchua)
