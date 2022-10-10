@@ -1,3 +1,3 @@
 # Reflections
 
-I will be documenting my design process through this website. 
+This is a landing page for term 1, 2 and 3
