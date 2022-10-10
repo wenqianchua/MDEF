@@ -48,7 +48,7 @@ theme:
   favicon: images/favicon.svg
   features:
     - instant
-    - navigation.expand
+    # - navigation.expand
     - navigation.indexes
     - navigation.instant
     # - navigation.prune
