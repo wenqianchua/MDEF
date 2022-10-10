@@ -7,13 +7,19 @@ repo_name: 'Name : Github Repo'
 site_url: https://https://wenqianchua.github.io/MDEF/
 repo_url: 'https://github.com/wenqianchua/MDEF'
 
+# nav:
+#  - Home: index.md
+#  - Reflections Term 1: reflections/reflections.md
+#     - Bootcamp: term01/01-bootcamp.md
+#     - Atlas of Weak Signals (AoWS): term01/02-atlasofweaksignals.md
+
 nav:
   - Home: index.md
-  - Reflections Term 1: reflections/reflections.md
-     - Bootcamp: term01/01-bootcamp.md
-     - Atlas of Weak Signals (AoWS): term01/02-atlasofweaksignals.md
-
-
+  - Reflections: 
+    - reflections/index.md
+    - Term 1:
+      - Bootcamp: term01/bootcamp.md
+      - Atlas of Weak Signals (AoWS): term01/term01.md
 
 
 
