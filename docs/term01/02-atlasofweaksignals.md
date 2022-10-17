@@ -43,7 +43,7 @@ For this part of the assignment, I will be focusing on networking, resources and
 
 **My Work Space**
  
-![My Work Space](../images/week2/Figure%201.jpg))
+![My Work Space](../images/week2/Figure%201.jpg)
 
 ![My Work Space](../images/week2/Figure%202.jpg)
 
