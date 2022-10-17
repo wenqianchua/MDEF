@@ -3,20 +3,20 @@
 
 ## Instructions
 
-A. Upload your first post, name it “Bootcamp”.
+*A. Upload your first post, name it “Bootcamp”.*
 
-It should contain: What's your fight?
-Upload the poster you shared in class, explain it in a few paragraphs.
+*It should contain: What's your fight?*
+*Upload the poster you shared in class, explain it in a few paragraphs.*
 
-B. Vision, collaboration plan and personal development
+*B. Vision, collaboration plan and personal development*
 
-Create your own personal development plan for the master (1st Trimester).
-Create your design vision of how our (social) world could be in the (near) future
-Describe your professional identity in terms of skills, knowledge, and attitude.
-Reflect on the “meetings” by analyzing what attracts you from their skills, knowledge, and attitude
-Based on your vision and what attracts you from the “meetings” create your desired professional identity
-Map the courses we are having this trimester in terms of what you have learned (for the past ones), and what you would like to learn (ones to come).
-Justify and describe your personal development plan for the master program.
+*Create your own personal development plan for the master (1st Trimester).*
+*Create your design vision of how our (social) world could be in the (near) future*
+*Describe your professional identity in terms of skills, knowledge, and attitude.*
+*Reflect on the “meetings” by analyzing what attracts you from their skills, knowledge, and attitude*
+*Based on your vision and what attracts you from the “meetings” create your desired professional identity*
+*Map the courses we are having this trimester in terms of what you have learned (for the past ones), and what you would like to learn (ones to come).*
+*Justify and describe your personal development plan for the master program.*
 
 ## Part A
 

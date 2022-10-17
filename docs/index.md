@@ -1,8 +1,8 @@
 ## Home
 
-![profile](../docs/images/home/profile%202.jpg)
+![Hello](../images/home/profile-min.jpeg)
 
-Hello! :joy: Professionally trained as an architect, I am a UIUX / Product designer. My job revolves around Branding, Interaction Design, User Experience-design, and Visual Design. I build meaningful experiences, connect users and increase system efficiency through design.
+Hello! :cloud: Professionally trained as an architect, I am a UIUX / Product designer. My job revolves around Branding, Interaction Design, User Experience-design, and Visual Design. I build meaningful experiences, connect users and increase system efficiency through design.
 
 [Linkedin](https://my.linkedin.com/in/wen-qian-chua-a1a6451b0)
 

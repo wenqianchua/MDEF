@@ -3,26 +3,30 @@
 
 ## Instructions
 
-A. Research and Prototyping
+*A. Research and Prototyping*
 
-Reflect on your own RtD toolbox based on “your poster, your vision, and desired professional identity”. Reflect on the 4 different roles of prototyping by answering the following two questions. Which ones have you used and for what purposes? Which ones you haven’t used and how do you think could be interesting for you? Afterward, select the main roles of prototyping, combinations of them, and other design activities that you want to use. 
+*Reflect on your own RtD toolbox based on “your poster, your vision, and desired professional identity”. Reflect on the 4 different roles of prototyping by answering the following two questions. Which ones have you used and for what purposes? Which ones you haven’t used and how do you think could be interesting for you? Afterward, select the main roles of prototyping, combinations of them, and other design activities that you want to use.*
 
-Create a “new workspace” where your present and desired RtD toolbox can be used. You need to map what you have available for your project (materials, infrastructure, things, and people) either here or in other places. 
+*Create a “new workspace” where your present and desired RtD toolbox can be used. You need to map what you have available for your project (materials, infrastructure, things, and people) either here or in other places.*
 
-B. Design Space and Weak Signal
+*B. Design Space and Weak Signal*
 
-Design Space: High-resolution screenshot or multiple screenshots of your Design Space if it's too large.
-Text: A brief 500 Words (1 doc page) explaining the areas of interest you framed in the Design Space.This can be done with the following guidelines:
+*Design Space: High-resolution screenshot or multiple screenshots of your Design Space if it's too large.*
+*Text: A brief 500 Words (1 doc page) explaining the areas of interest you framed in the Design Space.This can be done with the following guidelines:*
 
-I. What are your main weak signals, and why did you choose them? Are they related to your fight? Do they represent areas of research you always wanted to explore but have never had the chance to? Are they related to your previous background and experience? How do you think they are relevant right now locally and globally? These are the kind of questions you can explore here.
+*I. What are your main weak signals, and why did you choose them? Are they related to your fight? Do they represent areas of research you always wanted to explore but have never had the chance to? Are they related to your previous background and experience? How do you think they are relevant right now locally and globally? These are the kind of questions you can explore here.*
 
-II. What areas of opportunity do you think they can offer?
+*II. What areas of opportunity do you think they can offer?*
 
 ## Part A
 
 My RtD toolbox will be a combination of Accumulative, Expansive, and Probing.
- 
+
+![Research Methods](../images/week2/Research.png)
+
 Based on my experience, when the research direction is clear and specific, I would use Accumulative. When I have a concept with a few ways to illustrate an idea, then Expansive would be my approach. Probing is a technique that I use when I am working with ambiguity. 
+
+![Prototyping Role](../images/week2/Prototyping.png)
  
 As a UIUX designer, the most common role of prototyping that I have been using is a prototype as an Experimental Component. I prepared low-fid and high-fid prototypes to carry out usability testing or showcase to see if it works. Most of the time multiple prototypes were prepared for a scenario to see which provides a better experience. One of the examples that I did during my work:
 [UX Case Study](https://www.behance.net/gallery/141887389/UX-Case-Study-Design-Enhancement)
@@ -77,4 +81,4 @@ With my UIUX background, I hope to relate or create a digital product, so that i
 
 ## PDF
 
-[AoWS](../files/pdf/WenQianChua_MDEF2023_Bootcamp.pdf)
+[AoWS](../files/pdf/WenQianChua_MDEF2023_AoWS.pdf.pdf)
