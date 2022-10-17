@@ -56,7 +56,9 @@ For this part of the assignment, I will be focusing on networking, resources and
 
 ![Weak Signals in the City](../images/week2/IMG_2401.jpg)
 
-I have always been interested in issues related to mental health ever since having personally experienced chronic depression and anxiety. It was a really painful process and I wish that nobody will ever have to experience it. This is because when you are trapped in your own heart and mind, there is no place for you to escape, it is like a living hell. It is absurd that while there is so much air, you still get out of breath, spending hours and hours laying awake. I guess that’s the reason why some individuals might choose to end things and give up on their lives. 
+>I have always been interested in issues related to mental health ever since having personally experienced chronic depression and anxiety.
+
+It was a really painful process and I wish that nobody will ever have to experience it. This is because when you are trapped in your own heart and mind, there is no place for you to escape, it is like a living hell. It is absurd that while there is so much air, you still get out of breath, spending hours and hours laying awake. I guess that’s the reason why some individuals might choose to end things and give up on their lives. 
 
 My grandfather’s generation suffered from poverty and my father was able to change the fate of his entire family with seven other siblings through higher education. Therefore, from a young age, I grew up believing that education is the key to escape poverty, and the thought of ‘I have to be a professional to survive and make a living’ was planted inside my head.
 
