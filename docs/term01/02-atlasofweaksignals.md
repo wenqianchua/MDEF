@@ -82,4 +82,4 @@ With my UIUX background, I hope to relate or create a digital product, so that i
 
 ## PDF
 
-[AoWS](../files/pdf/WenQianChua_MDEF2023_AoWS.pdf.pdf)
+[AoWS](../files/pdf/WenQianChua_MDEF2023_AoWS.pdf)
