@@ -1,3 +1,7 @@
 # Reflections
 
-This is a landing page for term 1, 2 and 3
+![Hello](../images/home/profile%202.jpg)
+
+![Hello](../images/home/profile-min.jpeg)
+
+This will be a series of documentation throughout the program.
