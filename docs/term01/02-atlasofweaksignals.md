@@ -23,7 +23,6 @@
 My RtD toolbox will be a combination of Accumulative, Expansive, and Probing.
 
 ![Research Methods](../images/week2/Research.png)
-
 Based on my experience, when the research direction is clear and specific, I would use Accumulative. When I have a concept with a few ways to illustrate an idea, then Expansive would be my approach. Probing is a technique that I use when I am working with ambiguity. 
 
 ![Prototyping Role](../images/week2/Prototyping.png)
