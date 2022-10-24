@@ -57,6 +57,4 @@ I have included a personal goals section. These are collective things that I do 
 
 Overall, I will be working towards resource management, with an interest in food source, compost, and recycling within a city. I am open for changes and alterations, but this would be the roadmap that will guide me throughout the trimester. I also hope that while learning about all the new skills and knowledge, I will be able to build up my portfolio as a UX designer catering towards a more UX and research perspective. Last but not least, I hope that I can be emotionally stable, safe, happy and enjoy the process while exploring.
 
-## PDF
 
-[Bootcamp](../files/pdf/WenQianChua_MDEF2023_Bootcamp.pdf)
