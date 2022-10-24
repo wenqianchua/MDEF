@@ -32,7 +32,7 @@ When I started with the bootcamp poster assignment, subconsciously I still belie
 
 When I could not find anything related to mental health in the physical card deck, there was a small reassuring voice in my head saying that it is right to just focus on recycling and resource management, and forget about issues related to mental health. It is more relevant to the future, and all the pressing crises that we are experiencing as a global citizen. Afterall, mental health related issues are too personal and delicate, and it is hard to see the profoundness of it in relation to the climate crisis. In terms of scale of impact, the climate crisis concerns the survival of the entire earth's citizens, yet mental health seems like a personal issue to me as not everyone suffers drastically from it.
 
->>Things started to change after a conversation that I had with Mariana. 
+>Things started to change after a conversation that I had with Mariana. 
 
 As she suggested, I looked at the Miro board with the new digital card decks that were added. I noticed that most of the new cards that I have chosen have more connection to mental health and spiritual awakeness. My gut feeling is telling me that I should just follow my heart. Afterall, climate change and mental health are connected. There are studies that show mental health impact on climate change. It was an epiphany moment for me, as I realized that when there is a climate crisis or pandemic, mental health support will be equally important. **While people die from drought, tsunami, covid-19, earthquakes, heatwave and so on; but remember this, people die from depression too.**
 
