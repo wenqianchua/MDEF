@@ -3,13 +3,7 @@
 
 ## Instructions
 
-*A. Research and Prototyping*
-
-*Reflect on your own RtD toolbox based on “your poster, your vision, and desired professional identity”. Reflect on the 4 different roles of prototyping by answering the following two questions. Which ones have you used and for what purposes? Which ones you haven’t used and how do you think could be interesting for you? Afterward, select the main roles of prototyping, combinations of them, and other design activities that you want to use.*
-
-*Create a “new workspace” where your present and desired RtD toolbox can be used. You need to map what you have available for your project (materials, infrastructure, things, and people) either here or in other places.*
-
-*B. Design Space and Weak Signal*
+*Design Space and Weak Signal*
 
 *Design Space: High-resolution screenshot or multiple screenshots of your Design Space if it's too large.*
 *Text: A brief 500 Words (1 doc page) explaining the areas of interest you framed in the Design Space.This can be done with the following guidelines:*
@@ -18,39 +12,7 @@
 
 *II. What areas of opportunity do you think they can offer?*
 
-## Part A
-
-My RtD toolbox will be a combination of Accumulative, Expansive, and Probing.
-
-![Research Methods](../images/week2/Research.png)
-Based on my experience, when the research direction is clear and specific, I would use Accumulative. When I have a concept with a few ways to illustrate an idea, then Expansive would be my approach. Probing is a technique that I use when I am working with ambiguity. 
-
-![Prototyping Role](../images/week2/Prototyping.png)
- 
-As a UIUX designer, the most common role of prototyping that I have been using is a prototype as an Experimental Component. I prepared low-fid and high-fid prototypes to carry out usability testing or showcase to see if it works. Most of the time multiple prototypes were prepared for a scenario to see which provides a better experience. One of the examples that I did during my work:
-[UX Case Study](https://www.behance.net/gallery/141887389/UX-Case-Study-Design-Enhancement)
- 
-I had experience using prototypes as a Means of Inquiry through my previous project:
-[Reimagining My Sejahtera](https://www.behance.net/gallery/123693987/Reimagining-My-Sejahtera)
-This is a way for collecting data and seeing how humans interact with the design. My Sejahtera is a covid-19 tracking and appointment management app in Malaysia, my partner and I redesign the app based on a series of research and interviews. We launched the designs and sent the prototype to people around us. Then, we use the heatmap to visualize the user flow throughout the process. We learned about users’ pain points and struggles through interviewing them. In the end, the final product produced is a series of interventions based on the data we collected.
- 
-My experience of prototyping as a Research Archetype is when I had to make ‘space’ in architecture school through a kit of parts: wood, strings, and tapes. We end up using the materials to visualize the scale for different spatial situations and floor plans. It is helpful as we were able to bring our project to 1:1 scale, physically experience and experiment with it before putting our ideas into rendering software. Our temporal installation is also tangible, this means that we can easily change the experience with just a few touches. Besides that, I also had experience choosing materials and finishing from catalogs while I was doing architecture-related projects.
- 
-I have not experienced using prototyping as a Vehicle of Enquiry. This can be an opportunity for me to apply this method in my upcoming projects. Using prototyping as a tool to document and analyze the process sounds interesting to me. I have never tried this method, so I might apply this on my future design product. It would be interesting to see how I can craft a digital or physical product through this method of prototyping, as normally I am inclined to use prototyping as a test of hypothesis or an open ended exploration due to my job nature. I also think this way of prototyping is very liberal, as the results will not be limited by a preconceived notion or a specific group of people.
- 
-Since I have quite some experiences with the different roles of prototyping, I would like to  start with using prototyping as a Vehicle of Enquiry, the one that I experienced the least so that I can equip myself with this skill set. It seems to me that Probing might be a good pairing with this role of prototyping. With this in mind, I will set this pair as a general direction when executing my upcoming design project. At the same time, I will keep an open mind to include other RtD tools and roles of prototyping whenever it is necessary should the scenario change.
-
-## Part B
- 
-For this part of the assignment, I will be focusing on networking, resources and people that I have as I think they are the most crucial part to complete my future design intervention.
-
-**My Work Space**
- 
-![My Work Space](../images/week2/Figure%201.jpg)
-
-![My Work Space](../images/week2/Figure%202.jpg)
-
-**My Design Space**
+## My Design Space
 
 ![My Design Space](../images/week2/Design%20Space.jpg)
 
@@ -70,7 +32,9 @@ When I started with the bootcamp poster assignment, subconsciously I still belie
 
 When I could not find anything related to mental health in the physical card deck, there was a small reassuring voice in my head saying that it is right to just focus on recycling and resource management, and forget about issues related to mental health. It is more relevant to the future, and all the pressing crises that we are experiencing as a global citizen. Afterall, mental health related issues are too personal and delicate, and it is hard to see the profoundness of it in relation to the climate crisis. In terms of scale of impact, the climate crisis concerns the survival of the entire earth's citizens, yet mental health seems like a personal issue to me as not everyone suffers drastically from it.
 
-Things started to change after a conversation that I had with Mariana. As she suggested, I looked at the Miro board with the new digital card decks that were added. I noticed that most of the new cards that I have chosen have more connection to mental health and spiritual awakeness. My gut feeling is telling me that I should just follow my heart. Afterall, climate change and mental health are connected. There are studies that show mental health impact on climate change. It was an epiphany moment for me, as I realized that when there is a climate crisis or pandemic, mental health support will be equally important. **While people die from drought, tsunami, covid-19, earthquakes, heatwave and so on; but remember this, people die from depression too.**
+>>Things started to change after a conversation that I had with Mariana. 
+
+As she suggested, I looked at the Miro board with the new digital card decks that were added. I noticed that most of the new cards that I have chosen have more connection to mental health and spiritual awakeness. My gut feeling is telling me that I should just follow my heart. Afterall, climate change and mental health are connected. There are studies that show mental health impact on climate change. It was an epiphany moment for me, as I realized that when there is a climate crisis or pandemic, mental health support will be equally important. **While people die from drought, tsunami, covid-19, earthquakes, heatwave and so on; but remember this, people die from depression too.**
 
 So I went on and develop my design space with a few area of opportunities in mind with my main weak signal, Climate Conscience. My area of opportunities includes Ideation and Design Centric research, Design for Social Innovation, AI and Machine Learning and Maker Education. I am looking for a way to make mental health support more accessible and effective for those who are in need, specifically on prevention and recovery. This will open up more research directions such as what causes depression, healing transgenerational trauma, the role of the subconscious mind in depression etc.
 
@@ -80,6 +44,3 @@ The second idea that I have is using art and illustration in healing depression.
 
 With my UIUX background, I hope to relate or create a digital product, so that it can benefit people that suffer with mental health issues on a larger scale. As a designer, I hope that I can contribute my knowledge and skill sets working with psychiatrists and counselors so that the therapy process can be accessible and effective, healing and preventing depression can be easier than it has ever been before.
 
-## PDF
-
-[AoWS](../files/pdf/WenQianChua_MDEF2023_AoWS.pdf)
