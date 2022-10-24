@@ -16,6 +16,8 @@
 
 ![My Design Space](../images/week2/Design%20Space.jpg)
 
+## Weak Signals in The City
+
 ![Weak Signals in the City](../images/week2/IMG_2401.jpg)
 
 >I have always been interested in issues related to mental health ever since having personally experienced chronic depression and anxiety.
