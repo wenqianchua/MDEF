@@ -4,7 +4,7 @@
 ## Instructions
 *I.Post two pictures of the seminar.*
 
-*II.choose an article, discuss the article from a personal perspective by referencing some scientific papers on the topic.*
+*II.Choose an article, discuss the article from a personal perspective by referencing some scientific papers on the topic.*
 
 ## Bio Plastic Experiment
 
@@ -22,14 +22,13 @@ The article that I have chosen is called Unboxing Mental Health.
 
 [Article Link](https://aeon.co/essays/common-mental-processes-often-underlie-different-diagnoses)
 
-
-The article that I have chosen is called Unboxing Mental Health. 
-
 It argues that the current mental health diagnosing system is not efficient. This is because it is inappropriate to classify collective mundane experiences into convenient diagnostic categories. Furthermore, there is often stigmatization associating to certain diagnostic labels such as some personality disorders, which was associated more on the personality of the person rather than early childhood trauma or experiences. While the author argues that the transdiagnostic model might be a pleasurable alternative, there is still work that needs to be done before deciding this would be the solution and future for psychotherapy treatments.
 
 First, what is a transdiagnostic model? A transdiagnostic perspective is through discovering the common ‘processes’ and ‘mechanisms’ across different psychological disorders, you will have a universal shared approach in treating them. This is a process to predict a generalized factor which may be the root cause of psychological disorder. The process may include attention focus/ bias, pervasive beliefs, distress intolerance, worry or preoccupation and so on.
 
 Video Reference: 
+
+
 [What is the Transdiagnostic Approach to Mental Health?](https://www.youtube.com/watch?v=v8fN8dfx99Q)
 
 
