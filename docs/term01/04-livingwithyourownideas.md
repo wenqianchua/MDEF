@@ -5,12 +5,7 @@
 
 *II. Try to answer some of these questions:*
 
-*• What did you make? And why did it matter?*
-*• What happens when you involve yourself?*
-*• What happens when you use yourself as an instrument?*
-*• Did anything change about your way of working?*
-*• What does it mean for your future work?*
-*• After seeing the videos of your design space collective, how does it change your understanding of it, present new opportunities or inspire new possibilities for collaboration?*
+*What did you make? And why did it matter?What happens when you involve yourself?What happens when you use yourself as an instrument? Did anything change about your way of working? What does it mean for your future work? After seeing the videos of your design space collective, how does it change your understanding of it, present new opportunities or inspire new possibilities for collaboration?*
 
 ## Part I
 
