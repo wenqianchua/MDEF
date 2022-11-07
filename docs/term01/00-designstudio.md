@@ -40,23 +40,23 @@ For this part of the assignment, I will be focusing on networking, resources and
 
 The communication strategies that I have chosen are:
 
--Compiling the experiences you have already had to aid you when pitching or explaining your process to others can help you move forward.
+- Compiling the experiences you have already had to aid you when pitching or explaining your process to others can help you move forward.
 
--Show your work or a specific topic from your own point of view. 
+- Show your work or a specific topic from your own point of view. 
 
--Simple language for accessibility.
+- Simple language for accessibility.
 
--Being transparent about your intentions, offering a space where people you are trying to reach and connect can understand better your background, your values, your commitment, your motives, and your positionality – creating a foundation for trust.
+- Being transparent about your intentions, offering a space where people you are trying to reach and connect can understand better your background, your values, your commitment, your motives, and your positionality – creating a foundation for trust.
 
--Creating demos, demonstrators, or experiential prototypes. 
+- Creating demos, demonstrators, or experiential prototypes. 
 
--Experiment with new formats, such as WhatsApp, videotaping etc
+- Experiment with new formats, such as WhatsApp, videotaping etc
 
--Photographing
+- Photographing
 
--Video journaling
+- Video journaling
 
--Zoom gatherings
+- Zoom gatherings
 
 >With that in mind, I created a series of pitch presentations to communicate my ideas. 
 
