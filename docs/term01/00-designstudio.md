@@ -4,14 +4,16 @@
 
 *Reflect on your own RtD toolbox based on “your poster, your vision, and desired professional identity”. Reflect on the 4 different roles of prototyping by answering the following two questions. Which ones have you used and for what purposes? Which ones you haven’t used and how do you think could be interesting for you? Afterward, select the main roles of prototyping, combinations of them, and other design activities that you want to use.*
 
-My RtD toolbox will be a combination of Accumulative, Expansive, and Probing.
+>My RtD toolbox will be a combination of Accumulative, Expansive, and Probing.
 
 ![Research Methods](../images/week2/Research.png)
 Based on my experience, when the research direction is clear and specific, I would use Accumulative. When I have a concept with a few ways to illustrate an idea, then Expansive would be my approach. Probing is a technique that I use when I am working with ambiguity. 
 
 ![Prototyping Role](../images/week2/Prototyping.png)
  
-As a UIUX designer, the most common role of prototyping that I have been using is a prototype as an Experimental Component. I prepared low-fid and high-fid prototypes to carry out usability testing or showcase to see if it works. Most of the time multiple prototypes were prepared for a scenario to see which provides a better experience. One of the examples that I did during my work:
+>As a UIUX designer, the most common role of prototyping that I have been using is a prototype as an Experimental Component. 
+
+I prepared low-fid and high-fid prototypes to carry out usability testing or showcase to see if it works. Most of the time multiple prototypes were prepared for a scenario to see which provides a better experience. One of the examples that I did during my work:
 [UX Case Study](https://www.behance.net/gallery/141887389/UX-Case-Study-Design-Enhancement)
  
 I had experience using prototypes as a Means of Inquiry through my previous project:
@@ -28,7 +30,7 @@ Since I have quite some experiences with the different roles of prototyping, I w
 
 *Create a “new workspace” where your present and desired RtD toolbox can be used. You need to map what you have available for your project (materials, infrastructure, things, and people) either here or in other places.*
 
-For this part of the assignment, I will be focusing on networking, resources and people that I have as I think they are the most crucial part to complete my future design intervention.
+>For this part of the assignment, I will be focusing on networking, resources and people that I have as I think they are the most crucial part to complete my future design intervention.
  
 ![My Work Space](../images/week2/Figure%201.jpg)
 
@@ -38,7 +40,7 @@ For this part of the assignment, I will be focusing on networking, resources and
 
 *Instructions: Choose 1 or more roles and formats from the list that was collectively created in class and put them into practice. Write a post with a reflection on the communication strategy that you are devising for the next stages of your project.*
 
-The communication strategies that I have chosen are:
+>The communication strategies that I have chosen are:
 
 - Compiling the experiences you have already had to aid you when pitching or explaining your process to others can help you move forward.
 
