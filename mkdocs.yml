@@ -18,7 +18,7 @@ repo_url: 'https://github.com/wenqianchua/MDEF'
 
 nav:
   - Home: index.md
-  - Reflections: 
+  - Summary: 
     - reflections/index.md
     - Term 1:
       - Design Studio: term01/00-designstudio.md
