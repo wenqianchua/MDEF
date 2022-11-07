@@ -38,7 +38,7 @@ Since I have quite some experiences with the different roles of prototyping, I w
 
 ## Communication Strategies
 
-*Instructions: Choose 1 or more roles and formats from the list that was collectively created in class and put them into practice. Write a post with a reflection on the communication strategy that you are devising for the next stages of your project.*
+*Choose 1 or more roles and formats from the list that was collectively created in class and put them into practice. Write a post with a reflection on the communication strategy that you are devising for the next stages of your project.*
 
 >The communication strategies that I have chosen are:
 
