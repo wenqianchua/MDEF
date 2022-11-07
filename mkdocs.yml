@@ -9,7 +9,7 @@ repo_url: 'https://github.com/wenqianchua/MDEF'
 
 # nav:
 #  - Home: index.md
-#  - Reflections Term 1: reflections/reflections.md
+#  - Works Term 1: reflections/reflections.md
 #     - Design Studio: term01/00-designstudio.md
 #     - Bootcamp: term01/01-bootcamp.md
 #     - Atlas of Weak Signals (AoWS): term01/02-atlasofweaksignals.md
@@ -18,7 +18,7 @@ repo_url: 'https://github.com/wenqianchua/MDEF'
 
 nav:
   - Home: index.md
-  - Summary: 
+  - Works: 
     - reflections/index.md
     - Term 1:
       - Design Studio: term01/00-designstudio.md
