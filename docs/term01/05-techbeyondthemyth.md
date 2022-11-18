@@ -28,7 +28,7 @@ Also, one thing that I noticed about my work style is I tend to be more submissi
 
 >In future, I think there is an opportunity to incorporate technology that I learned here in mental health projects.
 
-When I was working as a Design & Technology instructor, there were DIY projects where students craft involving Arduino. Thus, I could make my ‘Crisis / Hope Box’ idea more engaging by programming it with Arduino. There can be a display board that shows encouraging messages, a buzzer that goes off or makes music when somebody might be in distress, and so on. Potentially, there can also be a panic button that will automatically call the emergency contacts whenever somebody press it. I will keep these ideas in mind and see how they evolve as time goes by.
+When I was working as a Design & Technology instructor, there were DIY projects involving Arduino. Thus, I could make my ‘Crisis / Hope Box’ idea more engaging by programming it with Arduino. There can be a display board that shows encouraging messages, a buzzer that goes off or makes music when somebody might be in distress, and so on. Potentially, there can also be a panic button that will automatically call the emergency contacts whenever somebody press it. I will keep these ideas in mind and see how they evolve as time goes by.
 
 ## Forensic Report
 
