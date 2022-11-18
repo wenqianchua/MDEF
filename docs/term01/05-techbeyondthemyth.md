@@ -36,7 +36,7 @@ For the first exercise, we took apart a blender by Electrolux.
 
 ![Blender](../images/week5/Tech01/01_Blenderparts.JPG)
 
-[Full Report](https://hackmd.io/s/HJBEvhPBo.JPG)
+[Full Report](https://hackmd.io/s/HJBEvhPBo)
 
 ## The Almost Useful Project
 
