@@ -16,9 +16,9 @@ This time, I have no choice but to take a blender apart. I am impressed that I a
 
 As a designer and a maker, I find it difficult to communicate ideas with a practical and realistic mindset when there is undue confidence in the finalized product. It was a struggle to explain and convince people coming from different backgrounds that things might not work as expected due to the constraints of the materials and resources. It was really hard to move forward when most of the time was spent discussing trivial subjects. Nevertheless, I am grateful for this opportunity to learn, and for the instructors and team members that have been understanding and helpful to make the project a reality.
 
-![Amazing Team Mates](..images/week5/Tech/02_Amazingteammates.JPG)
+![Amazing Tean](../images/week5/Tech01/02_Amazingteammates.JPG)
 
-![Behind The Scenes](..images/week5/Tech/08_BTS.JPG)
+![Behind The Scenes](../images/week5/Tech01/08_BTS.JPG)
 
 Also, one thing that I noticed about my work style is I tend to be more submissive when it comes to decision-making. Even though I have the experience and the background to stand firm on my decision, I did not voice out. When my thoughts were proven right in the end, this cost a lot of unnecessary work and resource wastage. This is something that my manager from my previous company noted about me during my work there as a UIUX designer. 
 
@@ -26,13 +26,13 @@ Also, one thing that I noticed about my work style is I tend to be more submissi
 
 When I was a Design & Technology instructor in high school, there were DIY projects for the student to make involving Arduino. Thus, I think there can be a potential to make my ‘Crisis / Hope Box’ idea more fun by programming it with Arduino. There can be a display board that shows encouraging messages, a buzzer that goes off or makes music when somebody might be in distress, and so on. Potentially, there can be a panic button in which when it is pressed, it will automatically contact 3 important people that were pre-set. I will keep these ideas and see how they will evolve as time goes by.
 
-![Behind The Scenes](..images/week5/Tech/03_Visit.JPG)
+![Behind The Scenes](../images/week5/Tech01/03_Visit.JPG)
 
 ## Forensic Report
 
 For the first exercise, we took apart a blender by Electrolux.
 
-![Behind The Scenes](..images/week5/Tech/01_Blenderparts.JPG)
+![Behind The Scenes](../images/week5/Tech01/01_Blenderparts.JPG)
 
 [Full Report](https://hackmd.io/s/HJBEvhPBo.JPG)
 
@@ -40,13 +40,13 @@ For the first exercise, we took apart a blender by Electrolux.
 
 For the second project, we created a Distracted Timer.
 
-![Ideation](..images/week5/Tech/04_Ideation.JPG)
+![Ideation](../images/week5/Tech01/04_Ideation.JPG)
 
-![Diagram](..images/week5/Tech/05_Diagram.JPG)
+![Diagram](../images/week5/Tech01/05_Diagram.JPG)
 
-![MVP](..images/week5/Tech/06_MVP.JPG)
+![MVP](../images/week5/Tech01/06_MVP.JPG)
 
-![Final](..images/week5/Tech/07_Final.JPG)
+![Final](../images/week5/Tech01/07_Final.JPG)
 
 [Presentation](https://www.canva.com/design/DAFSGssYzEA/FqJPNQMS33QH5i-fKP5DVg/view?utm_content=DAFSGssYzEA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
