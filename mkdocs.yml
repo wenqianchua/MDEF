@@ -12,9 +12,10 @@ repo_url: 'https://github.com/wenqianchua/MDEF'
 #  - Works Term 1: reflections/reflections.md
 #     - Design Studio: term01/00-designstudio.md
 #     - Bootcamp: term01/01-bootcamp.md
-#     - Atlas of Weak Signals (AoWS): term01/02-atlasofweaksignals.md
+#     - Atlas of Weak Signals: term01/02-atlasofweaksignals.md
 #     - Bio & Agri Zero: term01/03-bioagrizero.md
 #     - Living With Your Own Ideas: term01/04-livingwithyourownideas.md
+#     - Tech Beyond The Myth: term01/05-techbeyondthemyth.md
 
 nav:
   - Home: index.md
@@ -23,9 +24,10 @@ nav:
     - Term 1:
       - Design Studio: term01/00-designstudio.md
       - Bootcamp: term01/01-bootcamp.md
-      - Atlas of Weak Signals (AoWS): term01/02-atlasofweaksignals.md
+      - Atlas of Weak Signals: term01/02-atlasofweaksignals.md
       - Bio & Agri Zero: term01/03-bioagrizero.md
       - Living With Your Own Ideas: term01/04-livingwithyourownideas.md
+      - Tech Beyond The Myth: term01/05-techbeyondthemyth.md
 
 
 
