@@ -28,11 +28,11 @@ Also, one thing that I noticed about my work style is I tend to be more submissi
 
 When I was a Design & Technology instructor in high school, there were DIY projects for the student to make involving Arduino. Thus, I think there can be a potential to make my ‘Crisis / Hope Box’ idea more fun by programming it with Arduino. There can be a display board that shows encouraging messages, a buzzer that goes off or makes music when somebody might be in distress, and so on. Potentially, there can be a panic button in which when it is pressed, it will automatically contact 3 important people that were pre-set. I will keep these ideas and see how they will evolve as time goes by.
 
-![Behind The Scenes](../images/week5/Tech01/03_Visit.JPG)
-
 ## Forensic Report
 
 For the first exercise, we took apart a blender by Electrolux.
+
+![Blender](../images/week5/Tech01/01_Blenderparts.JPG)
 
 [Full Report](https://hackmd.io/s/HJBEvhPBo.JPG)
 
