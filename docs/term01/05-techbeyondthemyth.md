@@ -26,7 +26,7 @@ Behind the Scenes of trying to take a video of our 'Distracted Timer'. Fun fact:
 
 Also, one thing that I noticed about my work style is I tend to be more submissive when it comes to decision-making. Even though I have the experiences to stand firm on my decision, I did not voice out. When my thoughts were validated in the end, this has already cost a lot of unnecessary work and resource wastage. This is also something that my manager noted about me during my previous company as a UIUX designer. 
 
->In the future, I think there might be an opportunity to incorporate technology that I learned in mental health projects.
+>In future, I think there is an opportunity to incorporate technology that I learned here in mental health projects.
 
 When I was working as a Design & Technology instructor in a high school, there were DIY projects where students craft involving Arduino. Thus, I could make my ‘Crisis / Hope Box’ idea more engaging by programming it with Arduino. There can be a display board that shows encouraging messages, a buzzer that goes off or makes music when somebody might be in distress, and so on. Potentially, there can also be a panic button that will automatically call the emergency contacts whenever somebody press it. I will keep these ideas in mind and see how they evolve as time goes by.
 
