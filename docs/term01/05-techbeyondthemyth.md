@@ -10,13 +10,13 @@
 
 They are the engineers in our house. Occasionally I see them taking things and electronics apart, but for some reason, I was never interested enough to stay and observe what they were doing.
 
-This time, I have no choice but to take a part of a blender. I am impressed that I am not as intimidated as I thought I would be. This experience changed me subtly, as immediately after taking the blender apart, I took apart a little device that I have with me that was ‘broken’ for ages. It is a pocket angel–a modern personal safety alarm that will create a distraction during an attack. The alarm does not work anymore, so when I took it apart, I tried to inspect what was wrong with it. Then, I replaced the batteries and it worked again. As it is designed with planned obsolescence, it is not really friendly for people to replace the battery. In the future, if my father, brother or my sister is around, I might still pass the broken electronics to them. This time, it will be slightly different. I will stay and watch and perhaps offer my help and insights.
+This time, I have no choice but to take a blender apart. I am impressed that I am not as intimidated as I thought I would be. This experience changed me subtly, as after this experience, I took apart a little device that I have with me that was ‘broken’ for ages. It is a [pocket angel](https://shoppocketangel.com/)–a modern personal safety alarm that will create a distraction during an attack. The alarm does not work anymore, so when I took it apart, I tried to inspect what was wrong with it. Then, I replaced the batteries and it worked again. As it is designed with planned obsolescence, it is not really friendly for people to replace the battery. In the future, if my father, brother or my sister is around, I might still pass the broken electronics to them. This time, it will be slightly different. I will stay and watch and perhaps offer my help and insights.
 
 >During group work, I had the opportunity to learn communication skills in a cross-functional team. 
 
 As a designer and maker, I find it difficult to communicate ideas with a practical and realistic mindset when there is undue confidence in the finalized product. It was a struggle to explain and convince people coming from different backgrounds that things might not work as expected due to the constraints of the materials and resources. It was really hard to move forward when most of the time was spent discussing trivial subjects. Nevertheless, I am grateful for this opportunity to learn, and for the instructors and team members that have been understanding and helpful to make the project a reality.
 
-![Amazing Team Mates](images/week5/Tech/01_Blenderparts.JPG)
+![Amazing Team Mates](images\week5\Tech\02_Amazingteammates.JPG)
 
 ![Behind The Scenes](images/week5/Tech/08_BTS.JPG)
 
