@@ -40,7 +40,7 @@ For the first exercise, we took apart a blender by Electrolux.
 
 ## The Almost Useful Project
 
-For the second project, we created a Distracted Timer. We started with an ideation process.
+For the second project, we created a 'Distracted Timer'. We started with an ideation process.
 
 ![Ideation](../images/week5/Tech01/04_Ideation.JPG)
 
