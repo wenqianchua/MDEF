@@ -18,7 +18,9 @@ This time, I have no choice but to take a blender apart. I am impressed that I a
 
 As a designer and a maker, I find it difficult to communicate ideas with a practical and realistic mindset when there is undue confidence in the finalized product. It was a struggle to explain and convince people coming from different backgrounds that things might not work as expected due to the constraints of the materials and resources. It was really hard to move forward when most of the time was spent discussing trivial subjects. Nevertheless, I am grateful for this opportunity to learn, and for the instructors and team members that have been understanding and helpful to make the project a reality.
 
-![Amazing Tean](../images/week5/Tech01/02_Amazingteammates.JPG)
+![Amazing Team](../images/week5/Tech01/02_Amazingteammates.JPG)
+
+Behind the Scenes of trying to take a video of our 'Distracted Timer'. Fun fact: it fell apart and we spend so much time trying to fix it. 
 
 ![Behind The Scenes](../images/week5/Tech01/08_BTS.JPG)
 
@@ -38,11 +40,15 @@ For the first exercise, we took apart a blender by Electrolux.
 
 ## The Almost Useful Project
 
-For the second project, we created a Distracted Timer.
+For the second project, we created a Distracted Timer. We started with an ideation process.
 
 ![Ideation](../images/week5/Tech01/04_Ideation.JPG)
 
+We also used diagrams to help visualize the entire process flow.
+
 ![Diagram](../images/week5/Tech01/05_Diagram.JPG)
+
+Our final product after iterations.
 
 ![Final](../images/week5/Tech01/07_Final.JPG)
 
