@@ -40,6 +40,14 @@ For the first exercise, we took apart a blender by Electrolux.
 
 For the second project, we created a Distracted Timer.
 
+![Ideation](images/week5/Tech/04_Ideation)
+
+![Diagram](images/week5/Tech/05_Diagram)
+
+![MVP](images/week5/Tech/06_MVP)
+
+![Final](images/week5/Tech/07_Final)
+
 [Presentation](https://www.canva.com/design/DAFSGssYzEA/FqJPNQMS33QH5i-fKP5DVg/view?utm_content=DAFSGssYzEA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ## Course Website
