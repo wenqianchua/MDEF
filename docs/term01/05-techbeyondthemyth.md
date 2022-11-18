@@ -14,7 +14,7 @@ This time, I have no choice but to take a blender apart. I am impressed that I a
 
 >During group work, I had the opportunity to learn communication skills in a cross-functional team. 
 
-As a designer and maker, I find it difficult to communicate ideas with a practical and realistic mindset when there is undue confidence in the finalized product. It was a struggle to explain and convince people coming from different backgrounds that things might not work as expected due to the constraints of the materials and resources. It was really hard to move forward when most of the time was spent discussing trivial subjects. Nevertheless, I am grateful for this opportunity to learn, and for the instructors and team members that have been understanding and helpful to make the project a reality.
+As a designer and a maker, I find it difficult to communicate ideas with a practical and realistic mindset when there is undue confidence in the finalized product. It was a struggle to explain and convince people coming from different backgrounds that things might not work as expected due to the constraints of the materials and resources. It was really hard to move forward when most of the time was spent discussing trivial subjects. Nevertheless, I am grateful for this opportunity to learn, and for the instructors and team members that have been understanding and helpful to make the project a reality.
 
 ![Amazing Team Mates](images\week5\Tech\02_Amazingteammates.JPG)
 
