@@ -6,6 +6,8 @@
 
 ## Reflection
 
+![MVP](../images/week5/Tech01/06_MVP.JPG)
+
 >These two weeks have been an eye-opening experience to me, as normally when something is broken in our household, my first instinct would be passing it to my father, my brother or my sister. 
 
 They are the engineers in our house. Occasionally I see them taking things and electronics apart, but for some reason, I was never interested enough to stay and observe what they were doing.
@@ -41,8 +43,6 @@ For the second project, we created a Distracted Timer.
 ![Ideation](../images/week5/Tech01/04_Ideation.JPG)
 
 ![Diagram](../images/week5/Tech01/05_Diagram.JPG)
-
-![MVP](../images/week5/Tech01/06_MVP.JPG)
 
 ![Final](../images/week5/Tech01/07_Final.JPG)
 
