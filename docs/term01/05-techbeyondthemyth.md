@@ -24,7 +24,7 @@ Behind the Scenes of trying to take a video of our 'Distracted Timer'. Fun fact:
 
 ![Behind The Scenes](../images/week5/Tech01/08_BTS.JPG)
 
-Also, one thing that I noticed about my work style is I tend to be more submissive when it comes to decision-making. Even though I have the experience and the background to stand firm on my decision, I did not voice out. When my thoughts were proven right in the end, this cost a lot of unnecessary work and resource wastage. This is something that my manager from my previous company noted about me during my work there as a UIUX designer. 
+Also, one thing that I noticed about my work style is I tend to be more submissive when it comes to decision-making. Even though I have the experience and the background to stand firm on my decision, I did not voice out. When my thoughts were proven right in the end, this has already cost a lot of unnecessary work and resource wastage. This is something that my manager from my previous company noted about me during my work there as a UIUX designer. 
 
 >In the future, I think there might be an opportunity to incorporate technology that I learned in Mental Health.
 
