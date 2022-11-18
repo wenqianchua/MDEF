@@ -32,8 +32,6 @@ When I was a Design & Technology instructor in high school, there were DIY proje
 
 For the first exercise, we took apart a blender by Electrolux.
 
-![Behind The Scenes](../images/week5/Tech01/01_Blenderparts.JPG)
-
 [Full Report](https://hackmd.io/s/HJBEvhPBo.JPG)
 
 ## The Almost Useful Project
