@@ -54,6 +54,8 @@ Our final product after iterations.
 
 [Presentation](https://www.canva.com/design/DAFSGssYzEA/FqJPNQMS33QH5i-fKP5DVg/view?utm_content=DAFSGssYzEA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
+[Arduino File](../files/arduino/Combined%20Code/Combined%20Code.ino)
+
 ## Course Website
 
 [Full Course Website](https://hackmd.io/QpMIMeepTIqulsaa-o7GAw?view#MDEF-Unpacking-Intelligent-Machines-2223)
