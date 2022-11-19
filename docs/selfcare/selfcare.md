@@ -12,7 +12,7 @@ Please find attached a downloadable PDF for the Virtual Hope Box. Feel free to f
 ![Content](../images/selfcare/Grief%20and%20Loss%20Coping/1.jpg)
 
 >Hope Box PDF
-[click to download](../files/pdf/Self%20Care/Grief%20and%20Loss%20Coping.pdf)
+[download](../files/pdf/Self%20Care/Grief%20and%20Loss%20Coping.pdf)
 
 ## Maintainence
 
@@ -25,20 +25,20 @@ Here, you will find some printable PDF work sheets for maintainence exercises.
 ![ABC Worksheet](../images/selfcare/Maintainence/3.png)
 
 >ABC Worksheet PDF
-![click to download](../files/pdf/Self%20Care/ABC%20Model.pdf)
+[download](../files/pdf/Self%20Care/ABC%20Model.pdf)
 
 ### Anxiety Tracking
 
 ![ABC Worksheet](../images/selfcare/Maintainence/4.png)
 
 >Anxiety Tracking PDF
-[click to download](../files/pdf/Self%20Care/Anxiety.pdf)
+[download](../files/pdf/Self%20Care/Anxiety.pdf)
 
 ### Self Care Check List
 
 ![ABC Worksheet](../images/selfcare/Maintainence/1.png)
 
 >Self Care PDF
-[click to download](../files/pdf/Self%20Care/Self%20Care.pdf)
+[download](../files/pdf/Self%20Care/Self%20Care.pdf)
 
 
