@@ -5,7 +5,7 @@
 
 *Disclaimer: I am not a mental health professional, these resources are just something that I have collected over the years. For any serious issues please find a healthcare provider for professional advise.*
 
-## Virtual Hope Box: Prevention and Crisis
+## Prevention and Crisis
 
 Please find attached a downloadable PDF for the Virtual Hope Box. Feel free to follow the instructions in the PDF to build your very own hope box.
 
