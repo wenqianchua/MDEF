@@ -18,7 +18,7 @@ Please find attached a downloadable PDF for the Virtual Hope Box. Feel free to f
 
 Here, you will find some printable PDF work sheets for maintainence exercises.
 
-**ABC Cognitive Behavioral Therapy Work Sheet**
+### ABC Cognitive Behavioral Therapy Work Sheet
 
 ![ABC Worksheet](../images/selfcare/Maintainence/2.png)
 
@@ -27,14 +27,14 @@ Here, you will find some printable PDF work sheets for maintainence exercises.
 >ABC Worksheet PDF
 ![click to download](../files/pdf/Self%20Care/ABC%20Model.pdf)
 
-**Anxiety Tracking**
+### Anxiety Tracking
 
 ![ABC Worksheet](../images/selfcare/Maintainence/4.png)
 
 >Anxiety Tracking PDF
 [click to download](../files/pdf/Self%20Care/Anxiety.pdf)
 
-**Self Care Check List**
+### Self Care Check List
 
 ![ABC Worksheet](../images/selfcare/Maintainence/1.png)
 
