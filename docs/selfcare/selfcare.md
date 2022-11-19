@@ -16,7 +16,7 @@ Please find attached a downloadable PDF for the Virtual Hope Box. Feel free to f
 
 ## Maintainence
 
-Here, you will find some printable PDF work sheets for maintainces.
+Here, you will find some printable PDF work sheets for maintainence exercises.
 
 **ABC Cognitive Behavioral Therapy Work Sheet**
 
