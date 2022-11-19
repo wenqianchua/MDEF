@@ -1,5 +1,5 @@
 
-# Self Care Resources
+# Self-care Resources
 
 >This will be some printable work sheets for people who might find it useful.
 
