@@ -20,10 +20,9 @@ Here, you will find some printable PDF work sheets for maintainence exercises.
 
 ### ABC Cognitive Behavioral Therapy Work Sheet
 
-![ABC Worksheet](../images/selfcare/Maintainence/2.png)
+![ABC Worksheet](../images/selfcare/Maintainence/2.jpg)
 
-![ABC Worksheet](../images/selfcare/Maintainence/3.png)
-
+![ABC Worksheet](../images/selfcare/Maintainence/3.jpg)
 >ABC Worksheet PDF
 [download](../files/pdf/Self%20Care/ABC%20Model.pdf)
 
