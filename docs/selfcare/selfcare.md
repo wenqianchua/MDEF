@@ -7,6 +7,8 @@
 
 ## Prevention and Crisis
 
+### Hope Box
+
 Please find attached a downloadable PDF for the Virtual Hope Box. Feel free to follow the instructions in the PDF to build your very own hope box.
 
 ![Content](../images/selfcare/Grief%20and%20Loss%20Coping/1.jpg)
