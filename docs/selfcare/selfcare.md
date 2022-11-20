@@ -22,6 +22,8 @@ Here, you will find some printable PDF work sheets for maintainence exercises.
 
 ### ABC Cognitive Behavioral Therapy Work Sheet
 
+When filling in the evidence for and evidence against in this ABC worksheet, make sure all evidences are concrete, detailed and non-subjective facts.
+
 ![ABC Worksheet](../images/selfcare/Maintainence/2.jpg)
 
 ![ABC Worksheet](../images/selfcare/Maintainence/3.jpg)
@@ -42,4 +44,48 @@ Here, you will find some printable PDF work sheets for maintainence exercises.
 >Self Care PDF
 [download](../files/pdf/Self%20Care/Self%20Care.pdf)
 
+## Fact Sheets
 
+These will be some printable fact sheets that can serve as a reminder whenever you need it. You can keep some of them in your Hope Box, or paste it somewhere that you can see it everyday. One day, you will no longer need them. Everyone can heal. Have faith.
+
+### Calming Extreme Emotions
+
+![extreme](../images/selfcare/Fact%20Sheets/extreme.jpg)
+
+>Calming Down Extreme Emotions PDF
+[download](../files/pdf/Self%20Care/Fact%20Sheets/extreme.pdf)
+
+### Mindful Eating
+
+![mindful](../images/selfcare/Fact%20Sheets/mindfuleating.jpg)
+
+>Mindful Eating Guide PDF
+[download](../files/pdf/Self%20Care/Fact%20Sheets/mindfuleating.pdf)
+
+### Problematic Thinking
+
+![problem](../images/selfcare/Fact%20Sheets/problematicthinking.jpg)
+
+>Problematic Thinking PDF
+[download](../files/pdf/Self%20Care/Fact%20Sheets/problematicthinking.pdf)
+
+### Myths in the Way of Objective Effectiveness
+
+![objective](../images/selfcare/Fact%20Sheets/objective.jpg)
+
+>Myths in The Way of Objective Effectiveness PDF
+[download](../files/pdf/Self%20Care/Fact%20Sheets/objective.pdf)
+
+### Myths in the Way of Relationship
+
+![relationship](../images/selfcare/Fact%20Sheets/selfrespect.jpg)
+
+>Myths in The Way of Relationship PDF
+[download](../files/pdf/Self%20Care/Fact%20Sheets/selfrespect.pdf
+
+### Building a Life Worth Living
+
+![worthliving](../images/selfcare/Fact%20Sheets/worthliving.jpg)
+
+>Building a Life Worth Living PDF
+[download](../files/pdf/Self%20Care/Fact%20Sheets/worthliving.pdf)

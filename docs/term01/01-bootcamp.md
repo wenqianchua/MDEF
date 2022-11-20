@@ -42,7 +42,7 @@ While my fight are issues related to mental health, I am also passionate about r
 
 In the near future, most consumers will be consuming local produce and materials, and be able to recycle waste effectively.
 
-During the meetings with Charlson, Ahmed, Myrtleo, Saher and Stella, it was encouraging to learn that everybody comes from a diverse background with several years of professional experiences, some of them share similar visions as I do. One of them have encouraged me to continue developing my projects on mental health related issues since it meant so much to me.
+During the meetings with Çağsun, Ahmed, Myrto, Seher and Stella, it was encouraging to learn that everybody comes from a diverse background with several years of professional experiences, some of them share similar visions as I do. One of them have encouraged me to continue developing my projects on mental health related issues since it meant so much to me.
 
 >I suffered with trauma, depression, anxiety and personality disorder, thus I worried that I lost myself and get too personal in the process.
 
