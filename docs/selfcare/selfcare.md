@@ -81,7 +81,7 @@ These will be some printable fact sheets that can serve as a reminder whenever y
 ![relationship](../images/selfcare/Fact%20Sheets/selfrespect.jpg)
 
 >Myths in The Way of Relationship PDF
-[download](../files/pdf/Self%20Care/Fact%20Sheets/selfrespect.pdf
+[download](../files/pdf/Self%20Care/Fact%20Sheets/selfrespect.pdf)
 
 ### Building a Life Worth Living
 
