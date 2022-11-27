@@ -16,6 +16,7 @@ repo_url: 'https://github.com/wenqianchua/MDEF'
 #     - Bio & Agri Zero: term01/03-bioagrizero.md
 #     - Living With Your Own Ideas: term01/04-livingwithyourownideas.md
 #     - Tech Beyond The Myth: term01/05-techbeyondthemyth.md
+#     - Community Engagement: term01/06-communityengagement.md
 #   - Self-care Resources: selfcare/selfcare.md
 
 nav:
@@ -29,6 +30,7 @@ nav:
       - Bio & Agri Zero: term01/03-bioagrizero.md
       - Living With Your Own Ideas: term01/04-livingwithyourownideas.md
       - Tech Beyond The Myth: term01/05-techbeyondthemyth.md
+      - Community Engagement: term01/06-communityengagement.md
   - Self-care Resources: selfcare/selfcare.md 
 
 
