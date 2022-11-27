@@ -98,8 +98,6 @@ I plan to execute my ideas in 4 different stages, and I am interested to use in-
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdvfXTo2nq6SS9sF4_wXChZRVuO7bM1MJ0c_Re1Gz3v4iBP2Q/viewform?embedded=true" width="640" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdvfXTo2nq6SS9sF4_wXChZRVuO7bM1MJ0c_Re1Gz3v4iBP2Q/viewform?embedded=true" width="640" height="4521" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
 I have used the [Double Diamond Design Model](https://www.meret.design/double-diamond) as a framework, first exploring all the possibilities, then deciding which part I would like to focus on based on the data and feedback collected for any prospective design intervention.
 
 ![Diamond](../images/week6/diamond.png)
