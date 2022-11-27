@@ -129,7 +129,7 @@ Last but not least, I have included some feedback questions to see how they feel
 
 **Methodology**
 
-1. This methodology has been excerpt partly from It didn’t start with you by Mark Wolynn
+1. This methodology has been excerpt partly from *It didn’t start with you by Mark Wolynn.*
 2. I have prepared the survey in 3 languages to accommodate my targeted users. 
 
 **Demographics**
