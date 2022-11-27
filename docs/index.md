@@ -10,6 +10,11 @@ Hello! :cloud: Professionally trained as an architect, I am a ==UIUX / Product d
 
 [Issuu](https://issuu.com/wenqianchua)
 
+---
+hide:
+    - toc
+---
+
 ## Things I Love
 
 >Painting
