@@ -56,39 +56,41 @@ Both models, before and after, seem like an accurate representation of what the 
 
 In general, I am interested in creating or finding a community that is interested in mental health issues and shows willingness to heal. 
 
-1. Potential participants:
+**Potential participants:**
 - Friends and Family
 - Yoga Community in Malaysia
 - Seattle’s Community
 - MDEF Colleagues
 - Language Exchange community
 
-2. Context
+**Context**
 
-There’s an ancient Hindu story about the gods arguing over where they should keep the secret of happiness. Afraid that humans didn’t deserve or couldn’t handle this secret, they debated where to hide it. 
+>There’s an ancient Hindu story about the gods arguing over where they should keep the secret of happiness. Afraid that humans didn’t deserve or couldn’t handle this secret, they debated where to hide it. 
 
-At first they considered putting it at the top of a high, high mountain, but reasoned that humans would eventually be able to find it. Likewise, they might find it in the darkest forests or at the bottom of the ocean. Finally, an idea struck one of the gods: “I know the perfect place. We will hide the secret of happiness in the deepest depths of their own hearts. They will never bother to look there.”
+*At first they considered putting it at the top of a high, high mountain, but reasoned that humans would eventually be able to find it. Likewise, they might find it in the darkest forests or at the bottom of the ocean. Finally, an idea struck one of the gods: “I know the perfect place. We will hide the secret of happiness in the deepest depths of their own hearts. They will never bother to look there.”*
 
 Most people did not know that we all have the ability to heal ourselves within us. While mental health issues such as depression and anxiety are getting common day by day, there is still not enough knowledge and tool kit available and accessible to the public. 
 
-3. Current Situation
+**Current Situation**
 
 Mental health is a very delicate topic, thus I am exploring ways to be not intrusive, gentle, at the same time allow the user or participants to have the option to turn back or protect themselves should they decided that it is not a safe area. The question is, how can we help people to reach this level of consciousness and bring them into the realization that they have the choice to heal without being intrusive and respecting their boundaries?
 
-4. Engagement and Limits
+**Engagement and Limits**
 
 I am exploring ways to engage participants on a deep level, yet there is still a restriction on creating a ‘safe space’ for them to be open for exploration, especially when it involves strangers. As mental health subjects can get very personal, I wonder where I should stop, and how I should approach the participants without being intrusive.
 
-5. Theory of Change
+**Theory of Change**
 
 If participants can realize that they hold the power to understand themselves better, and all that they have to do is to take the first step and being curious about their own history, perhaps in some way, they will discover part of them that was hidden. This is also a good opportunity for the participants to take some time for themselves.
 
-6. Design challenges and opportunities
+**Design Challenges and Opportunities**
 
 One of the biggest challenges is to reach out to strangers. I had a small community of people that I have been talking to on a language app. We are united in the desire to learn and be proficient in a new language, therefore through daily conversation and practices, we are able to establish trust, enough for them to agree and participate in this activity. Furthermore, this activity is participated by people from a diverse cultural background and geographic location. I also had the opportunity to meet some of them in person to see how it can be translated into a physical workshop.
 
-7. Experience:
+**Experience**
+
 Meeting new people with an open attitude in person and virtually. I am pleasantly surprised by the amount of impact of a small exercise to a person. I also have conducted some follow up interviews on the participant’s personalized experience.
 
-8. Solution:
-People have started to realize that they can take the initiative to learn about their family history and potentially discover that it is a starting point to heal if there are any unresolved feelings. Through learning about their core descriptive language, it is a chance for them to understand the narrative that they are using to perceive the world. For full intervention, check it out under the design studio.
+**Solution**
+
+People have started to realize that they can take the initiative to learn about their family history and potentially discover that it is a starting point to heal if there are any unresolved feelings. Through learning about their core descriptive language, it is a chance for them to understand the narrative that they are using to perceive the world. For full intervention, check it out under the [design studio](https://wenqianchua.github.io/MDEF/term01/00-designstudio/#intervention).
