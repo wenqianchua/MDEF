@@ -193,7 +193,7 @@ Most of my participants learned something new about themselves after carrying ou
 
 **Based on the activity, it is evident that**
 
-1. Not all people is open to talk about their family
+1. Not all people is open to talk about their family.
 
 2. Some space and privacy might be needed should a bigger group of workshops be conducted, or perhaps it is better if we have a private group eg: a group of friends that know each other and are comfortable in sharing these.
 
