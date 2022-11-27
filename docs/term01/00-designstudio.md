@@ -94,7 +94,7 @@ I plan to execute my ideas in 4 different stages, and I am interested to use in-
 3. Will the participant learn something new about themselves through activity?
 4. Will participants are open to participating in something like this in future?
 
-From 24th - 27th of November, I was able to gather responses from 16 people through a guided activity and questionnaire using this [google form](https://forms.gle/Hc41DoBLsiBk42F56). 
+>From 24th - 27th of November, I was able to gather responses from 16 people through a guided activity and questionnaire using this [google form](https://forms.gle/Hc41DoBLsiBk42F56). 
 
 I have used the [Double Diamond Design Model](https://www.meret.design/double-diamond) as a framework, first exploring all the possibilities, then deciding which part I would like to focus on based on the data and feedback collected for any prospective design intervention.
 
