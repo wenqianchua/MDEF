@@ -167,6 +167,8 @@ Most of my participants learned something new about themselves after carrying ou
 
 11. Last but not least, there is no negative feedback for the desire to participate in an activity like this in future.
 
+![image](../images/week6/13.png)
+
 **Based on the activity, it is evident that**
 
 1. Not all people is open to talk about their family
@@ -182,3 +184,4 @@ However, I find that maybe it is too personal for me to have access to all the i
 I prefer to do this activity with someone that I know well. However, I extended out of my comfort zone as most of my participants are randomly selected. This also helps me to put things into perspective, and ensure the compatibility of this activity for a group of strangers.
 
 For future prospective intervention, I would still be interested in finding subtle ways to intervene with the healing process. I hope that it would be a small move, but leaves a big impact to the participants. I also hope that in my future prototype or design, I can provide options to the participants to take charge in designing their own healing and restorative process.
+
