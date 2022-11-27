@@ -36,7 +36,7 @@ This also reminds me of a chinese quote:
 
 It means that when somebody saw a tree, you have to be able to see the whole forest; when somebody sees a light, you have to know  that it is a star. On a wider perspective, I am reminded to take a step back when accessing a situation because sometimes the closer you look, the less you see. Only when you are distancing yourself without involving personal emotions, then you are able to perceive the situation with reason without judgement.
 
-[Group Work Card Deck Info](https://groupworksdeck.org/deck)
+[More on Group Work Card Deck](https://groupworksdeck.org/deck)
 
 ## Social Presencing Theory Workshop
 
