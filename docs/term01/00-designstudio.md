@@ -87,4 +87,96 @@ I plan to execute my ideas in 4 different stages, and I am interested to use in-
 
 ## Intervention
 
+For my intervention, I would like to learn about
 
+1. The willingness for people to embrace the opportunity to heal
+2. Is this model useful to encourage people to learn more about their family?
+3. Will the participant learn something new about themselves through activity?
+4. Will participants are open to participating in something like this in future?
+
+From 24th - 27th of November, I was able to gather responses from 16 people through a guided activity and questionnaire using this [google form](https://forms.gle/Hc41DoBLsiBk42F56). 
+
+I have used the [Double Diamond Design Model](https://www.meret.design/double-diamond) as a framework, first exploring all the possibilities, then deciding which part I would like to focus on based on the data and feedback collected for any prospective design intervention.
+
+![Diamond](../images/week6/diamond.png)
+
+>This intervention is divided into 4 parts. First, I created a short questionnaire as preparation and data gathering.
+
+![Image](../images/week6/Family/3.png)
+
+I have included this image to see if there is a relationship between people acting on the different hemispheres of the brain and the willingness to heal. (Thanks to Antonio for sharing this!)
+
+Then, I prepared a short activity for the participants to trace their family tree and family history. 
+
+![Image 2](../images/week6/Family/1.png)
+
+After that, they will be describing their parents, loved ones and close friends.
+
+![Image 3](../images/week6/Family/2.png)
+
+Last but not least, I have included some feedback questions to see how they feel after the whole activity.
+
+I have been doing this through three ways, the process takes approximately 20-30 minutes:
+
+1. Zoom/ Google meet
+2. Whatsapp
+3. In person
+
+Tools:
+
+1. Google Forms, Device
+2. Pen and Paper
+
+Methodology:
+
+1. This methodology has been excerpt partly from It didn’t start with you by Mark Wolynn
+2. I have prepared the survey in 3 languages to accommodate my targeted users. 
+
+Demographics:
+
+People that have participated in this activity is from Malaysia, Indonesia, Spain, Korea, United States and Canada. I have reached out to family, friends, colleagues, and strangers that I have been talking to in a language learning app.
+
+Their occupations are not limited to students, working professionals, athletes, and instructors.
+
+While carrying out this activity in person, as some part of the activity is quite personal, I tried to look away when the participant is drawing their family tree and writing a description of their parents.
+
+Key findings:
+
+1. Half of my participants do not suffer with mental health issues, and half of them think they might be suffering or are having mental health issues.
+
+2. Most of them are quite close to their family members, their results ranging from the scale of 7-9.
+
+3. When they are asked if they can name any major negative events that happened to their parents, grandparents, and great grandparents, there is a significant increase in the number of ‘No’ as they move further up the family tree. Most of the participants started to lose track of the historical events that might have happened.
+
+4. The question 'how well do you think you know your family history' is repeated twice on my survey to find out how the activity that is carried out will impact the participants' thoughts. We can see this in comparison as the same question is asked before and after the activity. There is a reduction in number for people who voted for scale 7-9 after doing the exercise. We can deduce that after doing the exercise, participants realize that they might not know their family history as well as they think they do.
+
+5. After the exercise, there is quite some positive response that most participants have the intention, or at least not refusing to learn more about their family history.
+
+6. After the activity, we can see that more than half of the participants cannot find something in common that they might share with their ancestors. This is interesting to see as about half of my participants voted that they do not suffer with any mental health issues. I wonder if these two data might be related. Nevertheless, it is great to see that at least close to half of the votes shows that the participants start to realize the relationship between their family history and themselves.
+
+7. For the part of writing a description of their parents and loved ones, based on the data that I have collected, about half of my participants felt surprised after the activity. Thus they might have discovered something that they do not know about themselves previously.
+
+8. There are some people that feels uncomfortable, thus this might be something to take note of in the future sessions. Is this feeling of discomfort beneficial for the activity or should we aim for reducing the discomfort?
+Most of my participants learned something new about themselves after carrying out this activity.
+
+9. Most of my participants are interested to find out more information about their family history after this exercise.
+
+10. Atleast about half of the participants might have experience some change in how the perceive themselves after this activity.
+
+11. Last but not least, there is no negative feedback for the desire to participate in an activity like this in future.
+
+Based on the activity, it is evident that:
+
+1. Not all people is open to talk about their family
+
+2. Some space and privacy might be needed should a bigger group of workshops be conducted, or perhaps it is better if we have a private group eg: a group of friends that know each other and are comfortable in sharing these.
+
+**Conclusion**
+
+>Overall, this is an interesting experience for me as it is uncomfortable, especially for me to ask strangers that I have just been talking to for a few days to participate in this activity.
+
+It also took me some time to design this as in the beginning, I planned to collect the deliverables (their family tree and their descriptions of their loved ones). However, I find that maybe it is too personal for me to have access to all the information. Thus, I switched it up and used a google form instead so that the participants can participate without disclosing their family history.
+
+I prefer to do this activity with someone that I know well. However, I extended out of my comfort zone as most of my participants are randomly selected. This also helps me to put things into perspective, and ensure the compatibility of this activity for a group of strangers.
+
+For future prospective intervention, I would still be interested in finding subtle ways to intervene with the healing process. I hope that it would be a small move, but leaves a big impact to the participants. I also hope that in my future prototype or design, I can provide options to the participants to take charge in designing their own healing and restorative process.
