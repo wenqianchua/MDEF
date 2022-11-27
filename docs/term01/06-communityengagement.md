@@ -4,59 +4,48 @@
 
 *Write a post of your reflection and submit the deliverables on this week's seminar.*
 
-## Reflections
+## Conflict and Relations Mapping
 
-![MVP](../images/week5/Tech01/06_MVP.JPG)
+![Map](../images/week6/1.jpg)
 
->These two weeks have been an eye-opening experience to me, as normally when something is broken in our household, my first instinct would be passing it to my father, my brother or my sister. 
+I created a map with potential ideas. Collectively as a group (Sami, Ramiro, Cagsun, Antonio and I) we are interested in mental health, neuroscience, human interaction with tech and data, human habits and commodities. I am curious on how these points might potentially converge.
 
-They are the engineers in our house. Occasionally I see them taking things and electronics apart, but for some reason, I was never interested enough to stay and observe what they were doing.
+The map shows all the areas of interest in context relating to the potential touchpoint with local communities.
 
-This time, I have no choice but to take a blender apart. I am impressed that I am not as intimidated as I thought I would be. This experience changed me subtly, as I took apart a little device that I have with me that was ‘broken’ for ages after this. It is a [pocket angel](https://shoppocketangel.com/)–a modern personal safety alarm that will create a distraction during an attack. The alarm does not work anymore, so when I took it apart, I tried to inspect what was wrong with it. Then, I replaced the batteries and it worked again. As it is designed with planned obsolescence, it is not really user friendly for people to replace the battery. In the future, if my father, brother or my sister is around, I might still pass the broken electronics to them. Now, it will be slightly different. I will stay and perhaps offer some insights and help.
+##  Mapping the Local Ecosystem
 
->During group work, I had the opportunity to learn communication skills in a cross-functional team. 
+![Local Eco System](../images/week6/2.JPG)
 
-As a designer and a maker, I find it difficult to communicate ideas with a practical and realistic mindset when there is undue confidence in the finalized product. It was a struggle to explain and convince people coming from different backgrounds that things might not work as expected due to the constraints of the materials and resources. It was really hard to move forward when most of the time was spent discussing trivial subjects. Nevertheless, I am grateful for this opportunity to learn, as the instructors and my team members have been very understanding and helpful.
+For this part of the course, we were engaged in a role play to imagine how we can engage in community practice in the shoes of the stakeholders. As a group, it is an interesting experience as it helps to shift focus and perceive the project in other’s perspective. This method would help me to negotiate and communicate with the stakeholders better, since then we can foresee what might be the point of interest for the related parties.
 
-![Amazing Team](../images/week5/Tech01/02_Amazingteammates.JPG)
+![Role Play](../images/week6/3.JPG)
 
-Behind the Scenes of trying to take a video of our 'Distracted Timer'. Fun fact: it fell apart and we spend so much time trying to fix it. 
+![Role Play 2](../images/week6/4.JPG)
 
-![Behind The Scenes](../images/week5/Tech01/08_BTS.JPG)
+##  Group Work Card Deck
 
-Also, one thing that I noticed about my work style is I tend to be more submissive when it comes to decision-making. Even though I have the experiences to stand firm on my decision, I did not voice out. When my thoughts were validated in the end, this has already cost a lot of unnecessary work and resource wastage. This is also something that my manager noted about me during my previous company as a UIUX designer. 
+![Card](../images/week6/5.jpg)
 
->In future, I think there is an opportunity to incorporate technology that I learned here in mental health projects.
+>This was the card that I have chosen from the group work card deck. I would like to remind myself to apply this method in my upcoming design projects. 
 
-When I was working as a Design & Technology instructor, there were DIY projects involving Arduino. Thus, I could make my ‘Crisis / Hope Box’ idea more engaging by programming it with Arduino. There can be a display board that shows encouraging messages, a buzzer that goes off or makes music when somebody might be in distress, and so on. Potentially, there can also be a panic button that will automatically call the emergency contacts whenever somebody press it. I will keep these ideas in mind and see how they evolve as time goes by.
+I have chosen the card ‘Seeing the Forest, Seeing the Tree’ as it reminds me to perceive the bigger picture in any situation. Also, this shows that the any data collected can be used in many ways, and to know how to use it (whether to look at the summary of the data or individual choices) requires wisdom and experience. This also reminds me of a chinese quote: “当别人看见树木的时候，你要看见整片森林；当别人看见光点的时候，你要看见一颗星星”. It means that when somebody saw a tree, you have to be able to see the whole forest; when somebody sees a light, you have to know  that it is a star. On a wider perspective, I am reminded to take a step back when accessing a situation because sometimes the closer you look, the less you see. Only when you are distancing yourself without involving personal emotions, then you are able to perceive the situation with reason without judgement.
 
-## Forensic Report
+[Group Work Card Deck Info](https://groupworksdeck.org/deck)
 
-For the first exercise, we took apart a blender by Electrolux.
+## Social Presencing Theory Workshop
 
-![Blender](../images/week5/Tech01/01_Blenderparts.JPG)
+![Picture](../images/week6/6.jpg)
 
-[Full Report](https://hackmd.io/s/HJBEvhPBo)
+>During this workshop, we learned that sometimes we forget that we can retrieve a lot of information from our body and non verbal communication. 
 
-## The Almost Useful Project
+In fact, our actions are actually part of our subconscious mind. As a class, we have embodied assemblages of both human and non-human actants for sensing underlying dynamics and locating opportunities for action. We use “higher educational system” as a general framework and intentionality.
 
-For the second project, we created a 'Distracted Timer'. We started with an ideation process.
+It is interesting to see our 4D model as a cohort as each person might make a different choice. For my case, I was representing “government” in the system. Therefore, I might project my personal experience while representing the actant. 
 
-![Ideation](../images/week5/Tech01/04_Ideation.JPG)
+![Picture 2](../images/week6/7.JPG)
 
-We also used diagrams to help visualize the entire process flow.
+![Picture 3](../images/week6/8.JPG)
 
-![Diagram](../images/week5/Tech01/05_Diagram.JPG)
+Both models, before and after, seem like an accurate representation of what the current higher education system is and what the ‘ideal’ education system looks like. The model that represents the current system has a sense of hierarchy in it, and the ‘student’ in the system is at the bottom of the hierarchy. In contrast, in the new ‘ideal’ system, the ‘student’ , depicting a warrior pose, holds an active role in deciding the higher education system. 
 
-Our final product after iterations.
-
-![Final](../images/week5/Tech01/07_Final.JPG)
-
-[Presentation](https://www.canva.com/design/DAFSGssYzEA/FqJPNQMS33QH5i-fKP5DVg/view?utm_content=DAFSGssYzEA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-
-[Arduino File](../files/arduino/Combined%20Code/Combined%20Code.ino)
-
-## Course Website
-
-[Full Course Website](https://hackmd.io/QpMIMeepTIqulsaa-o7GAw?view#MDEF-Unpacking-Intelligent-Machines-2223)
-
+## Envisioning My Intervention

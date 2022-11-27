@@ -54,9 +54,7 @@ Our final product after iterations.
 
 [Presentation](https://www.canva.com/design/DAFSGssYzEA/FqJPNQMS33QH5i-fKP5DVg/view?utm_content=DAFSGssYzEA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=6ixf367FpxA">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6ixf367FpxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Arduino File](../files/arduino/Combined%20Code/Combined%20Code.ino)
 
