@@ -87,7 +87,7 @@ I plan to execute my ideas in 4 different stages, and I am interested to use in-
 
 ## Intervention
 
-For my intervention, I would like to learn about
+**For my intervention, I would like to learn about**
 
 1. The willingness for people to embrace the opportunity to heal
 2. Is this model useful to encourage people to learn more about their family?
@@ -116,23 +116,23 @@ After that, they will be describing their parents, loved ones and close friends.
 
 Last but not least, I have included some feedback questions to see how they feel after the whole activity.
 
-I have been doing this through three ways, the process takes approximately 20-30 minutes:
+**I have been doing this through three ways, the process takes approximately 20-30 minutes**
 
 1. Zoom/ Google meet
 2. Whatsapp
 3. In person
 
-Tools:
+**Tools**
 
 1. Google Forms, Device
 2. Pen and Paper
 
-Methodology:
+**Methodology**
 
 1. This methodology has been excerpt partly from It didn’t start with you by Mark Wolynn
 2. I have prepared the survey in 3 languages to accommodate my targeted users. 
 
-Demographics:
+**Demographics**
 
 People that have participated in this activity is from Malaysia, Indonesia, Spain, Korea, United States and Canada. I have reached out to family, friends, colleagues, and strangers that I have been talking to in a language learning app.
 
@@ -140,7 +140,7 @@ Their occupations are not limited to students, working professionals, athletes, 
 
 While carrying out this activity in person, as some part of the activity is quite personal, I tried to look away when the participant is drawing their family tree and writing a description of their parents.
 
-Key findings:
+**Key findings**
 
 1. Half of my participants do not suffer with mental health issues, and half of them think they might be suffering or are having mental health issues.
 
@@ -165,7 +165,7 @@ Most of my participants learned something new about themselves after carrying ou
 
 11. Last but not least, there is no negative feedback for the desire to participate in an activity like this in future.
 
-Based on the activity, it is evident that:
+**Based on the activity, it is evident that**
 
 1. Not all people is open to talk about their family
 
