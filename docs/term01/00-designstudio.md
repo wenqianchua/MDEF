@@ -132,7 +132,7 @@ I have included this image to see if there is a relationship between people acti
 **Methodology**
 
 1. This methodology has been excerpt partly from *It didn’t start with you by Mark Wolynn.*
-2. I have prepared the survey in 3 languages to accommodate my targeted users. 
+2. I have prepared the survey in 3 languages- English, Korean and Spanish to accommodate my targeted participants. 
 
 **Demographics**
 
