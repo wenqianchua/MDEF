@@ -64,7 +64,7 @@ In general, I am interested in creating or finding a community that is intereste
 2. Yoga Community in Malaysia
 3. Seattle’s Community
 4. MDEF Colleagues
-5. Language Exchange community
+5. Language Exchange Community
 
 **Context**
 
