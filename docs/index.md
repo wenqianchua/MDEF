@@ -10,7 +10,7 @@ Hello! :cloud: Professionally trained as an architect, I am a ==UIUX / Product d
 
 [Issuu](https://issuu.com/wenqianchua)
 
-## Things That Makes Me Happy
+## Things I Love
 
 >Painting
 
