@@ -89,7 +89,7 @@ I plan to execute my ideas in 4 different stages, and I am interested to use in-
 
 **For my intervention, I would like to learn about**
 
-1. The willingness for people to embrace the opportunity to heal
+1. The willingness for people to embrace the opportunity to heal.
 2. Is this model useful to encourage people to learn more about their family?
 3. Will the participant learn something new about themselves through activity?
 4. Will participants are open to participating in something like this in future?
