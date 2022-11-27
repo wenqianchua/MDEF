@@ -57,11 +57,12 @@ Both models, before and after, seem like an accurate representation of what the 
 In general, I am interested in creating or finding a community that is interested in mental health issues and shows willingness to heal. 
 
 **Potential participants:**
-- Friends and Family
-- Yoga Community in Malaysia
-- Seattle’s Community
-- MDEF Colleagues
-- Language Exchange community
+
+1. Friends and Family
+2. Yoga Community in Malaysia
+3. Seattle’s Community
+4. MDEF Colleagues
+5. Language Exchange community
 
 **Context**
 
