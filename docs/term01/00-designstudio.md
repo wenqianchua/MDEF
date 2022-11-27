@@ -173,9 +173,9 @@ Most of my participants learned something new about themselves after carrying ou
 
 **Conclusion**
 
->Overall, this is an interesting experience for me as it is uncomfortable, especially for me to ask strangers that I have just been talking to for a few days to participate in this activity.
+>Overall, this is an interesting experience for me as it is uncomfortable, especially for me to ask strangers that I have just been talking to for a few days to participate in this activity. It also took me some time to design this as in the beginning, I planned to collect the deliverables (their family tree and their descriptions of their loved ones). 
 
-It also took me some time to design this as in the beginning, I planned to collect the deliverables (their family tree and their descriptions of their loved ones). However, I find that maybe it is too personal for me to have access to all the information. Thus, I switched it up and used a google form instead so that the participants can participate without disclosing their family history.
+However, I find that maybe it is too personal for me to have access to all the information. Thus, I switched it up and used a google form instead so that the participants can participate without disclosing their family history.
 
 I prefer to do this activity with someone that I know well. However, I extended out of my comfort zone as most of my participants are randomly selected. This also helps me to put things into perspective, and ensure the compatibility of this activity for a group of strangers.
 
