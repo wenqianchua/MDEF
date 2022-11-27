@@ -106,15 +106,15 @@ I have used the [Double Diamond Design Model](https://www.meret.design/double-di
 
 I have included this image to see if there is a relationship between people acting on the different hemispheres of the brain and the willingness to heal. (Thanks to Antonio for sharing this!)
 
-Then, I prepared a short activity for the participants to trace their family tree and family history. 
+>Then, I prepared a short activity for the participants to trace their family tree and family history. 
 
 ![Image 2](../images/week6/Family/1.png)
 
-After that, they will be describing their parents, loved ones and close friends.
+>After that, they will be describing their parents, loved ones and close friends.
 
 ![Image 3](../images/week6/Family/2.png)
 
-Last but not least, I have included some feedback questions to see how they feel after the whole activity.
+>Last but not least, I have included some feedback questions to see how they feel after the whole activity.
 
 **I have been doing this through three ways, the process takes approximately 20-30 minutes**
 
