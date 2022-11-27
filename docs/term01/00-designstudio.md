@@ -169,7 +169,7 @@ Most of my participants learned something new about themselves after carrying ou
 
 11. Last but not least, there is no negative feedback for the desire to participate in an activity like this in future.
 
-![image](../images/week6/13.png)
+![image](../images/week6/N.png)
 
 **Based on the activity, it is evident that**
 
