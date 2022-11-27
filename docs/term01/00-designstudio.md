@@ -114,9 +114,9 @@ I have included this image to see if there is a relationship between people acti
 
 ![Image 3](../images/week6/Family/2.png)
 
->Last but not least, I have included some feedback questions to see how they feel after the whole activity.
+>Last but not least, I have included some feedback questions to see how they feel after the whole activity. The whole process takes approximately 20-30 minutes.
 
-**I have been doing this through three ways, the process takes approximately 20-30 minutes**
+**I have been doing this through three ways**
 
 1. Zoom/ Google meet
 2. Whatsapp
