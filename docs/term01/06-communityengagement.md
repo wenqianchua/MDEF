@@ -24,11 +24,15 @@ For this part of the course, we were engaged in a role play to imagine how we ca
 
 ##  Group Work Card Deck
 
-![Card](../images/week6/5.jpg)
+![Card](../images/week6/5.JPG)
 
 >This was the card that I have chosen from the group work card deck. I would like to remind myself to apply this method in my upcoming design projects. 
 
-I have chosen the card ‘Seeing the Forest, Seeing the Tree’ as it reminds me to perceive the bigger picture in any situation. Also, this shows that the any data collected can be used in many ways, and to know how to use it (whether to look at the summary of the data or individual choices) requires wisdom and experience. This also reminds me of a chinese quote: “当别人看见树木的时候，你要看见整片森林；当别人看见光点的时候，你要看见一颗星星”. It means that when somebody saw a tree, you have to be able to see the whole forest; when somebody sees a light, you have to know  that it is a star. On a wider perspective, I am reminded to take a step back when accessing a situation because sometimes the closer you look, the less you see. Only when you are distancing yourself without involving personal emotions, then you are able to perceive the situation with reason without judgement.
+I have chosen the card ‘Seeing the Forest, Seeing the Tree’ as it reminds me to perceive the bigger picture in any situation. Also, this shows that the any data collected can be used in many ways, and to know how to use it (whether to look at the summary of the data or individual choices) requires wisdom and experience. 
+
+>This also reminds me of a chinese quote: “当别人看见树木的时候，你要看见整片森林；当别人看见光点的时候，你要看见一颗星星”. 
+
+It means that when somebody saw a tree, you have to be able to see the whole forest; when somebody sees a light, you have to know  that it is a star. On a wider perspective, I am reminded to take a step back when accessing a situation because sometimes the closer you look, the less you see. Only when you are distancing yourself without involving personal emotions, then you are able to perceive the situation with reason without judgement.
 
 [Group Work Card Deck Info](https://groupworksdeck.org/deck)
 
