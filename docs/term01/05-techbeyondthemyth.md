@@ -52,7 +52,7 @@ Our final product after iterations.
 
 ![Final](../images/week5/Tech01/07_Final.JPG)
 
-**Distracted Timer Video**
+>Distracted Timer Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6ixf367FpxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
