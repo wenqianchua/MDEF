@@ -9,6 +9,7 @@ repo_url: 'https://github.com/wenqianchua/MDEF'
 
 # nav:
 #  - Home: index.md
+#  - Master Project: project/project.md
 #  - Works Term 1: reflections/reflections.md
 #     - Design Studio: term01/00-designstudio.md
 #     - Bootcamp: term01/01-bootcamp.md
@@ -17,10 +18,12 @@ repo_url: 'https://github.com/wenqianchua/MDEF'
 #     - Living With Your Own Ideas: term01/04-livingwithyourownideas.md
 #     - Tech Beyond The Myth: term01/05-techbeyondthemyth.md
 #     - Community Engagement: term01/06-communityengagement.md
+#     - Extended Intelligences: term01/07-extendedintelligences.md
 #   - Self-care Resources: selfcare/selfcare.md
 
 nav:
   - Home: index.md
+  - Master Project: project/project.md
   - Works: 
     - reflections/index.md
     - Term 1:
@@ -31,6 +34,7 @@ nav:
       - Living With Your Own Ideas: term01/04-livingwithyourownideas.md
       - Tech Beyond The Myth: term01/05-techbeyondthemyth.md
       - Community Engagement: term01/06-communityengagement.md
+      - Extended Intelligences: term01/07-extendedintelligences.md
   - Self-care Resources: selfcare/selfcare.md 
 
 
