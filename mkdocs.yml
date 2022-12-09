@@ -9,7 +9,7 @@ repo_url: 'https://github.com/wenqianchua/MDEF'
 
 # nav:
 #  - Home: index.md
-#  - Master Project: project/project.md
+#  - Master's Project: project/project.md
 #  - Works Term 1: reflections/reflections.md
 #     - Design Studio: term01/00-designstudio.md
 #     - Bootcamp: term01/01-bootcamp.md
@@ -23,7 +23,7 @@ repo_url: 'https://github.com/wenqianchua/MDEF'
 
 nav:
   - Home: index.md
-  - Master Project: project/project.md
+  - Master's Project: project/project.md
   - Works: 
     - reflections/index.md
     - Term 1:
