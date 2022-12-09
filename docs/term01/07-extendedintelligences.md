@@ -4,7 +4,7 @@
 
 *Write a post of your reflection and submit the deliverables on this week's seminar.*
 
-## Reflection
+## Reflections
 
 >Through this week, I was surprised with the high accessibility to the available AI tools on the internet. It has been a rewarding journey as I am very interested in this topic.
 
