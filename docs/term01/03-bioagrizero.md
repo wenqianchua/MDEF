@@ -18,7 +18,7 @@
 
 ## Reflections
 
-This week, we experimented with raw materials and were able to create some interesting prototypes. One of these prototypes was a bio plastic which was made using materials that were accessible and mostly found in the kitchen. Personally, I found this process interesting because I was not aware that all the necessary materials were so easily accesible. This opens up a huge possibility to make our own bio materials as we can do all these without needing a lab. All we need is just everyday things and our very own kitchen.
+This week, we experimented with raw materials and were able to create some interesting prototypes. One of these prototypes was a bio plastic which was made using materials that were accessible and mostly found in the kitchen. Personally, I found this process rewarding because I was not aware that all the necessary materials were so easily accesible. This opens up a huge possibility to make our own bio materials as we can do all these without needing a lab. All we need is just everyday things and our very own kitchen.
 
 Since I took biology in high school and college, a lot of the procedures seem familiar. However, after the visit to the laboratory:  PRBB - Barcelona Biomedical Research Park, I am impressed by the tools and materials that were used in a professional setting. I feel very humbled after seeing all the different type of experiments that were being carried out. It seems like a science fiction movie in reality.
 
