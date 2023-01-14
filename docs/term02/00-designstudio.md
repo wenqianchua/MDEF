@@ -18,7 +18,7 @@ intervention of the second trimester.*
 
 >Innerbot
 
-![Innerbot](../images/term02/01_Design%20Studio/Innerbot%20First%20Intervention.png)
+![Innerbot](../images/term02/01_Design%20Studio/Innerbot%20First%20Intervention.jpg)
 
 Innerbot is a GPT3 powered mobile application that uses real data to help users connect with simulated versions of themselves or others. 
 
