@@ -35,7 +35,8 @@ Write a first draft of a letter sent by your future-self in the 2050s (handwritt
 
 Image:
 
-[Letter](../images/term02/03_dnbs/Letter%20to%20Future%20Self.jpg)
+![Letter](../images/term02/03_dnbs/Letter%20to%20Future%20Self.jpg)
+
 
 Transcript:
 
