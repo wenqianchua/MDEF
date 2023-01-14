@@ -15,7 +15,9 @@ These are some takeaway that I had after the lecture series:
 - The paradox is that the more efficiently we use resources, then the more we use those resources.
 Honourable Harvest: Take only what you need and ask permission from the producer (plant).
 
-### Assignment: A Day in My Post Technological Life in 2050s
+## Assignment
+
+### A Day in My Post Technological Life in 2050s
 
 I design this series of slides with a couple ideas in mind:
 
@@ -27,7 +29,7 @@ I also think that sometimes our hearts are blinded by earthen desires. We never 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTguGCk5sdrSJcXFht-aPOMPHG74MFRCqDdZnoEbyPrnzkzp8T0ywHC9tsCnNgQDm07RCOoNcSrKUAc/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-[Full insturction and template](https://docs.google.com/document/u/0/d/1ci5qoF0lF__JAoZTKm0PInE1hpZfkf0Z3hcFq8-QecA/mobilebasic)
+[Full instruction and template](https://docs.google.com/document/u/0/d/1ci5qoF0lF__JAoZTKm0PInE1hpZfkf0Z3hcFq8-QecA/mobilebasic)
 
 ### First Draft Letter from your future self
 
