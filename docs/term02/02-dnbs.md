@@ -29,16 +29,15 @@ I also think that sometimes our hearts are blinded by earthen desires. We never 
 
 [Full insturction and template](https://docs.google.com/document/u/0/d/1ci5qoF0lF__JAoZTKm0PInE1hpZfkf0Z3hcFq8-QecA/mobilebasic)
 
->First Draft Letter from your future self
+### First Draft Letter from your future self
 
-Write a first draft of a letter sent by your future-self in the 2050s (handwritten)
+>Write a first draft of a letter sent by your future-self in the 2050s (handwritten)
 
 Image:
 
 ![Letter](../images/term02/03_dnbs/Letter%20to%20Future%20Self.jpg)
 
-
-Transcript:
+>Transcript:
 
 Dear Qian,
 
@@ -65,9 +64,9 @@ Love,
 Qian
 01092050
 
->Group Work
+### Group Work
 
-Opening your (intercitizen) time capsules. Stories that encourage critical hope, intergenerational solidarity and interspecies love, in worlds governed by Honourable Harvest principles, that adopted regrowth.
+>Opening your (intercitizen) time capsules. Stories that encourage critical hope, intergenerational solidarity and interspecies love, in worlds governed by Honourable Harvest principles, that adopted regrowth.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS7tnJqhrtutE8Y1bICqQlaVaJ3NJwQvbyGnUVXdm9SDB-09C5220zG6j6sWi0tNA/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 

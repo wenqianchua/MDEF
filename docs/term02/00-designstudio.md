@@ -18,6 +18,8 @@ intervention of the second trimester.*
 
 >Innerbot
 
+![Innerbot](../images/term02/01_Design%20Studio/Innerbot%20First%20Intervention.png)
+
 Innerbot is a GPT3 powered mobile application that uses real data to help users connect with simulated versions of themselves or others. 
 
 >Key Learnings
@@ -35,6 +37,8 @@ Innerbot is a GPT3 powered mobile application that uses real data to help users 
 - Some users feel uncomfortable with the notion of machines one day having the ability to write so humanly and eventually begets the question of what it means to be human? Especially if the "Geist" is so easily captured by a non-living object. 
 
 >Building the Futures.
+
+![Futures](../images/term02/01_Design%20Studio/First%20iteration%20-%20Park%20intervention%20with%20children%203-6%20years%20old.jpeg)
 
 This is an intervention where we co-creating and imagine futures with and for children in public spaces and schools in Barcelona.
 
@@ -64,7 +68,11 @@ This is an intervention where we co-creating and imagine futures with and for ch
 
 ### General Reflections
 
+![Reflection](../images/term02/01_Design%20Studio/08_DesignDialouguePrep.JPG)
+
 Through my projects, I learned how to collaborate with people from different backgrounds. I had the opportunity to collaborate with experts from their fields and I was able to learn from how they work. Secondly, I learned how to apply AI and technology on subjects related to healing and mental health. In the beginning, I thought that it is quite hard to relate mental health with current technologies, as research suggests that the use of technology, increased screen time especially social media links to negative effects to mental health. Right now, I think technology could be used as  a tool in healing. Third, I also noticed that it was not easy to work with a subject that can be quite heavy and personal to some people. Therefore, I am starting to observe ways that can be more subtle and gentle.
+
+![Reflection](../images/term02/01_Design%20Studio/Park%20intervention.jpeg)
 
 For co-creating futures with the kids project, we learned a lot through our intervention. It is important to just go out and try out our ideas even though the activity might seem imperfect. As we planned our intervention to have an activity with the kids in school, it is good that through executing it earlier with the park intervention, we failed early, and were able to try things out. We were able to learn our point of failure and the parents were happy to help us. This will help us to be mindful and design a better activity when engaging with school children.
 
