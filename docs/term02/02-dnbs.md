@@ -59,11 +59,14 @@ Whenever you are in pain or immersed in happiness, remember: This all shall pass
 Take good care of your siblings, parents and family members, as they are the best gift in your life. Remember, you are more capable than you think you are.
 
 切记，为人处事正直善良，好事多做点，做人不怕吃亏，如果吃亏就是赚到的。
+
 勿忘初心，落棋无悔。
 
 Live on!
+
 Love,
 Qian
+
 01092050
 
 ### Group Work
