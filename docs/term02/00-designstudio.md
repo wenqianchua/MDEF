@@ -82,4 +82,10 @@ Through my projects, I learned how to collaborate with people from different bac
 
 For co-creating futures with the kids project, we learned a lot through our intervention. It is important to just go out and try out our ideas even though the activity might seem imperfect. As we planned our intervention to have an activity with the kids in school, it is good that through executing it earlier with the park intervention, we failed early, and were able to try things out. We were able to learn our point of failure and the parents were happy to help us. This will help us to be mindful and design a better activity when engaging with school children.
 
+### Updated Design Space
 
+My Design Space might look a little different than the conventional ones, but this is what make sense to me and I was able to work in this format better compared to the initial design space. Thus, I will keep building on my design space with this format. For full prototype of my design space, please check [here](https://wenqianchua.github.io/MDEF/reflections/)
+
+![Design Space 1](../images/term02/01_Design%20Studio/Design%20Space%201.jpg)
+
+![Design Space 2](../images/term02/01_Design%20Studio/Design%20Space%202.jpg)
