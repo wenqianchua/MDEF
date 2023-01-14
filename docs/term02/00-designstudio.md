@@ -36,7 +36,7 @@ Innerbot is a GPT3 powered mobile application that uses real data to help users 
 - When asking general questions such as future plans, etc, we get general answers. When asking more intricate and detailed question, we get a response that will better depict who the user are as a person
 - Some users feel uncomfortable with the notion of machines one day having the ability to write so humanly and eventually begets the question of what it means to be human? Especially if the "Geist" is so easily captured by a non-living object. 
 
->Building the Futures.
+>Building the Futures
 
 ![Futures](../images/term02/01_Design%20Studio/First%20iteration%20-%20Park%20intervention%20with%20children%203-6%20years%20old.jpeg)
 
