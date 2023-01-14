@@ -19,6 +19,10 @@ repo_url: 'https://github.com/wenqianchua/MDEF'
 #     - Tech Beyond The Myth: term01/05-techbeyondthemyth.md
 #     - Community Engagement: term01/06-communityengagement.md
 #     - Extended Intelligences: term01/07-extendedintelligences.md
+#   - Works Term 2: reflections/reflections.md
+#     - Design Studio: term02/00-designstudio.md
+#     - Future Talks: term02/01-futuretalks.md
+#     - Design for the Next Billion Seconds: term02/02-dnbs.md
 #   - Self-care Resources: selfcare/selfcare.md
 
 nav:
@@ -35,6 +39,10 @@ nav:
       - Tech Beyond The Myth: term01/05-techbeyondthemyth.md
       - Community Engagement: term01/06-communityengagement.md
       - Extended Intelligences: term01/07-extendedintelligences.md
+    - Term 2:
+      - Design Studio: term02/00-designstudio.md
+      - Future Talks: term02/01-futuretalks.md
+      - Design for the Next Billion Seconds: term02/02-dnbs.md
   - Self-care Resources: selfcare/selfcare.md 
 
 
