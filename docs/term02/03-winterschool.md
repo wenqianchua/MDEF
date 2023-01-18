@@ -31,7 +31,7 @@ So, a place exists as part of our experience - but the experience of space is al
 
 ### Digital Postcard
 
-We had multiple discussion on indegeneity. Also, we argue that indegeneity can be from a person but not the place. For example, if somebody is bringing the culture from where they were from to a foreign land, they could still bring a sense of indegeneity of their own culture.
+We had multiple discussion on indegeneity. Also, we argue that indegeneity can be from a person but not the place. For example, if somebody is going to a foreign land, they could still bring a sense of indegeneity of their own culture to the new place.
 
 In the assignment of creating a digital postcard, as a group, we discussed about the iconic Sagrada Familia. Ironically, it is built for the people of Barcelona, but most locals think that the church does not belong to them anymore as it was bombarded by tourists.
 
