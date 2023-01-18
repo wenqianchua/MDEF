@@ -6,7 +6,13 @@
 During the first week of Winter School from the 16th to 20th, I learned about the auto-ehthnographic in Design, Creative placemaking design and also Sensory Mapping. On the first day, Albert shared this [lecture slide](../files/pdf/Winter%20School/Winter%20School_MethodologicalApproach.pdf). It made me reflect about my position as a designer in relation to my surroundings.
 
 ### Sensory Methods
-During the lecture with Zsofia, we explored methods to design with the idea of place as a sensory experience in this [lecture slide](../files/pdf/Winter%20School/Sensory%20Methods_GSA_Winterschool_2023_small.pdf). One of the activity that we did was to execute a sensory walk around the city. Together as a cohort, we contributed to a collective Miro Board.
+During the lecture with Zsofia, we explored methods to design with the idea of place as a sensory experience in this [lecture slide](../files/pdf/Winter%20School/Sensory%20Methods_GSA_Winterschool_2023_small.pdf). 
+
+For more information and resources, check out the Padlet below:
+
+<div class="padlet-embed" style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><p style="padding:0;margin:0"><iframe src="https://padlet.com/embed/pzcqr64u6fvqklh4" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></p><div style="display:flex;align-items:center;justify-content:end;margin:0;height:28px"><a href="https://padlet.com?ref=embed" style="display:block;flex-grow:0;margin:0;border:none;padding:0;text-decoration:none" target="_blank"><div style="display:flex;align-items:center;"><img src="https://padlet.net/embeds/made_with_padlet_2022.png" width="114" height="28" style="padding:0;margin:0;background:0 0;border:none;box-shadow:none" alt="Made with Padlet"></div></a></div></div>
+
+One of the activity that we did was to execute a sensory walk around the city. Together as a cohort, we contributed to a collective Miro Board.
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPxCpuWM=/?moveToViewport=-167942,-56781,576000,292800&embedId=301711962558" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
