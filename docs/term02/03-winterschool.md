@@ -37,4 +37,4 @@ In the assignment of creating a digital postcard, as a group, we discussed about
 
 We created a platform for ourselves to share thoughts and ideas.
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FiYuiesbOj0pfLo7Hb6XBBt%2FGroup-8-Winter-School-2022%3Fnode-id%3D0%253A1%26t%3DLOdGSIBG2J2ksSR2-1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FiYuiesbOj0pfLo7Hb6XBBt%2FGroup-8-Winter-School-2022%3Fnode-id%3D0%253A1%26t%3De1IhdN8O0UHvUnov-1" allowfullscreen></iframe>
