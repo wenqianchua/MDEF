@@ -17,11 +17,13 @@ One of the activity that we did was to execute a sensory walk around the city. T
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPxCpuWM=/?moveToViewport=-167942,-56781,576000,292800&embedId=301711962558" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 I have documented my personal experience, focusing on the sense of smell and sound during this project.
-Full PDF of the project can be found [here](../files/pdf/Winter%20School/Winter%20Slides.pdf)
+Full PDF of the project can be found [here](../files/pdf/Winter%20School/Winter%20Slides.pdf).
 
 During the presentation, we have discussed the notion of sound can be so powerful as it brings back us in time. It allows us to access our memories and feelings just from some chemical substances.
 
-One feedback that I got is smell, like taste, is a very personal and intimate sensory experience - they both rely upon other means of communication to be shared. They demand dialogue and interaction to move from individual to share, even though they are experienced by all, sometimes simultaneously. Like the wind, perhaps they are made visible by their “effects”? Unlike sense sound and vision that can be depicted easilty with our electronic device,the experience of smell and taste could not be transfered to the user electronically.
+>One feedback that I got is smell, like taste, is a very personal and intimate sensory experience - they both rely upon other means of communication to be shared.
+
+They demand dialogue and interaction to move from individual to share, even though they are experienced by all, sometimes simultaneously. Like the wind, perhaps they are made visible by their 'effects'? Unlike sense sound and vision that can be depicted easilty with our electronic device,the experience of smell and taste could not be transfered to the user electronically.
 
 Another interesting conversation that raised during our discussion is to think of “place” as a transient space, as an event that comes and goes, that is defined more by time than space. Does this make our sensory interaction and engagement more important, and our recording of something that is ephemeral? Place as a vanishing phenomenon?
 
