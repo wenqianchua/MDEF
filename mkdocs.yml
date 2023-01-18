@@ -23,6 +23,8 @@ repo_url: 'https://github.com/wenqianchua/MDEF'
 #     - Design Studio: term02/00-designstudio.md
 #     - Future Talks: term02/01-futuretalks.md
 #     - Design for the Next Billion Seconds: term02/02-dnbs.md
+#     - Winter School Indigeneity and Adpatation: term02/03-winterschool.md
+#     - Remixing Materials: term02/04-remxingmaterials.md
 #   - Self-care Resources: selfcare/selfcare.md
 
 nav:
@@ -43,6 +45,8 @@ nav:
       - Design Studio: term02/00-designstudio.md
       - Future Talks: term02/01-futuretalks.md
       - Design for the Next Billion Seconds: term02/02-dnbs.md
+      - Winter School Indegeneity and Adaptation: term02/03-winterschool.md
+      - Remixing Materials: term02/04-remixingmaterials.md
   - Self-care Resources: selfcare/selfcare.md 
 
 
