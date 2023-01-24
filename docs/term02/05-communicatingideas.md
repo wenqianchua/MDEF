@@ -1,0 +1,7 @@
+
+# Communicating Ideas
+
+## Assignment 
+
+TBD
+
