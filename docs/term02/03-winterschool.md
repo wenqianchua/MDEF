@@ -39,7 +39,7 @@ We created a platform for ourselves to share thoughts and ideas.
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FiYuiesbOj0pfLo7Hb6XBBt%2FGroup-8-Winter-School-2022%3Fnode-id%3D0%253A1%26t%3De1IhdN8O0UHvUnov-1" allowfullscreen></iframe>
 
-### Using Design as a tool to explore place
+### Using Design as a Tool to Explore Place
 
 As a group, we decided to focus on topics related to equality, materials and craft and wellbeing. In the end, we choose human interaction as our topic.
 
