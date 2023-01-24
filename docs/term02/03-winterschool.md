@@ -39,4 +39,22 @@ We created a platform for ourselves to share thoughts and ideas.
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FiYuiesbOj0pfLo7Hb6XBBt%2FGroup-8-Winter-School-2022%3Fnode-id%3D0%253A1%26t%3De1IhdN8O0UHvUnov-1" allowfullscreen></iframe>
 
-### 
+### Using Design as a tool to explore place
+
+As a group, we decided to focus on topics related to equality, materials and craft and wellbeing. In the end, we choose human interaction as our topic.
+
+[Miro Board] https://miro.com/app/board/uXjVPxdCZvM=/?moveToWidget=3458764544041828569&cot=10
+
+>We decided to have more flexibility in choosing our own action and see how we could connect each of our individual action based on our theme. For my action, I have chosen to use my on going project here in Barcelona to study the relationship between my action with the interaction with children.
+
+**Context**
+I am executing a small workshop with primary school children in Barcelona. We will be facilitating the workshop where the children imagine future scenario on topic related to climate change and gender equity. They will be making a collage of the future scenario in different settings, for example: future for the park, for the school, sports, etc. based on the theme we selected.
+
+**Action**
+
+As a facilitator, our goal is to collect children's idea of the future without influencing their creative process. I will be observing the difference between their interaction among their peers vs adult (facilitators and teachers) during this project. I will also observe how can we communicate with the children more efficiently using body language, expression and choice of words during the workshop.
+Outcome
+
+**Outcome**
+
+This action should leave me with a better understanding on how to collaborate and communicate with children better from an adult perspective. This would also help me to understand how does children think and act, and as an adult, how can we provide guidance without influencing their creativity. This would help me if I were to design a system or educational content relating to children in the future.

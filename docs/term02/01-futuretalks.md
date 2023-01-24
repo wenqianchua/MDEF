@@ -6,7 +6,7 @@
 
 ### Reflection
 
-During the Future Talk series with Audrey Desjardins, my key takeaway Us is to use design as a mode of enquiry, and also using design to articulate questions rather than a final product. This is very relevant with my learning experience in the MDEF program. As an experienced designer, I spent the first five years in my career and academia using design to create a desired product. Ever since I started my interventions, I noticed that I am using design as a tool to enlighten doubts that I have. Now, I trust the design process and see what the output would be.
+During the Future Talk series with Audrey Desjardins, my key takeaway is to use design as a mode of enquiry, and also using design to articulate questions rather than a final product. This is very relevant with my learning experience in the MDEF program. As an experienced designer, I spent the first five years in my career and academia using design to create a desired product. Ever since I started my interventions, I noticed that I am using design as a tool to enlighten doubts that I have. Now, I trust the design process and see what the output would be.
 
 I have the opportunity to share some of my doubts with Dr. Desjardins. One of my main concerns is what would be the boundaries or guidelines when we are doing research on mental health. While currently there is no clear board that states the rules and regulations for executing research as such, from what I learnt, it is important to understand and be very mindful of which community we are working together with.
 
