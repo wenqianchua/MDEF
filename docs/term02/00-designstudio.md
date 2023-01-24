@@ -129,7 +129,7 @@ We will be using magazine pictures and worksheets showing pictures of places, su
 ### Alternative Presents
 
 
-As a team, our intention is to collect the ideas that they generated and work on it and continue to be inspired by the collage that they made. Questions that we asked ourselves include:
+>As a team, our intention is to collect the ideas that they generated and work on it and continue to be inspired by the collage that they made. Questions that we asked ourselves include:
 
 - Is there a difference between their interaction among their peers vs adults (facilitators and teachers) during this project?
 - As a facilitator, how can we communicate with the children more efficiently using body language, expression and choice of words?
@@ -147,9 +147,8 @@ We foresee a few potentials, including creating a standard workshop so that any 
 
 ### Next Steps
 
-As a team, we would be preparing for another intervention shortly for two other classes on the same day. To be well equipped for the next intervention, we will be refining our project by preparing more materials (pictures and worksheet), find a way to forecast the children’s collage and so that everybody can see it during the sharing session, and also keep our presentation time short and quick. We did well in time keeping so we would try to keep that up. We will see what happens during our next intervention and decide how to move forward from that.
+We would be preparing for another intervention shortly for two other classes on the same day. To be well equipped for the next intervention, we will be refining our project by preparing more materials (pictures and worksheet), find a way to forecast the children’s collage and so that everybody can see it during the sharing session, and also keep our presentation time short and quick. We did well in time keeping so we would try to keep that up. We will see what happens during our next intervention and decide how to move forward from that.
 
-
-
+### Presentation
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQiCsmH_SjnIBAuwOatagBR0MqHWonFWqyWF6EM-KWvRnaQn73rRRN2PPkVqKCn-PLY6PoCH4_r-PCO/embed?start=true&loop=true&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
