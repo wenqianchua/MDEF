@@ -43,7 +43,7 @@ We created a platform for ourselves to share thoughts and ideas.
 
 As a group, we decided to focus on topics related to equality, materials and craft and wellbeing. In the end, we choose human interaction as our topic.
 
-[Miro Board] https://miro.com/app/board/uXjVPxdCZvM=/?moveToWidget=3458764544041828569&cot=10
+[Miro Board](https://miro.com/app/board/uXjVPxdCZvM=/?moveToWidget=3458764544041828569&cot=10)
 
 >We decided to have more flexibility in choosing our own action and see how we could connect each of our individual action based on our theme. For my action, I have chosen to use my on going project here in Barcelona to study the relationship between my action with the interaction with children.
 
