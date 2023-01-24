@@ -45,7 +45,9 @@ As a group, we decided to focus on topics related to equality, materials and cra
 
 [Miro Board](https://miro.com/app/board/uXjVPxdCZvM=/?moveToWidget=3458764544041828569&cot=10)
 
->We decided to have more flexibility in choosing our own action and see how we could connect each of our individual action based on our theme. For my action, I have chosen to use my on going project here in Barcelona to study the relationship between my action with the interaction with children.
+>We decided to have more flexibility in choosing our own action and see how we could connect each of our individual action based on our theme. 
+
+For my action, I have chosen to use my on going project here in Barcelona to study the relationship between my action with the interaction with children.
 
 **Context**
 I am executing a small workshop with primary school children in Barcelona. We will be facilitating the workshop where the children imagine future scenario on topic related to climate change and gender equity. They will be making a collage of the future scenario in different settings, for example: future for the park, for the school, sports, etc. based on the theme we selected.
