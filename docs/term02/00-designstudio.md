@@ -96,3 +96,60 @@ My Design Space might look a little different than the conventional ones, but th
 ![Design Space 1](../images/term02/01_Design%20Studio/Design%20Space%201.jpg)
 
 ![Design Space 2](../images/term02/01_Design%20Studio/Design%20Space%202.jpg)
+
+
+## Design Intervention in Context
+
+*Deliverables*
+
+*Document the 1PP design intervention, analyze it and reflect on the findings. Describe the alternative present scenario that this intervention is offering. Then, update your design with the relations you have built.*
+
+### Reflections
+
+As our first official intervention after our experimentation in the park, we carried out our first workshop in Collegi Sant Andreu (Infantil - Primària) with 7 years old school children.
+
+This would be a 60 minutes workshop, carried out with 25 students.
+
+We will be facilitating the workshop where the children imagine future scenarios on topics related to climate change and gender equity. They will be making a collage of the future scenario in different settings, for example: future for the park, for the school, sports, etc. based on the theme we selected.
+
+We will be using magazine pictures and worksheets showing pictures of places, such as parks, schools, zoos, and etc. We are using 'local' images so that the children can familiarize themselves with it.
+
+### General Observations
+
+
+- Children at the age of 7 are very obedient when everybody is doing the same thing. For example, when the children are getting too noisy, we raise one of our hands as a signal for everyone to pay attention. As a result, every child followed the action and they were able to keep quiet and pay attention.
+- Furthermore, when dealing with children, they have a very short attention span. It is hard to keep them engaged and ask them to listen while the other group is presenting.
+- Children tend to speak freely among their peers and have an activated discussion. 
+- There is a difference between children age 7 and age 13/14 when interacting with an adult. Teenagers interact with an adult like a 'friend' whereas little kids will feel a little shy.
+- When guiding the activity, as facilitator, we try not to give concrete examples so that they have more room to be creative and create their own collage.
+- In the process of explaining, we tend to squat down so that we are at the same eye level with the children.
+- Children prefer hands-on activity rather than presentation to keep engaged. I notice that when we are showing slides, some of the children start to get distracted, whereas when we are doing the physical activity, most of them are engaged in an active discussion.
+
+
+### Alternative Presents
+
+
+As a team, our intention is to collect the ideas that they generated and work on it and continue to be inspired by the collage that they made. Questions that we asked ourselves include:
+
+- Is there a difference between their interaction among their peers vs adults (facilitators and teachers) during this project?
+- As a facilitator, how can we communicate with the children more efficiently using body language, expression and choice of words?
+- As a facilitator, how can we collect children's ideas of the future without influencing their creative process?
+- How can we move forward from what we have learned?
+- What do we do with the data collected?
+
+We foresee a few potentials, including creating a standard workshop so that any school can use our framework, create some workshop materials and make a demo video so that it is more accessible to other schools, or perhaps collaborating with more schools to refine our methodology.
+
+>We also received some feedback for improvement.
+
+- Some pictures might not be appropriate for the children.
+- While children are sharing, it is difficult for all of the other kids to see the collage.
+- Children ask if we would be going back for another intervention.
+
+### Next Steps
+
+As a team, we would be preparing for another intervention shortly for two other classes on the same day. To be well equipped for the next intervention, we will be refining our project by preparing more materials (pictures and worksheet), find a way to forecast the children’s collage and so that everybody can see it during the sharing session, and also keep our presentation time short and quick. We did well in time keeping so we would try to keep that up. We will see what happens during our next intervention and decide how to move forward from that.
+
+
+
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQiCsmH_SjnIBAuwOatagBR0MqHWonFWqyWF6EM-KWvRnaQn73rRRN2PPkVqKCn-PLY6PoCH4_r-PCO/embed?start=true&loop=true&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
