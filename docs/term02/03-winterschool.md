@@ -47,7 +47,7 @@ We created a platform for ourselves to share thoughts and ideas.
 
 ### Using Design as a Tool to Explore Place
 
-As a group, we decided to focus on topics related to equality, materials and craft and wellbeing. In the end, we choose human interaction as our topic.
+During the second week, I am in group 6, collaborating with students from Germany, Scotland and Naryn. We decided to focus on topics related to equality, materials and craft and wellbeing. In the end, we choose human interaction as our topic.
 
 [Miro Board](https://miro.com/app/board/uXjVPxdCZvM=/?moveToWidget=3458764544041828569&cot=10)
 
