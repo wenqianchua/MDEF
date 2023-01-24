@@ -25,3 +25,15 @@ With that note, I will make sure that my heart is aligned with my head, trusting
 [Design Research as Pyschotherapy Article](https://hackmd.io/QpMIMeepTIqulsaa-o7GAw?view#MDEF-Unpacking-Intelligent-Machines-2223)
 
 [Lecture Slides](https://drive.google.com/file/d/1g_gzxFQnifyzHlLr2SOoGdM6Kl0E1Qck/view?ts=63bec5ed)
+
+## Laura Forlano
+
+>TBD
+
+### Reflection
+
+TBD
+
+### Resources
+
+[Lecturer Website](https://lauraforlano.org/)
