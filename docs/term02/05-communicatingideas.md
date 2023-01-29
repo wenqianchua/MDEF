@@ -23,15 +23,14 @@ For me, it is important to know that my work will bring a positive impact to the
 
 >I design with people. I will be bridging the gap between people and effective systems through empathizing and inclusion. 
 
-I am aware that designers are not users’ and they shouldn’t rely on their assumptions of what the user wants or needs. A good design should be invisible.
-While approaching design problems, I prioritize usability-over-aesthetics, to me a successful design is when the user can get around the interface and achieve their end goals.
+I am aware that designers are not users’ and they shouldn’t rely on their assumptions of what the user wants or needs. A good design should be invisible. While approaching design problems, I prioritize usability-over-aesthetics, to me a successful design is when the user can get around the interface and achieve their end goals.
 
 
 **Minimum Viable Message**
 
 >My research and project would be related to how to increase system efficiency while taking into account negative impacts of my work on users, consumers, citizens, society, taking the planetary well-being into account. 
 
-For me, it’s important to help the most people I can and hurt the least. Right now, I am open to explore topics related to cognitive and behavioral science, mental health, subconscious mind, child pedagogy and emotions.
+For me, it’s important to help the most people I can and hurt the least. Right now, I am open to exploring topics related to cognitive and behavioral science, mental health, subconscious mind, child pedagogy and emotions.
 
 **Values**
 
