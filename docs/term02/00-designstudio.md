@@ -152,3 +152,9 @@ We would be preparing for another intervention shortly for two other classes on 
 ### Presentation
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQiCsmH_SjnIBAuwOatagBR0MqHWonFWqyWF6EM-KWvRnaQn73rRRN2PPkVqKCn-PLY6PoCH4_r-PCO/embed?start=true&loop=true&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+### Updated Design Space
+
+![Design Space 1](../images/term02/01_Design%20Studio/DS1.jpg)
+
+![Design Space 2](../images/term02/01_Design%20Studio/DS1.2.jpg)
