@@ -26,6 +26,7 @@ repo_url: 'https://github.com/wenqianchua/MDEF'
 #     - Winter School Indigeneity and Adpatation: term02/03-winterschool.md
 #     - Remixing Materials: term02/04-remxingmaterials.md
 #     - Communicating Ideas: term02/05-communicatingideas.md
+#     - Making Sense & Meaning: term02/06-makingsenseandmeaning.md
 #   - Self-care Resources: selfcare/selfcare.md
 
 nav:
@@ -49,6 +50,7 @@ nav:
       - Winter School Indegeneity and Adaptation: term02/03-winterschool.md
       - Remixing Materials: term02/04-remixingmaterials.md
       - Communicating Ideas: term02/05-communicatingideas.md
+      - Making Sense & Meaning: term02/06-makingsenseandmeaning.md
   - Self-care Resources: selfcare/selfcare.md 
 
 
