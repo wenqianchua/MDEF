@@ -35,4 +35,4 @@ Punctual and Reliable.
 
 **Personal Brand Kit**
 
-[Personal Brand](../images/term02/05_communicatingideas/Personal%20Brand.jpg)
+![Personal Brand](../images/term02/05_communicatingideas/Personal%20Brand.jpg)
