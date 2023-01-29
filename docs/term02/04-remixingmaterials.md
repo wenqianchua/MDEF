@@ -13,6 +13,10 @@ During this seminar, we learned about working with real materials in context. Th
  
 As a group, we decided to use orange peel as the main ingredient. I was able to collect a large bag of orange peels from a local fruit vendor to execute the experiment. We have also explored different methods to work with the orange peels to give it a second life.
 
+We were able to use the collected orange peels to start an experiment. First we sterilized the orange peels in a pressure cooker for about 30 minutes. Then, we added some mycelium and mix well. That was the first exploration that we tried making new materials with orange peels.
+
+Besides that, we experimented with both wet and dry orange peels, mixing it with eggshells to form a dough like material to make our compostable flower pot. It is very interesting, as we also added tea leaves in one of the mixture to make our flower pot more 'nutritious'. There have been a couple fail attempts, but we were still able to learn from our experimentations.
+
 ## Final Presentation
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQjwELS_tVeeGxQCWpacXyekfA70PH8oJnDA69kNYzHA8wr1SCJGlHVOQb0-5qvoaGbVi8SWo8l4Ip1/embed?start=true&loop=true&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

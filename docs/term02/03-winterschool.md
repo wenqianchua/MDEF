@@ -67,3 +67,7 @@ Outcome
 **Outcome**
 
 This action should leave me with a better understanding on how to collaborate and communicate with children better from an adult perspective. This would also help me to understand how does children think and act, and as an adult, how can we provide guidance without influencing their creativity. This would help me if I were to design a system or educational content relating to children in the future.
+
+### Conclusion
+
+This Winter School has been a very enriching experience for me as it allows me to connect with other design school students and exchange ideas. Also, some of the talks, notably a Talk by John Thackara makes an lasting impact on me. He mentioned that nature and tech no longer is an 'either-or' notion, we as designers have to accept that this has come to a time where we need to figure out how both nature and tech can co-exist. I have been listening to too many people talking about how we should 'go back to nature' and demonising all tech related subjects, so this sharing session has made me feel assured and inspired me to be a designer that was able to see clarity in all of our perconceived bias on tech.
