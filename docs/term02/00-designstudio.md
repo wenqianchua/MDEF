@@ -98,7 +98,7 @@ My Design Space might look a little different than the conventional ones, but th
 ![Design Space 2](../images/term02/01_Design%20Studio/Design%20Space%202.jpg)
 
 
-## Design Intervention in Context
+## 1st Design Intervention in Context
 
 *Deliverables*
 
@@ -116,7 +116,6 @@ We will be using magazine pictures and worksheets showing pictures of places, su
 
 ### General Observations
 
-
 - Children at the age of 7 are very obedient when everybody is doing the same thing. For example, when the children are getting too noisy, we raise one of our hands as a signal for everyone to pay attention. As a result, every child followed the action and they were able to keep quiet and pay attention.
 - Furthermore, when dealing with children, they have a very short attention span. It is hard to keep them engaged and ask them to listen while the other group is presenting.
 - Children tend to speak freely among their peers and have an activated discussion. 
@@ -127,7 +126,6 @@ We will be using magazine pictures and worksheets showing pictures of places, su
 
 
 ### Alternative Presents
-
 
 >As a team, our intention is to collect the ideas that they generated and work on it and continue to be inspired by the collage that they made. Questions that we asked ourselves include:
 
@@ -158,3 +156,62 @@ We would be preparing for another intervention shortly for two other classes on 
 ![Design Space 1](../images/term02/01_Design%20Studio/DS1.jpg)
 
 ![Design Space 2](../images/term02/01_Design%20Studio/DS1.2.jpg)
+
+
+## 2nd Design Intervention in Context
+
+*Deliverables*
+
+Document the 2nd collective design intervention, analyze it and reflect on the findings. Then, update your design with the relations you have built.*
+
+### Reflections
+
+>After our first workshop in Collegi Sant Andreu (Infantil - Primària) with 7 years old school children, we decided to carry on a second intervention with modification.
+
+This would be two 60 minutes workshop, carried out with 25 students respectively
+
+The workshop will be almost identical with the previous one with some changes. The children will imagine future scenarios on topics related to climate change and gender equity. They will be making a collage of the future scenario in different settings, for example: future for the park, for the school, sports, etc. based on the theme we selected.
+
+This time, we experiment with two different modes: for the first time, we will encourage discussion with images distributed. For the second time, we would ask the children to discuss for 10 minutes and start drawing, then only we will distribute the images for them to add on to their collage.
+
+We will be using magazine pictures and worksheets showing pictures of places, such as parks, schools, zoos, and etc. We are using 'local' images so that the children can familiarize themselves with it.
+
+
+### General Observations
+
+- This time, children will gather around the table when we have a discussion on the story, most of the children are engaged during the sharing sessions.
+- During the first group when we distributed the pictures before the discussion session, children were using the pictures mainly to create their future scenario.
+- During the second group where we delayed ten minutes and encouraged the students to start drawing first, the pictures were almost not used at all. 
+- Most of the children prefer to keep working on their existing stories no matter how interesting the pictures were.
+- From this, we learned that we could manipulate how we want the children to engage with the workshop simply by deciding the sequence of the activity.
+- When children are engaged in an activity that they are interested in, especially something that they have put in effort to work on, it is very hard for them to change their direction or switch their attention to new materials. They will be in their own world.
+- The end stories of the second iteration were more reflexive and of higher quality. With the collage they struggled incorporating all the elements and with no collage they could focus on their stories.
+
+### Feedback & Reflection
+
+- Need to think of what we would be doing next after this, do we create another intervention that is similar, or make it as a series of succession intervention?
+- Children ask if we would be going back for another intervention, overall they enjoyed the activities.
+- Need to have more facilitators as some time during the sharing session some children got distracted (need help from teachers to keep the children focused).
+- How should we iterate the materials to package this workshop? Ie. eliminate collage
+Gender inequality is too complex for their age range, would iterate that section to talk about inclusion instead.
+- Let the messiness of the situation jump in. Asking kids to facilitate the workshop.
+- Let the project fly(?)
+- Who should be in control? 
+- Who should not? What point could you actually be giving to others so that it can be part of the project?
+
+### Next Steps
+
+>We would be organizing all the data we collected. 
+We will be documenting the different future scenarios created by children, and find some opportunity to use the data with AI. For example, using this AI Word Cloud Generator to see what are the common words that come up.
+
+We could also do one co-creation session with the 3 teachers + the organizer.  We can also have a workshop online training teachers and facilitators so that they can carry out in their own school. We plan on using all the collective answers from the workshops and create a podcast format.
+
+### Presentation
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ_5iinleU2EpcgNa1gn5lKm23xzeQoXlkCWKfVyJWHpk9h_FO2kqZRlwGKz2lhO8uAHTWf1FRGADOB/embed?start=true&loop=true&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+### Updated Design Space
+
+![Design Space 1](../images/term02/01_Design%20Studio/DS%202.1.jpg)
+
+![Design Space 2](../images/term02/01_Design%20Studio/DS%202.2.jpg)
