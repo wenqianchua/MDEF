@@ -42,23 +42,6 @@ I still don’t have an answer to all the questions, but I would keep all these 
 
 [Lecturer Website](https://lauraforlano.org/)
 
-## Laura Forlano
-
->Autoethnography and Living Intimately with Machines
-
-### Reflection
-
-This has open-up a whole new perspective in designing machines in the care industry. As designers, we often carry a perception on how things should work. However most of the time, we expect too much from our design and the results are too far-fetched from reality. Overall, this has been a really insightful sharing on designing for disabilities.
-
-Another thing that I remember from the lecture is the question: can AI be disabled? It is an interesting topic to discuss and reflect among our peers. Having experimented with chat-GPT, an online AI chatbot, this raises the concerns of ethics in AI. I wonder what would be the benchmark or trigger for us to measure when AI will be enough. Do we have enough understanding in AI to use it safely? What would make AI accessible to all means, when it is so powerful that it could change the way we use online services and affect our daily activities? What happens when a student can use AI to generate an essay or an assignment, can we call it plagiarism? Do we have enough control of this powerful tool so that it will not bring more harm rather than good?
-
-I still don’t have an answer to all the questions, but I would keep all these questions in mind while doing my exploration.
-
-
-### Resources
-
-[Lecturer Website](https://lauraforlano.org/)
-
 ## Frederik van Amstel
 
 >El Hacer Como Que Hacer 
