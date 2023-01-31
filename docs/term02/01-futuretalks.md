@@ -38,7 +38,50 @@ Another thing that I remember from the lecture is the question: can AI be disabl
 
 I still don’t have an answer to all the questions, but I would keep all these questions in mind while doing my exploration.
 
+### Resources
+
+[Lecturer Website](https://lauraforlano.org/)
+
+## Laura Forlano
+
+>Autoethnography and Living Intimately with Machines
+
+### Reflection
+
+This has open-up a whole new perspective in designing machines in the care industry. As designers, we often carry a perception on how things should work. However most of the time, we expect too much from our design and the results are too far-fetched from reality. Overall, this has been a really insightful sharing on designing for disabilities.
+
+Another thing that I remember from the lecture is the question: can AI be disabled? It is an interesting topic to discuss and reflect among our peers. Having experimented with chat-GPT, an online AI chatbot, this raises the concerns of ethics in AI. I wonder what would be the benchmark or trigger for us to measure when AI will be enough. Do we have enough understanding in AI to use it safely? What would make AI accessible to all means, when it is so powerful that it could change the way we use online services and affect our daily activities? What happens when a student can use AI to generate an essay or an assignment, can we call it plagiarism? Do we have enough control of this powerful tool so that it will not bring more harm rather than good?
+
+I still don’t have an answer to all the questions, but I would keep all these questions in mind while doing my exploration.
+
 
 ### Resources
 
 [Lecturer Website](https://lauraforlano.org/)
+
+## Frederik van Amstel
+
+>El Hacer Como Que Hacer 
+
+### Reflection
+
+This talk reminds me of my country background as Malaysia is a country that was colonized by the British. Personally, both of my grandparents from both parents' sides work for and against the British government. It made me realize how powerless we were and had to fight against each other.
+
+If we celebrate colonization as a notion of “remaking”, it is an opportunity for change. However, the western world has ‘unmade’ the indigenous culture. Colonizers changed the way indigenous people live by force, they steal their resources and torture the people. While I agree that colonization might still bring some sort of benefit to the country, for example, the British left the law and education system behind; it is still important to recognize the harm that it brought and how it was rooted from selfish desires. 
+
+While colonization seems like something that happened in the far history, it is still happening here and now. Even until today, modern day colonization comes in different forms, for example tourism colonization, big brands and chains sweeping all over the world. 
+
+Ultimately, as a designer, we have the power to create and change systems. Therefore, it is important to design with conciousness. We have to recognize what is already there first before implying or imposing our ideas to avoid being that ‘colonizer’ to our subject. As the speaker says, freedom is  something that is not born, but something we make. When designing, it is crucial to recognize that we are only suggesting, not imposting.  
+Lastly, we are remaking our past with every present decision that we made. This makes me feel hopeful and content to continuously fight for what I care about.
+
+
+### Resources
+
+[Lecturer Website](https://fredvanamstel.com/about)
+
+[Presentation](https://www.dropbox.com/s/xhqib4bloqyix8v/hacer_como_quehacer.pdf?dl=0)
+
+
+
+
+
