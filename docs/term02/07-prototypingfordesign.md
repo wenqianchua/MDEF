@@ -38,7 +38,7 @@ My personal learning outcome for this section is to have a more broader view in 
 
 #### Reflection
 
-Today, the class started with a basic group session to learn about the existing software knowledge in modeling. We contributed to this miro board:
+The class started with a basic group session to learn about the existing software knowledge in modeling. We contributed to this miro board:
 
 >Group Miro Board on the first exercise
 
@@ -58,20 +58,18 @@ Overall, I find it very refreshing and interesting to learn about parametrics ag
 
 #### Pictures and Exercises
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS2rsrAkr449rfvqFZmDmYsEvzthOOWNndQcTuxsoCvo3MpTW_iPwmGQXku7nO-bcdBKAExYdSzk5ys/embed?start=true&loop=true&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 #### References
 
 [Lecture Resources](https://fablabbcn-projects.gitlab.io/learning/educational-docs/mdef/classes/design/)
 
-I also did some research and reading on Zaha Hadid's Parametric Architecture.
-
-[Zaha Hadid Parametric Architecture](https://issuu.com/pointnemo_adato/docs/architecture_2bpainting_digital/s/11272890)
+I also did some research and reading on [Zaha Hadid's Parametric Architecture](https://issuu.com/pointnemo_adato/docs/architecture_2bpainting_digital/s/11272890).
 
 #### Learning Outcomes
 
 For this section I hope to understand better different file formats so that I can use it on the right machine effectively. Also, I hope to have a better grasp on Parametric Design and understand how it works. Even though I had used rhino and grasshopper and ladybug before, I am not really familiar in the concept of how parametric works. I aim to explore at least one of the tools for algorithmic design.
 
-
-
-
 ### 2D Fabrication (Laser, Vinyl)
+TBD
 
