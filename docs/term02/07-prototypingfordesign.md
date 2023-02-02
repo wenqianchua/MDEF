@@ -72,6 +72,8 @@ I also did some research and reading on [Zaha Hadid's Parametric Architecture](h
 
 For this section I hope to understand better different file formats so that I can use it on the right machine effectively. Also, I hope to have a better grasp on Parametric Design and understand how it works. Even though I had used rhino and grasshopper and ladybug before, I am not really familiar in the concept of how parametric works. I aim to explore at least one of the tools for algorithmic design.
 
+## Week 02
+
 ### 2D Fabrication (Laser, Vinyl)
 TBD
 
