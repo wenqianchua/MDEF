@@ -1,5 +1,5 @@
 
-# Digital Prototyping For Desing
+# Digital Prototyping For Design
 
 ## Week 01
 
