@@ -1,32 +1,72 @@
 
-# Making Sense and Meaning
+# Digital Prototyping For Desing
 
-## Reflection
+## Week 01
 
->In the first week, we talked about using a multiscalar approach to look at the world. 
+[General Resources](https://fablabbcn-projects.gitlab.io/learning/educational-docs/mdef/)
 
-It is interesting as most of the design principles started from a european centric culture. From a UX standpoint, I couldn't agree more with this idea. Having the experience to work for both 'western' and 'eastern' projects, the notion of "less is more" can hardly be applied on UX project in China. 
+### Basic Electronics & Coding
 
->In China, you will notice that most of the app is compact and full of information. 
+#### Reflection
 
-It is almost like Chinese application follows "more is more" concept. For this, I think it is important to understand it from the structure of the chinese character and english alphabets. Since chinese character are compact and able to communicate more meaning using a significantly less space, it allows the interface to accomodate more things. Moreover in chinese culture, we celebrate vastness and inclusion of everything, thus when an interface design is so called "crowded" from the western standpoint, it works perfectly for the users of chinese region since they are used to the concept.
+First week into prototyping and design is quite overwhelming. We have a basic overview on how we should choose the board based on what project we will be using. We also learn about different components on the arduino board. The goal is to find out why we need certain electronics and how we integrate it to our projects. 
 
-I think it is important to look at the design case studies based on the context while being concious of the whatever design principles that we are practicing. In the end of the day, it is crucial to consider who are the users, the real people who are using the product rather then following the so called "universal design principle" which is mostly created from the western society.
+For this class, we learn about how to select the right arduino for a project. How do we select the board? What are the aspects we need to think of? Is it the Power? Network? Memory? How to find it and what is the best for you? When selecting the board, it is important to consider the capacity. One quick way is to double check the microcontroller and search for the datasheet on the web to better understand it. When considering what board we should use, it is also important to think about how much power and memory that your [microcontroller](https://fablabbcn-projects.gitlab.io/learning/fabacademy-local-docs/material/extras/week04/whatisamicrocontroller/#now-actually-what-is-a-microcontroller) has.
 
->During the second week, we had the opportunity to receive a guest lecturer from Peru, Beno Juarez. 
+We also learned the difference between a microcontroller and a computer. Arduino is a lot of things but not a microcontroller, but arduino has microcontroller boards. Arduino is a brand of the board, and it is very amazing because it is an advancement for prototyping ideas. With Arduino, we are able to make prototyping ideas quick and easy. 
 
-One sentence that stayed in my mind is how the value of the object is not in the object itself, but in the user's capacity. Using a pencil as an example, it depends on the user's imagination and perconceived notion to decide the function of itself. This is a very philosophical statement, but at the same time it unleashes one's potential. You are more capable than you think you are, most of the time, humans are limited by their own perception.
+The Arduino hardware is completely open source, other manufacturers can easily copy their hardware. The difference here is Arduino invests a lot in their software. They offer us a very simple interface so that it makes communicating to the microcontroller easier. They manage to create a big community of people that uses the same spirit of sharing what they learn on the arduino.
 
-The test of your favourite and least favourite animal is also an interesting exercise, I think it is like a psychological test in some way. Although I am not sure how mine would fit in the context, since my favourite animal is an owl and the reason I like it is because it is very wise, have good vision and able to turn its head 270 degree. 
+And some general rule of thumb when dealing with coding failure and debugging is to double check your wiring and codes. Try to divide the problem as small as we can to make solving the problem easier.
 
->Beno also shared that technology is not the bad thing when introducing it to indegenous culture, but how we are using it. I could not agree more. 
+#### Pictures and Exercises
 
-I have been exposed to many talks that celebrate the notion of either-or, nature or tech. It is the time to recognize that we are entering an era to co-exist with both nature and tech. I think it is important for the indegenious culture to atleast have some access of technology, and this would be a starting point, or an alternative tool for them to bring their knowledge to us. How can we bring nature back into the cities? What can we learn from the indegenious cultures, learning how to reconnect with nature?
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTTu5YTlQDC95IfjtYJA4m_jAGt1LKTOV_SadOrWzmx7RaRs8DtnnSaVIBJQDnjm55NyKpJgG9hucIe/embed?start=true&loop=true&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-In the course's reading: A History of the World in Seven Cheap Things, there is an excerpt on Early Colonialism and Nature: To live is to alter one's environment...While humans are an environmental-making-species, our organizations are fragile...civilizations have emerged and expanded with more than a little help from the rest of the nature, and when that help is withdrawn, they can crumble.
+#### References
 
-This emphasize that we are very much depending on nature but we forgot how powerless we were, colonizers has drastically changed the way human could realte with nature by attaching values such as resources, gold, spices on a particular naturae land that they aim to conquer. Like the preface of the Steps to an Ecology of Mind mentioned: "The man who believes that the resources of the world are infinite, for example, or that if somethign is good for you then the more of it the better, will not be able to see his errors, because he will not look for the evidence for them."
+For this class, I am mainly looking at the lecture resources shared on the arduino board.
 
->With the capitalism society that is newly born in the last century, we forget that without respecting and restoring the connection with nature, it is the matter of time we will be facing the consequences. 
+[Lecture Resources](https://hackmd.io/VBeyTyQoTLev4gjLzZkqQw?view#Electronics-amp-coding) 
 
-Nature has been shaped into something 'cheap', like an object. Lands are owned by land owners, and they further transform how others could relate to nature. It might be a very painful but uncomfortable experience, yet we have to be concious that these issues exsits: the exploitation of indegenious land and culture, the history, the disconnection of our people with nature before we can decide how to alleviate the harm that has been done.
+#### Learning Outcomes
+
+My personal learning outcome for this section is to have a more broader view in electronics and how potentially I would be able to use this knowledge to solve everyday problems. Also, to be able to run a simple code so that the buzzer will play. Personally, I am thankful that there is more flexibility for students to decide the depth of the technical if we want to do more research.
+
+### 2D Design Tools (Parametic Design)
+
+#### Reflection
+
+Today, the class started with a basic group session to learn about the existing software knowledge in modeling. We contributed to this miro board:
+
+**Group Miro Board on the first exercise**
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPrnS_rQ=/?moveToViewport=-15212,3046,18420,12529&embedId=531321577560" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
+We have a better understanding of CAM: Computer aided design. We also learned the difference between Vector and Raster files. Vectors are the geometric (mathematical) description of an image. Whereas Raster are mostly made out of pixels, there are essentially small squares and also a memory eater. Most photographs are raster files. The process of changing Raster to pixel is called interpolation. I find this interesting because when I was in architecture school, how I understood vector files is that file that has the x and y axis information. This is essential as when you are using another machine such as a laser cutter, the machine needs the coordinates to precisely cut where we want it to be. We also learned that computers are made out of CPU and GPU, and each of them process different file types.
+
+>We also learned about mesh and nurbs. A mesh model is a collection of vertical, edges and faces. 
+
+We learn that to form a design, it start with points > then connecting it with lines > joining the surfaces > forming polygons to create meshes and you will have your final model. 
+
+This process reminds me a lot of [atomic design](https://atomicdesign.bradfrost.com/chapter-2/). Atomic design is a methodology composed of stages working together to create interface design systems in a more deliberate and hierarchical manner. While it is not exactly the same thing, but I find understanding the parametric in this sense will make your design more accessible and give you full control to it.
+
+I also find it ironic that even though phones get better in showing the amount of pixels per inch, the human eye can only take in 200+ pixels. Yet, more pixels will need more memory from the phone. It makes me feel bad about this aspect of technology as they are using the lack of knowledge of the society in tech as an advantage to market their product. 
+
+Overall, I find it very refreshing and interesting to learn about parametrics again in this context. I will be trying to create some models using rhino and grasshopper to test out some of my ideas.
+
+
+
+
+#### Pictures and Exercises
+
+#### References
+
+[Zaha Hadid Parametric Architecture](https://issuu.com/pointnemo_adato/docs/architecture_2bpainting_digital/s/11272890)
+
+#### Learning Outcomes
+
+
+
+### 2D Fabrication (Laser, Vinyl)
+
