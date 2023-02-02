@@ -3,6 +3,8 @@
 
 ## Week 01
 
+### Course Website
+
 [General Resources](https://fablabbcn-projects.gitlab.io/learning/educational-docs/mdef/)
 
 ### Basic Electronics & Coding
@@ -61,6 +63,10 @@ Overall, I find it very refreshing and interesting to learn about parametrics ag
 #### Pictures and Exercises
 
 #### References
+
+[Lecture Resources](https://fablabbcn-projects.gitlab.io/learning/educational-docs/mdef/classes/design/)
+
+I also did some research and reading on Zaha Hadid's Parametric Architecture.
 
 [Zaha Hadid Parametric Architecture](https://issuu.com/pointnemo_adato/docs/architecture_2bpainting_digital/s/11272890)
 
