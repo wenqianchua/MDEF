@@ -38,7 +38,7 @@ My personal learning outcome for this section is to have a more broader view in 
 
 #### Reflection
 
-The class started with a basic group session to learn about the existing software knowledge in modeling. We contributed to this miro board:
+The class started with a basic group session to learn about the existing software knowledge in modeling. 
 
 >Group Miro Board on the first exercise
 
