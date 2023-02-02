@@ -1,11 +1,11 @@
 
 # Digital Prototyping For Design
 
-## Week 01
-
-### Course Website
+## Course Website
 
 [General Resources](https://fablabbcn-projects.gitlab.io/learning/educational-docs/mdef/)
+
+## Week 01
 
 ### Basic Electronics & Coding
 
@@ -27,21 +27,20 @@ And some general rule of thumb when dealing with coding failure and debugging is
 
 #### References
 
-For this class, I am mainly looking at the lecture resources shared on the arduino board.
+For this class, I am mainly looking at the [lecture resources](https://hackmd.io/VBeyTyQoTLev4gjLzZkqQw?view#Electronics-amp-coding) shared on the arduino board.
 
-[Lecture Resources](https://hackmd.io/VBeyTyQoTLev4gjLzZkqQw?view#Electronics-amp-coding) 
 
 #### Learning Outcomes
 
 My personal learning outcome for this section is to have a more broader view in electronics and how potentially I would be able to use this knowledge to solve everyday problems. Also, to be able to run a simple code so that the buzzer will play. Personally, I am thankful that there is more flexibility for students to decide the depth of the technical if we want to do more research.
 
-### 2D Design Tools (Parametic Design)
+### 2D Design Tools (Parametric Design)
 
 #### Reflection
 
 Today, the class started with a basic group session to learn about the existing software knowledge in modeling. We contributed to this miro board:
 
-**Group Miro Board on the first exercise**
+>Group Miro Board on the first exercise
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPrnS_rQ=/?moveToViewport=-15212,3046,18420,12529&embedId=531321577560" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
@@ -57,9 +56,6 @@ I also find it ironic that even though phones get better in showing the amount o
 
 Overall, I find it very refreshing and interesting to learn about parametrics again in this context. I will be trying to create some models using rhino and grasshopper to test out some of my ideas.
 
-
-
-
 #### Pictures and Exercises
 
 #### References
@@ -71,6 +67,9 @@ I also did some research and reading on Zaha Hadid's Parametric Architecture.
 [Zaha Hadid Parametric Architecture](https://issuu.com/pointnemo_adato/docs/architecture_2bpainting_digital/s/11272890)
 
 #### Learning Outcomes
+
+For this section I hope to understand better different file formats so that I can use it on the right machine effectively. Also, I hope to have a better grasp on Parametric Design and understand how it works. Even though I had used rhino and grasshopper and ladybug before, I am not really familiar in the concept of how parametric works. I aim to explore at least one of the tools for algorithmic design.
+
 
 
 
