@@ -146,7 +146,7 @@ Arduino code for [LED](../files/Morse%20Code/230209_ArduinoUNO_LED-Button/230209
 
 I got most of my data from here: [Lecture Resources](https://hackmd.io/ECgw7zCkR7WbD5SkcVvcwg?view#How-to-choose-and-use-a-sensors/mdef/classes/2Dfab/)
 
-Click to view [Sensor List](https://hackmd.io/xAjS5n_ASTOmX9EhacRRhw?both#Sensor-list)
+Click to view [Sensor List](https://hackmd.io/xAjS5n_ASTOmX9EhacRRhw?both#Sensor-list).
 
 #### Learning Outcomes
 
