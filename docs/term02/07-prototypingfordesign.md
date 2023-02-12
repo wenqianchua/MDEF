@@ -86,7 +86,7 @@ The class started with a basic group session to learn about the technologies in 
 
 >For today's course, I learned the different methods of laser engraving. 
 
-We also learned the different products that are made with a laser cutter machine. For example, laser engraving, creating a 3D model with the machine etc. 
+We learned the different products that are made with a laser cutter machine. For example, laser engraving, creating a 3D model with the machine etc. 
 
 Laser cutter is a CNC system, and also a computer numerical control (CNC) equipment. We use CAD, computer aided design to produce vector files. 
 
