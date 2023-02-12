@@ -111,7 +111,7 @@ Overall, I was able to make a few models from the laser cutter machine. It was a
 
 I got most of my data from here: [Lecture Resources](https://fablabbcn-projects.gitlab.io/learning/educational-docs/mdef/classes/2Dfab/). 
 
-I got my vector files from [here](https://3axis.co/), and click here to download the rhino file of the [3D Sphere](../files/3D%20Sphere/sphere_assembly.SLDASM)
+I got my vector files from [here](https://3axis.co/), and click here to download the rhino file of the [3D Sphere](../files/3D%20Sphere/sphere_assembly.SLDASM).
 
 #### Learning Outcomes
 
