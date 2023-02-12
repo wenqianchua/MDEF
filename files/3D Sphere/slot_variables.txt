@@ -1,0 +1,2 @@
+﻿"slot_width"=0.2465
+"slot_depth"= 0.25				
