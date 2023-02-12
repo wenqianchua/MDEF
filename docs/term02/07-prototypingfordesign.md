@@ -85,6 +85,7 @@ The class started with a basic group session to learn about the technologies in 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPrnS_rQ=/?moveToViewport=8710,1266,9375,7837&embedId=147451757163" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 >For today's course, I learned the different methods of laser engraving. 
+
 We also learned the different products that are made with a laser cutter machine. For example, laser engraving, creating a 3D model with the machine etc. 
 
 Laser cutter is a CNC system, and also a computer numerical control (CNC) equipment. We use CAD, computer aided design to produce vector files. 
@@ -92,6 +93,7 @@ Laser cutter is a CNC system, and also a computer numerical control (CNC) equipm
 A laser cut has only two axis, which is X and Y, whereas a 3D printer has 3 axis, which is X, Y and Z. A robotic arm will be working in a 3D space, so it will have 6 axis, which are respectively X,Y, Z, A, B and C.
 
 >We also learn about how the machine works, as it uses light amplification by a stimulated emission of radiation.
+
 During the class, we also get to see a demo on how it works. Each laser cutter machine has parameters, such as: power, speed , frequency and air compressor. The higher the frequency, the more energy will be focused on the same spot.
 
 The input geometry will need to be a vector or raster file. If it is an image, we can transfer image pixel to a raster friendly version. Overall, I think it is very interesting as when I did projects for my architecture school, there are different settings compared to the current machines we have on fablab. One thing that is notable is that my architecture school has all the materials preset in the laser cutter interface, since it is quite predictable what we will be using as materials. In the fablab, since we can cut anything and almost everything, we really need to pay attention to setting the parameters and testing things out.
