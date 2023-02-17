@@ -152,24 +152,33 @@ Click to view [Sensor List](https://hackmd.io/xAjS5n_ASTOmX9EhacRRhw?both#Sensor
 
 I think the key takeaway from this lesson is to figure out what would be the best sensor to use in a project. By understanding the direct and indirect relationship each unique sensor has with the output, it will help us in designing the desire system. Also, there is the technical part where I need to brush up as most of the time I find myself struggling making the electronics work. Nevertheless, I definately think that working a cohort together helps in understanding the arduino better.
 
-
 ## Week 03
 
 ### Microchallenge I
 
 #### Reflection
 
-*Project topic*
+Generally, I think this project creates a lot of opportunity for us to move forward. By making this artifact, I was able to gain more insights on what it takes to actually fabricate a product from start to finish. I also feel I am one tiny steps closer to electronics even though there is still a lot of room of improvement. The feedback we received during the presentation is very insightful, we really enjoyed seeing everyone to start playing with it, because it means that it is somewhat successful in terms of engaging people to start a conversation.
 
-As a team, we are interested in exploring future perception and attitudes of school children. We have worked on a collage exercise to ask 8-year-olds their perspectives reimagining the future of parks, zoos, schools and sports. Therefore we would like to bring it to another level. Questions we asked ourselves involved what we can do to bring the workshop experience to another level? What are the most important aspects when carrying out discussion based activities?
+#### Project topic
+
+>As a team, we are interested in exploring future perception and attitudes of school children. 
+
+We have worked on a collage exercise to ask 8-year-olds their perspectives reimagining the future of parks, zoos, schools and sports. Therefore we would like to bring it to another level. Questions we asked ourselves involved what we can do to bring the workshop experience to another level? What are the most important aspects when carrying out discussion based activities?
 
 One thing that we noticed from our previous workshop is that sometimes when the kids are having disagreements, they tend to find it hard to come to a satisfying conclusion. Therefore, we think about how we can make this discussion process more diplomatic and inclusive.
 
 Therefore, we came up with an idea of a ‘perception board’, and that allows children and teenagers to map their sentiments, attitudes and perceptions around global problems and their potential solutions. 
 
-*Explain your contribution to the project*
+**Perception Board**
 
-In terms of personal contribution, we divided our jobs so that we can work together smoothly based on our strengths.
+![Image](../images/term02/08_digitalprototyping/Final%20(1).jpeg)
+
+![Image](../images/term02/08_digitalprototyping/Final%20(2).jpeg)
+
+#### Explain your contribution to the project
+
+>In terms of personal contribution, we divided our jobs so that we can work together smoothly based on our strengths.
 
 Ariel is incharge of electronics, to figure out how to fit the LED into the board, and also part of the physical artifact fabrication, while Jimena will be working on the MVP, digital perception board, card and resources design, and also preparing the guides for the game.
 
@@ -177,20 +186,30 @@ I will be in charge of mainly project planning, designing the physical artifact,
 
 Things that I take into account is the size of each compartment for the pointers, and also what would be the ideal size for children to hold it. I designed the pointer so that there is about 4mm off set space when it is placed on the board. Furthermore, since the distance between the scale on the board need not be based on a real ruler, I separated it based on the distance between the compartments. 
 
+![Image](..//images/term02/08_digitalprototyping/WhatsApp%20Image%202023-02-16%20at%205.03.57%20PM%20(1).jpeg)
+
 Since the whole board is a 500mm by 500mm square, I divided it using the mirror function on Rhino. To incorporate the LED lights, I made 4mm holes on the 5 points of the board. As a final iteration, I cleaned up the files so that they are ready for upload.
 
 ![Image](..//images/term02/08_digitalprototyping/WhatsApp%20Image%202023-02-16%20at%2012.04.51%20PM.jpeg)
 
 As a collective, we execute main jobs such as laser cutting, assembling and testing together. We also supported each other when we were trying to make the board work.
 
-*Reflect your learning goals*
+#### Reflect your learning goals
 
-I think as a team one of the struggles that we had is electronics. We spend a lot of time figuring out the electronic part. We started with a conceptual product to help facilitate activity with children, and we thought that it would be quite straightforward to put together. 
+>I think as a team one of the struggles that we had is electronics. 
+
+We spend a lot of time figuring out the electronic part. We started with a conceptual product to help facilitate activity with children, and we thought that it would be quite straightforward to put together.
+
+![Image](../images/term02/08_digitalprototyping/Arduino.jpeg)
 
 What we learned is that the design process is very delicate and could evolve through making. For example, our first design is a press fit concept with wooden pegs with different colors. However after trying it out, it doesn't work so well as when we try to incorporate other ideas. for the first review, they advise us to combine electronics and also think about what we do with the output of data. They showed us a project of kids documenting their emotions a day and making it into an ice cream.
 
+![Image](../images/term02/08_digitalprototyping/Emoji.jpeg)
+
 Also, I learned about how to plan materials more efficiently so that we don’t waste time and resources. This includes having a modular design so that it can be replicated. For future potentials, we thought about using LED strips and also refining our product by designing a card holder for our artifacts.
 
-In conclusion, this is a very enriching experience for me and I love our team’s synergy. We are able to work together as a team efficiently at the same time, learning from each other. We will take all the reviews and feedback into account, and we are excited to bring our project to the next phase.
+In conclusion, this is a very enriching experience for me and I love our team’s synergy. We are able to work together as a team efficiently at the same time, learning from each other. We will take all the reviews and feedback into account, and we are excited to bring our project to the next phase. We can consider adding question or wild card
 
 *Resources*
+
+[HackMD](https://github.com/wenqianchua/microchallenge-01)
