@@ -210,11 +210,15 @@ Also, I learned about how to plan materials more efficiently so that we don’t 
 
 In conclusion, this is a very enriching experience for me and I love our team’s synergy. We are able to work together as a team efficiently at the same time, learning from each other. We will take all the reviews and feedback into account, and we are excited to bring our project to the next phase. We can consider adding question or wild card
 
-*Resources*
+#### Resources
 
 [Group GitHub Link](https://github.com/wenqianchua/microchallenge-01)
 
 [HackMD](https://github.com/wenqianchua/microchallenge-01)
 
 [Other Group's Repo](https://docs.google.com/spreadsheets/d/1I9njAn9_ro1NWNcvO2SRhmR0hqt0KgiaekC8czmmWws/edit#gid=0)
+
+[Course Miro](https://miro.com/app/board/uXjVPpFL9hU=/)
+
+[Microchallenge Website](https://fablabbcn-projects.gitlab.io/learning/educational-docs/challenge/c_1/)
 
