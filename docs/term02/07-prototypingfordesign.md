@@ -212,7 +212,7 @@ Also, I learned about how to plan materials more efficiently so that we don’t 
 
 In conclusion, this is a very enriching experience for me and I love our team’s synergy. We are able to work together as a team efficiently at the same time, learning from each other. We will take all the reviews and feedback into account, and we are excited to bring our project to the next phase. We can consider adding question or wild card
 
-#### Resources
+#### References
 
 [Group GitHub Link](https://github.com/wenqianchua/microchallenge-01)
 
