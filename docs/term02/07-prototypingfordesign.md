@@ -158,7 +158,9 @@ I think the key takeaway from this lesson is to figure out what would be the bes
 
 #### Reflection
 
-Generally, I think this project creates a lot of opportunity for us to move forward. By making this artifact, I was able to gain more insights on what it takes to actually fabricate a product from start to finish. I also feel I am one tiny steps closer to electronics even though there is still a lot of room of improvement. The feedback we received during the presentation is very insightful, we really enjoyed seeing everyone to start playing with it, because it means that it is somewhat successful in terms of engaging people to start a conversation.
+>Generally, I think this project creates a lot of opportunity for us to move forward. By making this artifact, I was able to gain more insights on what it takes to actually fabricate a product from start to finish. 
+
+I also feel I am one tiny steps closer to electronics even though there is still a lot of room of improvement. The feedback we received during the presentation is very insightful, we really enjoyed seeing everyone to start playing with it, because it means that it is somewhat successful in terms of engaging people to start a conversation.
 
 #### Project topic
 
@@ -186,8 +188,6 @@ I will be in charge of mainly project planning, designing the physical artifact,
 
 Things that I take into account is the size of each compartment for the pointers, and also what would be the ideal size for children to hold it. I designed the pointer so that there is about 4mm off set space when it is placed on the board. Furthermore, since the distance between the scale on the board need not be based on a real ruler, I separated it based on the distance between the compartments. 
 
-![Image](..//images/term02/08_digitalprototyping/WhatsApp%20Image%202023-02-16%20at%205.03.57%20PM%20(1).jpeg)
-
 Since the whole board is a 500mm by 500mm square, I divided it using the mirror function on Rhino. To incorporate the LED lights, I made 4mm holes on the 5 points of the board. As a final iteration, I cleaned up the files so that they are ready for upload.
 
 ![Image](..//images/term02/08_digitalprototyping/WhatsApp%20Image%202023-02-16%20at%2012.04.51%20PM.jpeg)
@@ -197,6 +197,8 @@ As a collective, we execute main jobs such as laser cutting, assembling and test
 #### Reflect your learning goals
 
 >I think as a team one of the struggles that we had is electronics. 
+
+![Image](..//images/term02/08_digitalprototyping/WhatsApp%20Image%202023-02-16%20at%205.03.57%20PM%20(1).jpeg)
 
 We spend a lot of time figuring out the electronic part. We started with a conceptual product to help facilitate activity with children, and we thought that it would be quite straightforward to put together.
 
