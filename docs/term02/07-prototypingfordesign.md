@@ -212,4 +212,9 @@ In conclusion, this is a very enriching experience for me and I love our team’
 
 *Resources*
 
+[Group GitHub Link](https://github.com/wenqianchua/microchallenge-01)
+
 [HackMD](https://github.com/wenqianchua/microchallenge-01)
+
+[Other Group's Repo](https://docs.google.com/spreadsheets/d/1I9njAn9_ro1NWNcvO2SRhmR0hqt0KgiaekC8czmmWws/edit#gid=0)
+
