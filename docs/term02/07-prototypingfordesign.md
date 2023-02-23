@@ -248,7 +248,7 @@ There are also some interesting resources that was shared with us:
 
 >In terms of technical knowledge, we learned that to 3D print something, it is important to be able to subdivide the object into multiple sections. 
 
-There is also two types of bonding, by heat or through chemical bond. Some popular 3D printing tech are FDM, SLA, and 3Dp. The route of file transfering will take from an STL file, to a Slicer, and then lastly to a 3D printer. There is a flexibility to choose how big is the layer, layer height and etc.
+There is also two types of bonding, by heat or through chemical bond. Some popular 3D printing tech are FDM, SLA, and 3DP. The route of file transfering will take from an STL file, to a Slicer, and then lastly to a 3D printer. There is a flexibility to choose how big is the layer, layer height and etc.
 
 For the infill type, there are 4 main structure: rectangular, triangular or diagrid, wiggle and honey comb. I learned that support is important when printing occurs in air, or if the light needs time etc depending on the time needed for the plastic to cool down. There are many different software that provides design optimized support calculation.
 
