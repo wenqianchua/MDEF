@@ -224,3 +224,46 @@ In conclusion, this is a very enriching experience for me and I love our team’
 
 [Microchallenge Website](https://fablabbcn-projects.gitlab.io/learning/educational-docs/challenge/c_1/)
 
+## Week 04
+
+### 3D Scanning & 3D Softwares
+
+#### Reflection
+
+The class started with a basic group discussion to learn about the technologies and manufacturing methods.
+
+>Group Miro Board on the first exercise
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPrnS_rQ=/?moveToViewport=20098,-96,11170,11074&embedId=660094194752" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
+>For me, it is surprising to learn that a 3D printer can be built from scratch with materials from your garage and an arduino board.
+
+We learned about 3D printing tech such as FDM and SLA. There is almost everything that we can print. One interesting technique that caught my attention is the [Laminated Object Manufacturing](https://www.sculpteo.com/en/glossary/lom-definition/). It is interesting to see how thin each layer can be to make a 3 dimensional object.
+
+There are also some interesting resources that was shared with us:
+1. [Reprap website](https://reprap.org/wiki/RepRap): 3D printer world's wikipedia
+2. A netflix documentary called: Print The Legend, showing how an open source company changed to a closed one
+
+>In terms of technical knowledge, we learned that to 3D print something, it is important to be able to subdivide the object into multiple sections. 
+
+There is also two types of bonding, by heat or through chemical bond. Some popular 3D printing tech are FDM, SLA, and 3Dp. The route of file transfering will take from an STL file, to a Slicer, and then lastly to a 3D printer. There is a flexibility to choose how big is the layer, layer height and etc.
+
+For the infill type, there are 4 main structure: rectangular, triangular or diagrid, wiggle and honey comb. I learned that support is important when printing occurs in air, or if the light needs time etc depending on the time needed for the plastic to cool down. There are many different software that provides design optimized support calculation.
+
+>It is also very important to keep moisture from material to avoid air bubble.
+
+For 3D scanning, it is important because it can help represent the real world to the virtual environment. Overall, I find the new knowledge very interesting and I am grateful to be able to learn about it.
+
+#### Pictures and Exercises
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQiDnLdXtaVaJLS3wUjLDSVzZFhpTa50qEr72zv_lFoTMlXoNA2OcqLIcx5MeDT-oMnL7i1KXgmnea1/embed?start=true&loop=true&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+#### References
+
+I got most of my data from here: [Lecture Resources](https://fablabbcn-projects.gitlab.io/learning/educational-docs/mdef/classes/3dfab/. 
+
+I am interested to experiment with [this](https://cults3d.com/en/3d-model/game/bottle-lid-cat-toys) if I have more time.
+
+#### Learning Outcomes
+
+I think the key takeaway from this lesson is to learn how to use a 3D scanner software and how can I apply this in real life. Question I ask myself includes when would I want to scan an object and print the exact same thing? I would imagine that it is something that has an organic shape, difficult to be drawn in a vector software or some prototype that is hard to manufacture using a laser cutter.
