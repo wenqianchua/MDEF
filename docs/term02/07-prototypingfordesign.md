@@ -260,10 +260,38 @@ For 3D scanning, it is important because it can help represent the real world to
 
 #### References
 
-I got most of my data from here: [Lecture Resources](https://fablabbcn-projects.gitlab.io/learning/educational-docs/mdef/classes/3dfab/. 
+I got most of my data from here: [Lecture Resources](https://fablabbcn-projects.gitlab.io/learning/educational-docs/mdef/classes/3dfab/). 
 
 I am interested to experiment with [this](https://cults3d.com/en/3d-model/game/bottle-lid-cat-toys) if I have more time.
 
 #### Learning Outcomes
 
 I think the key takeaway from this lesson is to learn how to use a 3D scanner software and how can I apply this in real life. Question I ask myself includes when would I want to scan an object and print the exact same thing? I would imagine that it is something that has an organic shape, difficult to be drawn in a vector software or some prototype that is hard to manufacture using a laser cutter.
+
+### Networking and Communications
+
+#### Reflection
+
+For this class, I was absent as I was sick, so I self studied and try to understand this based on what was shared on the website. Before this, I have some basic experience and understanding as I was working as a Design Technology Instructor in an international school. We were having a small experiment using the arduino board, connecting to a wifi to control the switch of a light bulb. Even though I don't remember the details, the concept is similar to what I studied from the HackMD website.
+
+>A network (in the context of this class) is a set of devices connected to each other through any type of communication lines that allows the exchange of data between them.
+
+To understand what is an [OSI Model](https://www.imperva.com/learn/application-security/osi-model/), I have also find some helpful resources that helps me a lot in understanding the concept.
+
+**Youtube Video on OSI Model**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vv4y_uOneC0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+I think generally I understand concept, in terms of pracitical application, I find myself struggle a little bit. I will try my best and connect with my peers to see if I can figure it out.
+
+#### Pictures and Exercises
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTvosfjoK-afhOcUHfYiQbmatFeGEuD2Lr8PF--vuOm08THXruYVdSlEdsy4unCpMTuI5aFsLogHB0N/embed?start=true&loop=true&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+#### References
+
+I got most of my data from here: [Lecture Resources](https://hackmd.io/Bl2DDqo6SrOX7SQMwyMbLA?view#Networking-and-communications)
+
+#### Learning Outcomes
+
+The key learning outcome is to understand the concept of network in this class and being able to set up a simple device or through arduino so that they can exchange data between each other. It would be a plus point if I can apply this on my household appliances.
