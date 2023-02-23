@@ -241,8 +241,10 @@ The class started with a basic group discussion to learn about the technologies 
 We learned about 3D printing tech such as FDM and SLA. There is almost everything that we can print. One interesting technique that caught my attention is the [Laminated Object Manufacturing](https://www.sculpteo.com/en/glossary/lom-definition/). It is interesting to see how thin each layer can be to make a 3 dimensional object.
 
 There are also some interesting resources that was shared with us:
-1. [Reprap website](https://reprap.org/wiki/RepRap): 3D printer world's wikipedia
-2. A netflix documentary called: Print The Legend, showing how an open source company changed to a closed one
+
+1. [Reprap website](https://reprap.org/wiki/RepRap): 3D printer world's wikipedia.
+
+2. A netflix documentary called: Print The Legend, showing how an open source company changed to a closed one.
 
 >In terms of technical knowledge, we learned that to 3D print something, it is important to be able to subdivide the object into multiple sections. 
 
