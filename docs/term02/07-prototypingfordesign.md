@@ -136,7 +136,7 @@ I also think the notion of using graphite as a tool creating non-traditional hum
 
 #### Pictures and Exercises
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQiDnLdXtaVaJLS3wUjLDSVzZFhpTa50qEr72zv_lFoTMlXoNA2OcqLIcx5MeDT-oMnL7i1KXgmnea1/embed?start=true&loop=true&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTWVpmYu2kzuPDtEKpxbaU6AcmaMjMJPbbKy22TmOT_xyKst2chXUnKo2NNwJDfVtwVBuQup_RAKYj3/embed?start=true&loop=true&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 Arduino code for [LDR](../files/Morse%20Code/230209_ESP32_LDR-Test/230209_ESP32_LDR-Test/230209_ESP32_LDR-Test.ino)
 
