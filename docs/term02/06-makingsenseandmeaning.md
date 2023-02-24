@@ -86,3 +86,7 @@ I am stressing this point as there are still some individuals that believe that 
 >Having mentioned all the three important factors: government, system and technology, I think only when the three of them are in their optimum condition, that is when positive change can happen at a desirable rate. 
 
 These three factors are important in creating effective change because they all contribute in working together and supporting the scale of the change. While it is understandable that this optimized condition could be difficult to achieve and there might be obstacles in some countries, it is crucial to not lose hope and continue to work on these topics so that one day, we can leave behind our legacy to our descendants in a positive manner.
+
+### Citation
+
+Patel, Raj. A History of the World in Seven Cheap Things: A Guide to Capitalism, Nature, and the Future of the Planet. Verso Books, 2020. 
