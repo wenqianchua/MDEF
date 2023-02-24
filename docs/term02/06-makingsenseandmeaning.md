@@ -59,7 +59,7 @@ To give a brief introduction, a capitalist society emphasizes convenience, effic
 
 The moment something is purchased, one should be responsible for its life cycle and should properly dispose of it. The problem that we face nowadays is that people can be easily manipulated through online ads, trends and influencers; companies rely on sales to gain capital, thus they are putting a lot of science, technology, design and talent into encouraging people to spend more. We are in this situation because the system that we are in encourages designers and engineers to put their talent in the companies to create and manipulate more ‘wants’, as this is how the modern capitalist society works. From my point of view, it is important to access this topic from three spectrums: government, system, and technology. Please refer to the diagram below to understand this concept better.
 
-[Diagram](../images/term02/06_makingsenseandmeaning/Making%20Sense%20and%20Meanign%20Venn%20Diagram.png)
+![Diagram](../images/term02/06_makingsenseandmeaning/Making%20Sense%20and%20Meanign%20Venn%20Diagram.png)
 
 > In my opinion. only when these three factors work together in the best condition, that is when the change would be optimized and impactful. 
 
