@@ -297,3 +297,25 @@ I got most of my data from here: [Lecture Resources](https://hackmd.io/Bl2DDqo6S
 #### Learning Outcomes
 
 The key learning outcome is to understand the concept of network in this class and being able to set up a simple device or through arduino so that they can exchange data between each other. It would be a plus point if I can apply this on my household appliances.
+
+## Week 05
+
+### Interfaces - Machines Interactions
+
+#### Reflection
+
+#### Pictures and Exercises
+
+#### References
+
+#### Learning Outcomes
+
+### CNC
+
+#### Reflection
+
+#### Pictures and Exercises
+
+#### References
+
+#### Learning Outcomes
