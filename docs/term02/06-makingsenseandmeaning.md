@@ -35,6 +35,20 @@ This emphasize that we are very much depending on nature but we forgot how power
 
 Nature has been shaped into something 'cheap', like an object. Lands are owned by land owners, and they further transform how others could relate to nature. It might be a very painful but uncomfortable experience, yet we have to be concious that these issues exsits: the exploitation of indegenious land and culture, the history, the disconnection of our people with nature before we can decide how to alleviate the harm that has been done.
 
+### Week 03
+
+>During the 3rd week, we had a sharing session by Felencia Hutabarat. 
+
+I personally find it inspiring as through engaging with local communities we are able to learn the organic and traditional way of sharing skills and knowledge. Her recommendation is to have access to an innovation lab, knowledge center, materials instrument and production investment. 
+
+When it was Sudebi time for sharing, she mentioned that she refused to belong to a particular box. This reminds me of the story from Divergent, in the Divergent universe people are separated into factions with a specific ability. The emergence of the divergent community means that it is a sign of cognitive diversity, and it means that the community is slowly healing. 
+
+>Also, one thing that I remember that she shared is the idea to not be colonized by your own imagination. 
+
+Again, it is important to have clarity and realization to be able to see further than what it seems to be. It is important to think about what are your specialities that make you stand out rather than thinking what people expect you to be and be that expectation, as you would be fitting yourself into a certain box.
+
+Overall listening to our classmates sharing, I feel that it is very empowering experience and I hope that in the future I will be able to apply the skills to the community that is relevant to my research.
+
 ## Assignment
 
 ### Instructions
