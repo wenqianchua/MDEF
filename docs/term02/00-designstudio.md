@@ -239,25 +239,29 @@ Based on our previous project, we're interested in exploring future perception a
 
 
 *What*
+
 A "perception board" that allows children and teenagers to map their sentiments, attitudes and perceptions around global problems and their potential solutions.
 
 *Who*
+
 Our goal would be to integrate the tool into a session with teenagers (over 13 years old). This is because their capability to reflect on global problems is much more developed than on younger children and we are inspired by debate sessions carried out by children over 13 years old.
 
 *Where*
+
 Indoors or classroom settings.
 
 *How*
 This can be done through a workshop or a small game session with our Artifact. The artifact includes: set of question cards, wooden board, pointers.
 
 *Why*
+
 By showing an analog version of their attitudes, this will help because:
-If we ask one same question to a whole class, people will feel differently depending on the topic, their emotions that day and the knowledge they have on the subject. So it is helpful to document the sentiments that can also later be compared in future sessions.
-We want to visualize diversity in points of view and exemplify how points of view are flexible and can evolve over time.
-Stresses the importance that each thought can be challenged and evolved.
-Teaching kids to express their point of view in a diplomatic and peaceful way respecting each other.
-To create safe spaces for sharing their thoughts
-Because it can stimulate difficult conversations.
+
+- If we ask one same question to a whole class, people will feel differently depending on the topic, their emotions that day and the knowledge they have on the subject. So it is helpful to document the sentiments that can also later be compared in future sessions.
+- We want to visualize diversity in points of view and exemplify how points of view are flexible and can evolve over time.
+- Stresses the importance that each thought can be challenged and evolved.
+- Teaching kids to express their point of view in a diplomatic and peaceful way respecting each other.
+- To create safe spaces for sharing their thoughts because it can stimulate difficult conversations.
 
 ### Prototyping
 
