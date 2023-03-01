@@ -215,3 +215,81 @@ We could also do one co-creation session with the 3 teachers + the organizer.  W
 ![Design Space 1](../images/term02/01_Design%20Studio/DS%202.1.jpg)
 
 ![Design Space 2](../images/term02/01_Design%20Studio/DS%202.2.jpg)
+
+## 3rd Design Intervention in Context
+
+*Deliverables*
+
+Document the final design intervention, analyze it and reflect on the findings. Update your design space with the relations you have built.
+
+### Reflections
+
+The third intervention will be done together with the two micro challenges through the Fab Academy. Our end goal is to test out the prototype during the remaining time that we have and use the prototype with school children early next term.
+
+After doing the first micro-challenge, building a perception board for future intervention, I started to reflect on questions about my project in general such as to whom can I speak with, what am I doing, and is there any alternative materials to consider for my prototype. Also, after learning about radical situatedness, I also took this opportunity to reflect on my design spaces, micro challenges and also the collective interventions that we did.
+
+## Context
+
+For the third intervention, Ariel and Jimena came together as a group and discussed our common interest.
+
+Based on our previous project, we're interested in exploring future perception and attitudes of school children. We have worked on a collage exercise to ask 8-year-olds their perspectives reimagining the future of parks, zoos, schools and sports. Therefore we would like to bring it to another level. We are looking into creating a prototype that will aid facilitating the workshop and also how this intervention could create a lasting impact to the local community with the absence of all three of us.
+
+
+## Purpose
+
+
+*What*
+A "perception board" that allows children and teenagers to map their sentiments, attitudes and perceptions around global problems and their potential solutions.
+
+*Who*
+Our goal would be to integrate the tool into a session with teenagers (over 13 years old). This is because their capability to reflect on global problems is much more developed than on younger children and we are inspired by debate sessions carried out by children over 13 years old.
+
+*Where*
+Indoors or classroom settings.
+
+*How*
+This can be done through a workshop or a small game session with our Artifact. The artifact includes: set of question cards, wooden board, pointers.
+
+*Why*
+By showing an analog version of their attitudes, this will help because:
+If we ask one same question to a whole class, people will feel differently depending on the topic, their emotions that day and the knowledge they have on the subject. So it is helpful to document the sentiments that can also later be compared in future sessions.
+We want to visualize diversity in points of view and exemplify how points of view are flexible and can evolve over time.
+Stresses the importance that each thought can be challenged and evolved.
+Teaching kids to express their point of view in a diplomatic and peaceful way respecting each other.
+To create safe spaces for sharing their thoughts
+Because it can stimulate difficult conversations.
+
+## Prototyping
+
+Our game is separated into three parts: Question Cards, Pointers and Perception Board.
+
+We started with a series of discussions to prototype this ‘perception board’. To start with, we did a user testing with a digitized version on this [Miro](https://miro.com/app/board/uXjVPm8vUFU=/?moveToWidget=3458764546432551560&cot=14) board.
+
+After a series of testing and discussion, we improvised it to better suit the children. Things that we improved includes:
+- Replacing numbers on the ‘pointers’ so that children can recognize it better
+- Reframe our question so that it is more children friendly
+- Enable participants to stack upon each other should they have similar opinions
+
+>After testing out the concept digitally, we proceeded with the physical manufacturing.
+
+- Initially we wanted the design to be a peg hole with a board. But we noticed that it is a problem as the same person could not choose the same position. This is the reason why our design evolved from the peg to the pointers that fill in the negative space.
+Integrating electronics. 
+- We want this to be meaningful and not just flashy or integrating because we want to add another fabrication technique. We planned on adding LED lights to help with wayfinding what is a Positive attitude / Strongly Agree in green and a Negative attitude / Strongly Disagree in red.
+- We faced a difficulty to include several questions in one game, so we explored a stackable design and fine tuned our initial prototype.
+
+After a series of iterations, we finally came out with an MVP.
+
+[Image](../images/term02/08_digitalprototyping/Final%20(2).jpeg)
+
+## General Observations
+
+For this intervention, we tested this out with our MDEF peers.
+- Most people seem to be very interested in the emoji’s printed on the pointers.
+- There was feedback by our peers stating that perhaps adding a ‘question’ card so that the participants would have an option to use it when they encounter a topic that they want to challenge.
+- This could be a great ice-breaking board game.
+
+## Reflections
+
+- Generally, this game might be more suitable to young adults rather than children.
+- We are planning on making the digital and physical version, so that even when we are away, the teachers or anyone who is interested can still be using it.
+- We are also thinking of bringing this into the community sometime next term once we carry out more testing.
