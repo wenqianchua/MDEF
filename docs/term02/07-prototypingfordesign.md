@@ -216,7 +216,7 @@ In conclusion, this is a very enriching experience for me and I love our team’
 
 [Group GitHub Link](https://github.com/wenqianchua/microchallenge-01)
 
-[HackMD](https://github.com/wenqianchua/microchallenge-01)
+[HackMD](https://hackmd.io/izcCP8XMRhSYw7DjiI5WZQ?view)
 
 [Other Group's Repo](https://docs.google.com/spreadsheets/d/1I9njAn9_ro1NWNcvO2SRhmR0hqt0KgiaekC8czmmWws/edit#gid=0)
 
@@ -320,7 +320,7 @@ Lastly, the class is wrapped up with learning about [Node Red](https://nodered.o
 
 I got most of my resources from the [course website](https://hackmd.io/95FEOJXeSXe9hDu289X-bw?view#Interface-machine-vs-machine).
 
-*Finalized Code*
+**Finalized Code**
 
 [Blink](../files/arduino/Prototyping%20For%20Design/01_Blink/01_Blink.ino)
 
