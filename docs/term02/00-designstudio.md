@@ -285,7 +285,7 @@ Integrating electronics.
 
 After a series of iterations, we finally came out with an MVP.
 
-[Image](../images/term02/08_digitalprototyping/Final%20(2).jpeg)
+![Image](../images/term02/08_digitalprototyping/Final%20(2).jpeg)
 
 ### General Observations
 
