@@ -310,7 +310,7 @@ Today, class started with a lot of hands on work. We saw some examples using LED
 
 The concept is really simple, we will have a server that is called an MQTT-Broker, and it will recieve things and sense things. We will also have publisher (sensor) that can be anything, it could also be a computer. Subscriber will be the devices that listen to the program and they are waiting for the broker to tell them what to do.
 
-Lastly, the class is wrapped up with learning about [Node Red](https://nodered.org/). A raspberry pi is a simple computer.
+Lastly, the class is wrapped up with learning about [Node Red](https://nodered.org/). A raspberry pi is a simple computer. It is very difficult to get it now with the War and supply chain issue going on, but is a really good starting point to work with computer and server.
 
 #### Pictures and Exercises
 
