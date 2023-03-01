@@ -293,3 +293,9 @@ For this intervention, we tested this out with our MDEF peers.
 - Generally, this game might be more suitable to young adults rather than children.
 - We are planning on making the digital and physical version, so that even when we are away, the teachers or anyone who is interested can still be using it.
 - We are also thinking of bringing this into the community sometime next term once we carry out more testing.
+
+### Updated Design Space
+
+![Design Space 1](../images/term02/01_Design%20Studio/Design%20Space%203%20(1).jpg
+
+![Design Space 2](../images/term02/01_Design%20Studio/Design%20Space%203%20(2).jpg
