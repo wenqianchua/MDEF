@@ -112,3 +112,44 @@ These three factors are important in creating effective change because they all 
 ### Citation
 
 Patel, Raj. A History of the World in Seven Cheap Things: A Guide to Capitalism, Nature, and the Future of the Planet. Verso Books, 2020. 
+
+## Reading Notes
+
+### A History of the World in Seven Cheap Things
+
+These are some interesting quotes from: A History of the World in Seven Cheap Things by Raj Patel, Jason W. Moore.
+
+- Although capitalism is often associated with coal and oil fueled revolution, transformation in the food system came first. Without food surplus, there is no work outside agriculture (100,Moore).
+
+- Cheap food enables that expensive systems to yield riches, workers could be paid less, more calories with less labor, so more exploitation (102,Moore).
+
+- Empire provided europe’s industrial workers with cheap food though at huge cost to people in other parts of the planet. They guarantee neither that people are fed nor that they are fed well—as the global persistence of diet-related ill health and malnutrition can attest (103,Moore).
+
+- Two ways to keep that cost down were to pay immigrant workers very little and to settle them in company towns, which compelled them to hand back wages for housing and services such as schools, cut-price English lessons, and recreational facilities.
+
+- Cheap oil is so important because today’s capitalists don’t wish to support the kinds of massive investment that would make a solar transition possible.
+
+- Capitalism may have claimed the New World with guns, germs, and steel, but the New World’s order was kept through race, police, and profits. These technologies of hegemony and order are the subject of our final chapter.
+
+- The argument of this chapter is that capitalism’s ecology has shaped the modern nation-state and vice versa, through the colonial frontier, through the interactions between early capitalists and “savages,” and through the technologies of communication that capitalism fostered at its inception. The ordering and reordering of Society through cheap things has always preceded by both force and suasion, coercion and consent.
+
+- The limits of production, consumption, and reproduction are fixed only by the system in which we find ourselves. Such limits are neither outside nor inside but both, knitted together by capitalism’s ecology of power, production, and nature. The individual footprint teaches us to think of consumption as determined by “lifestyle choices”3 rather than socially enforced logics. If you have been gentrified out of your old neighborhood and need to commute an hour to your job, your ecological footprint isn’t a lifestyle choice. It’s a choice in the same way that English peasants, once kicked off the land, were “free” to find wage work—or starve. Worse yet, footprint thinking teaches us to consider the drivers of planetary crisis as grounded in the aggregations of “people” and “consumption” rather than in systemic dynamics of capitalism and empire.
+
+- In defense of the footprint calculator, we might ask: does it not acknowledge the reality of our times, of planetary crisis, epochal climate shifts, mass extinction? Yes, but these modes of thought explain our present, disastrous state of affairs by consistently and significantly underestimating how the present is the product of a long past, of a bloody history of power, capital, and class, entwined in the web of life. At stake is how we understand population, nature, and limits.
+
+### Steps to an Ecology of Mind
+
+These are some interesting quotes from: Steps to an Ecology of Mind, a book by Gregory Bateson.
+
+- In the nature of the case, an explorer can never know what he is exploring until it has been explored. He carries no Baedeker in his pocket, no guidebook which will tell him which churches he should visit or at which hotels he should stay. He has only the ambiguous folklore of others who have passed that way. No doubt deeper levels of the mind guide the scientist or the artist toward experiences and thoughts which are relevant to those problems which are somehow his, and this guidance seems to operate long before the scientist has any conscious knowledge of his goals.
+
+- In fact, the phenomenon of context and the closely related phenomenon of "meaning " defined a division between the "hard" sciences and the sort of science which I was trying to build. Gradually I discovered that what made it difficult to tell the class what the course was about was the fact that my way of thinking was different from theirs. 
+
+- I stressed the fact that "data" are not events or objects but always records or descriptions or memories of events or objects. Always there is a transformation or recoding of the raw event which intervenes between the scientist and his object. The weight of an object is measured against the weight of some other object or registered on a me-ter. The human voice is transformed into variable magnetizations of tape. Moreover, always and inevitably, there is a selection of data because the total universe, past and present, is not subject to observation from any given observer ' s position. In a strict sense, therefore, no data are truly "raw," and every record has been somehow subjected to editing and transformation either by man or by his instruments.
+
+- If you are surveying a piece of land, or mapping the stars, you have two bodies of knowledge, neither of which can be ignored. There are your own empirical measurements on the one hand and there is Euclidean geometry on the other. If these two cannot be made to fit together, then either the data are wrong or you have argued wrongly from them or you have made a major discovery leading to a revision of the whole of geometry.
+
+- The conservative laws for energy and matter concern substance rather than form. But mental process, ideas, communication, organization, differentiation, pattern, and so on, are matters of form rather than substance. Within the body of fundamentals, that half which deals with form has been dramatically enriched in the last thirty years by the discoveries of cybernetics and systems theory. This book is concerned with building a bridge between the facts of life and behavior and what we know today of the nature of pattern and order.
+
+- D: Well, people spend a lot of time tidying things, but they never seem to spend time muddling them. Things just seem to get in a muddle by themselves. And then people have to tidy them up again. F: But do your things get in a muddle if you don't touch them? D: No—not if nobody touches them. But if you touch them—or if anybody touches them—they get in a muddle and it's a worse muddle if it isn't me. F: Yes—that's why I try to keep you from touching the things on my desk. Because my things get in a worse muddle if they are touched by somebody who isn't me 
+

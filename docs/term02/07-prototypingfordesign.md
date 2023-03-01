@@ -304,9 +304,15 @@ The key learning outcome is to understand the concept of network in this class a
 
 #### Reflection
 
+Today, class started with a lot of hands on work. We saw some examples using LED and arduino in different projects. Then, we proceeded to do some warm up activities.
+
 #### Pictures and Exercises
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ7lgerI-J4PUIXmue-5nad98Jpp8say8theKTflMXYmSsbXQ8q6HmvvUdrnmxHLgnmexSMXWFgL9OG/embed?start=true&loop=true&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 #### References
+
+I got most of my resources from the [course website](https://hackmd.io/95FEOJXeSXe9hDu289X-bw?view#Interface-machine-vs-machine)
 
 #### Learning Outcomes
 
