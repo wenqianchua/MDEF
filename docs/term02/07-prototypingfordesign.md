@@ -316,7 +316,7 @@ The concept is really simple, we will have a server that is called an MQTT-Broke
 
 #### References
 
-I got most of my resources from the [course website](https://hackmd.io/95FEOJXeSXe9hDu289X-bw?view#Interface-machine-vs-machine)
+I got most of my resources from the [course website](https://hackmd.io/95FEOJXeSXe9hDu289X-bw?view#Interface-machine-vs-machine).
 
 **Finalized Code**
 
