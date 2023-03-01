@@ -265,6 +265,8 @@ Our game is separated into three parts: Question Cards, Pointers and Perception 
 
 We started with a series of discussions to prototype this ‘perception board’. To start with, we did a user testing with a digitized version on this [Miro](https://miro.com/app/board/uXjVPm8vUFU=/?moveToWidget=3458764546432551560&cot=14) board.
 
+<iframe width="768" height="432" src="https://miro.com/app/embed/uXjVPm8vUFU=/?pres=1&frameId=3458764546433040978&embedId=529187189152" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
 After a series of testing and discussion, we improvised it to better suit the children. Things that we improved includes:
 - Replacing numbers on the ‘pointers’ so that children can recognize it better
 - Reframe our question so that it is more children friendly
