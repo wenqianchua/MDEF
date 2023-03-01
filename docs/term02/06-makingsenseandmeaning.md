@@ -153,3 +153,8 @@ These are some interesting quotes from: Steps to an Ecology of Mind, a book by G
 
 - D: Well, people spend a lot of time tidying things, but they never seem to spend time muddling them. Things just seem to get in a muddle by themselves. And then people have to tidy them up again. F: But do your things get in a muddle if you don't touch them? D: No—not if nobody touches them. But if you touch them—or if anybody touches them—they get in a muddle and it's a worse muddle if it isn't me. F: Yes—that's why I try to keep you from touching the things on my desk. Because my things get in a worse muddle if they are touched by somebody who isn't me 
 
+### Resources
+
+[Course Notion Site](https://mdef.notion.site/mdef/Master-in-Design-for-Emergent-Futures-2022-23-54743dad9b244abba796420cd0642cec)
+
+[Design as a Participation Reading](https://jods.mitpress.mit.edu/pub/design-as-participation/release/1)
