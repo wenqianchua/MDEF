@@ -228,14 +228,14 @@ The third intervention will be done together with the two micro challenges throu
 
 After doing the first micro-challenge, building a perception board for future intervention, I started to reflect on questions about my project in general such as to whom can I speak with, what am I doing, and is there any alternative materials to consider for my prototype. Also, after learning about radical situatedness, I also took this opportunity to reflect on my design spaces, micro challenges and also the collective interventions that we did.
 
-## Context
+### Context
 
 For the third intervention, Ariel and Jimena came together as a group and discussed our common interest.
 
 Based on our previous project, we're interested in exploring future perception and attitudes of school children. We have worked on a collage exercise to ask 8-year-olds their perspectives reimagining the future of parks, zoos, schools and sports. Therefore we would like to bring it to another level. We are looking into creating a prototype that will aid facilitating the workshop and also how this intervention could create a lasting impact to the local community with the absence of all three of us.
 
 
-## Purpose
+### Purpose
 
 
 *What*
@@ -259,7 +259,7 @@ Teaching kids to express their point of view in a diplomatic and peaceful way re
 To create safe spaces for sharing their thoughts
 Because it can stimulate difficult conversations.
 
-## Prototyping
+### Prototyping
 
 Our game is separated into three parts: Question Cards, Pointers and Perception Board.
 
@@ -283,14 +283,14 @@ After a series of iterations, we finally came out with an MVP.
 
 [Image](../images/term02/08_digitalprototyping/Final%20(2).jpeg)
 
-## General Observations
+### General Observations
 
 For this intervention, we tested this out with our MDEF peers.
 - Most people seem to be very interested in the emoji’s printed on the pointers.
 - There was feedback by our peers stating that perhaps adding a ‘question’ card so that the participants would have an option to use it when they encounter a topic that they want to challenge.
 - This could be a great ice-breaking board game.
 
-## Reflections
+### Reflections
 
 - Generally, this game might be more suitable to young adults rather than children.
 - We are planning on making the digital and physical version, so that even when we are away, the teachers or anyone who is interested can still be using it.
@@ -298,6 +298,6 @@ For this intervention, we tested this out with our MDEF peers.
 
 ### Updated Design Space
 
-![Design Space 1](../images/term02/01_Design%20Studio/Design%20Space%203%20(1).jpg
+![Design Space 1](../images/term02/01_Design%20Studio/Design%20Space%203%20(1).jpg)
 
-![Design Space 2](../images/term02/01_Design%20Studio/Design%20Space%203%20(2).jpg
+![Design Space 2](../images/term02/01_Design%20Studio/Design%20Space%203%20(2).jpg)
