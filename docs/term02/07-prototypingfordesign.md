@@ -318,7 +318,7 @@ The concept is really simple, we will have a server that is called an MQTT-Broke
 
 I got most of my resources from the [course website](https://hackmd.io/95FEOJXeSXe9hDu289X-bw?view#Interface-machine-vs-machine).
 
-**Finalized Code**
+*Finalized Code*
 
 [Blink](../files/arduino/Prototyping%20For%20Design/01_Blink/01_Blink.ino)
 
