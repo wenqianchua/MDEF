@@ -304,9 +304,11 @@ The key learning outcome is to understand the concept of network in this class a
 
 #### Reflection
 
-Today, class started with a lot of hands on work. We saw some examples using LED and arduino in different projects. Then, we proceeded to do some warm up activities.
+Today, class started with a lot of hands on work. We saw some examples using LED and arduino in different projects. Then, we proceeded to do some warm up activities. It is very interesting and fun! We enjoyed looking the LED breathe, it is like they are talking to each other. Personally, I prefer doing hands on work during class versus listening to the concept because I feel supported. 
 
-It is very interesting and fun! We enjoyed looking the LED breathe, it is like they are talking to each other. Personally, I prefer doing hands on work during class versus listening to the concept because I feel supported.
+>We also learn about MQTT, a protocol that use in the IoT world. 
+
+The concept is really simple, we will have a server that is called an MQTT-Broker, and it will recieve things and sense things. We will also have publisher (sensor) that can be anything, it could also be a computer. Subscriber will be the devices that listen to the program and they are waiting for the broker to tell them what to do.
 
 #### Pictures and Exercises
 
@@ -317,6 +319,8 @@ It is very interesting and fun! We enjoyed looking the LED breathe, it is like t
 I got most of my resources from the [course website](https://hackmd.io/95FEOJXeSXe9hDu289X-bw?view#Interface-machine-vs-machine)
 
 #### Learning Outcomes
+
+For this class, I hope to fix my arduino issues, having a basic understanding on how to control LED lights with a Arduino Board.
 
 ### CNC
 
