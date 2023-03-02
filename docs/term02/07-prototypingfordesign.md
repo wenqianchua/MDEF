@@ -341,14 +341,21 @@ For this class, I hope to fix my arduino issues, having a basic understanding on
 
 #### Reflection
 
-Today we learn about CNC. Computer Numerical Control (CNC) machining is a manufacturing process in which pre-programmed computer software dictates the movement of factory tools and machinery. Some facts include CNC products are normally huge, create more waste and have a little filet. The output product could also be more durable. The machines are normally quite heavy, weighing a lot of tons.
+>Today we learn about CNC. Computer Numerical Control (CNC) machining is a manufacturing process in which pre-programmed computer software dictates the movement of factory tools and machinery. 
 
-The different types of cuts for CNC and normally it is meant for professional use. It works with 3 axes thus we would be able to do 3D / 2D cuts. Or, 2.5D, which is something similar to carving.
+Some facts include CNC products are normally huge, create more waste and have a little filet. The output product could also be more durable. The machines are normally quite heavy, weighing a lot of tons.
+
+>The different types of cuts for CNC and normally it is meant for professional use. It works with 3 axes thus we would be able to do 3D / 2D cuts. Or, 2.5D, which is something similar to carving.
+
 It also has a benefit of accuracy. CNC has more accuracy compared to other methods. I am also surprised to learn about a handheld CNC machine, but the accuracy really depends on the user. We also learn about different parts of the CNC part, normally the lower part has a T slot that will help to hold the material.
 
 We also learn about the safety knowledge of handling a CNC. Especially when dealing with collet, it is extremely dangerous as it is a metal that rotates at high speed. It is important to make sure that we are using the right collet with the desired dimension.
 
-To do it nicely, we need about 6-8 screws to make sure everything goes smoothly. There are also different cutting styles for CNC. These are respectively On, Out, and In. Normally, a nesting strategy should be applied because it is expensive and more durable. This will avoid wastage and increase efficiency. If we are out-cutting, it is safe to leave about 22mm spaces between the material. One helpful resource is [svgnest](https://svgnest.com/).
+>To do it nicely, we need about 6-8 screws to make sure everything goes smoothly. 
+
+There are also different cutting styles for CNC. These are respectively On, Out, and In. Normally, a nesting strategy should be applied because it is expensive and more durable. This will avoid wastage and increase efficiency. If we are out-cutting, it is safe to leave about 22mm spaces between the material. One helpful resource is [svgnest](https://svgnest.com/).
+
+Also, remever that drills are not mills. It is crucial to understand this because they look very similar. Drill is for cutting vertically and end mill is designed for cutting laterally. There are three family of mills, which is respectively flat, round/ball or v/special mill. Round mill are usually for finishing and flat is for rough cutting. The special mills are used for marking and cutomized design.
 
 #### Pictures and Exercises
 
