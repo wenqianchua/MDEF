@@ -355,7 +355,7 @@ We also learn about the safety knowledge of handling a CNC. Especially when deal
 
 There are also different cutting styles for CNC. These are respectively On, Out, and In. Normally, a nesting strategy should be applied because it is expensive and more durable. This will avoid wastage and increase efficiency. If we are out-cutting, it is safe to leave about 22mm spaces between the material. One helpful resource is [svgnest](https://svgnest.com/).
 
-Also, remember that drills are not mills. It is crucial to understand this because they look very similar. Drill is for cutting vertically and end mill is designed for cutting laterally. There are three family of mills, which is respectively flat, round/ball or v/special mill. Round mill are usually for finishing and flat is for rough cutting. The special mills are used for marking and cutomized design. The direction of the mill depends on the clock wise or anti-clockwise rotation.
+Also, remember that drills are not mills. It is crucial to understand this because they look very similar. Drill is for cutting vertically and end mill is designed for cutting laterally. There are three family of mills, which is respectively flat, round/ball or v/special mill. Round mill are usually for finishing and flat is for rough cutting. The special mills are used for marking and cutomized design. The direction of the mill depends on the clock wise or anti-clockwise rotation, climb or conventional.
 
 #### Pictures and Exercises
 
