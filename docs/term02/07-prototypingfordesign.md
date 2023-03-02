@@ -363,7 +363,7 @@ Also, remember that drills are not mills. It is crucial to understand this becau
 
 #### References
 
-I got most of my resources from the [course website](https://fablabbcn-projects.gitlab.io/learning/educational-docs/mdef/classes/cnc/)
+I got most of my resources from the [course website](https://fablabbcn-projects.gitlab.io/learning/educational-docs/mdef/classes/cnc/).
 
 #### Learning Outcomes
 
