@@ -341,8 +341,23 @@ For this class, I hope to fix my arduino issues, having a basic understanding on
 
 #### Reflection
 
+Today we learn about CNC. Computer Numerical Control (CNC) machining is a manufacturing process in which pre-programmed computer software dictates the movement of factory tools and machinery. Some facts include CNC products are normally huge, create more waste and have a little filet. The output product could also be more durable. The machines are normally quite heavy, weighing a lot of tons.
+
+The different types of cuts for CNC and normally it is meant for professional use. It works with 3 axes thus we would be able to do 3D / 2D cuts. Or, 2.5D, which is something similar to carving.
+It also has a benefit of accuracy. CNC has more accuracy compared to other methods. I am also surprised to learn about a handheld CNC machine, but the accuracy really depends on the user. We also learn about different parts of the CNC part, normally the lower part has a T slot that will help to hold the material.
+
+We also learn about the safety knowledge of handling a CNC. Especially when dealing with collet, it is extremely dangerous as it is a metal that rotates at high speed. It is important to make sure that we are using the right collet with the desired dimension.
+
+To do it nicely, we need about 6-8 screws to make sure everything goes smoothly. There are also different cutting styles for CNC. These are respectively On, Out, and In. Normally, a nesting strategy should be applied because it is expensive and more durable. This will avoid wastage and increase efficiency. If we are out-cutting, it is safe to leave about 22mm spaces between the material. One helpful resource is [svgnest](https://svgnest.com/).
+
 #### Pictures and Exercises
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRRqtFtGe9XHQzU766WfK0eQfGSPcv9aIvIkh-Mz2OPpci0IQsMqiN8UV-g_Uq-HIY99HexRVCKsuAh/embed?start=true&loop=true&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 #### References
 
+I got most of my resources from the [course website](https://fablabbcn-projects.gitlab.io/learning/educational-docs/mdef/classes/cnc/)
+
 #### Learning Outcomes
+
+Through this class, I hope that I will have more confidence when handling CNC machines. I had some experience learning about it in architecture school but not really handling it. Also, I hope to use this knowledge and build something related to our collective intervention.
