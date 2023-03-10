@@ -4,7 +4,7 @@
 
 For this class, I learned about data. I personally find this class very interesting as a UX designer as we also understand data and use data for design. Generally there are two ways of using data: the first way is to collect data myself and I use it and the other way is that I use data collected by others. During the first day, most of the lecture focuses on how we can collect data in person. The process of forming a project generally looks like this: having set an objective, broad questions, focus on understanding, observe, analyze, reason, take decisions, and go back.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTaQ-zItk9JuS2hvK6yjJT9_VD40yNBHH8aHkljvpnY_p3u7nVO4s28fAj0aktIp8mH827LGgqnhYUC/embed?start=true&loop=true&delayms=5000" frameborder="0" width="2560" height="1469" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTaQ-zItk9JuS2hvK6yjJT9_VD40yNBHH8aHkljvpnY_p3u7nVO4s28fAj0aktIp8mH827LGgqnhYUC/embed?start=true&loop=true&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 We also learned about different types of data available online. The first type is Open data: something that is publicly disclosed, not restricted based on who you are, anyone can access. In terms of Shared Data, it is something that is limited, restricted, like data on your facebook account (requires log in), or company collective. While closed data , is something like a bank account.
 
@@ -43,5 +43,7 @@ Group members: Sami, Wen, Seher, Carolina, Dhirti, Jimena
 ## Other Resources
 
 [Hackmd](https://hackmd.io/-6tpUjtTSpGx1vILGgJbUg?view)
+
 [General class documentation](https://fablabbcn-projects.gitlab.io/learning/educational-docs/mdef/)
+
 [Link for this course inside general documentation](https://fablabbcn-projects.gitlab.io/learning/educational-docs/mdef/classes/measuring-the-world/)
