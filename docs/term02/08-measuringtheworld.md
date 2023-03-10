@@ -1,6 +1,4 @@
-## Week 08
-
-### Reflection
+## Reflection
 
 For this class, I learned about data. I personally find this class very interesting as a UX designer as we also understand data and use data for design. Generally there are two ways of using data: the first way is to collect data myself and I use it and the other way is that I use data collected by others. During the first day, most of the lecture focuses on how we can collect data in person. The process of forming a project generally looks like this: having set an objective, broad questions, focus on understanding, observe, analyze, reason, take decisions, and go back.
 
