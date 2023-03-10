@@ -368,3 +368,4 @@ I got most of my resources from the [course website](https://fablabbcn-projects.
 #### Learning Outcomes
 
 Through this class, I hope that I will have more confidence when handling CNC machines. I had some experience learning about it in architecture school but not really handling it. Also, I hope to use this knowledge and build something related to our collective intervention.
+
