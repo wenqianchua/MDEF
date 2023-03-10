@@ -27,7 +27,8 @@ repo_url: 'https://github.com/wenqianchua/MDEF'
 #     - Remixing Materials: term02/04-remxingmaterials.md
 #     - Communicating Ideas: term02/05-communicatingideas.md
 #     - Making Sense & Meaning: term02/06-makingsenseandmeaning.md
-#     - Prototyping For Desigg: term02/07-prototypingfordesign.mnd
+#     - Prototyping For Design: term02/07-prototypingfordesign.md
+#     - Measuring the World: term02/08-measuringtheworld.md
 #   - Self-care Resources: selfcare/selfcare.md
 
 nav:
@@ -53,6 +54,7 @@ nav:
       - Communicating Ideas: term02/05-communicatingideas.md
       - Making Sense & Meaning: term02/06-makingsenseandmeaning.md
       - Prototyping For Design: term02/07-prototypingfordesign.md
+      - Measuring the World: term02/08-measuringtheworld.md
   - Self-care Resources: selfcare/selfcare.md 
 
 
