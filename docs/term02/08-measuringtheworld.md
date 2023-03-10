@@ -8,11 +8,17 @@ For this class, I learned about data. I personally find this class very interest
 
 We also learned about different types of data available online. The first type is Open data: something that is publicly disclosed, not restricted based on who you are, anyone can access. In terms of Shared Data, it is something that is limited, restricted, like data on your facebook account (requires log in), or company collective. While closed data , is something like a bank account.
 
-Using the Wikipedia example, it is a collection of knowledge also at some point coming from data itself, and it is one of the biggest collective efforts into generating repositories that can be generated freely. Some open data sources includes [Barcelona Open Data](https://opendata-ajuntament.barcelona.cat/en), [Free Data])https://www.interviewquery.com/p/free-datasets), [London Data](https://data.london.gov.uk/), [Stats OECD](https://stats.oecd.org/).
+![Image](../images/term02/09_Measuring%20the%20World/WhatsApp%20Image%202023-03-10%20at%2011.51.20%20AM.jpeg)
+
+Using the Wikipedia example, it is a collection of knowledge also at some point coming from data itself, and it is one of the biggest collective efforts into generating repositories that can be generated freely. Some open data sources includes [Barcelona Open Data](https://opendata-ajuntament.barcelona.cat/en), [Free Data](https://www.interviewquery.com/p/free-datasets), [London Data](https://data.london.gov.uk/), [Stats OECD](https://stats.oecd.org/).
 
 I also wonder the notion of celebrating the open data because as not everyone could make use of the data and access the data. There are institutions that would have taken advantage of open data such as the government and military. Openness does not mean the same thing, not anyone can take advantage of the data the same way, it depends how the data can be used. Accessibility (That is where UIUX comes in!)
 
+![Image](../images/term02/09_Measuring%20the%20World/WhatsApp%20Image%202023-03-10%20at%2011.51.21%20AM.jpeg)
+
 During the group project, part of my responsibility is providing support in making the stand for our Curiosity Cards, and also observing people’s behaviors. As a group, we also worked together and had an extensive discussion on Curiosity and how we can measure it. I found this helpful [websites](https://oxford-review.com/the-5dc-dimensions-of-curiosity-and-the-curious-people/#17-reference) that explains curiosity.
+
+**Experimenting with Raspberry Pi**
 
 ![Image](../images/term02/09_Measuring%20the%20World/WhatsApp%20Image%202023-03-10%20at%2011.51.18%20AM.jpeg)
 
@@ -20,16 +26,13 @@ During the group project, part of my responsibility is providing support in maki
 
 ![Image](../images/term02/09_Measuring%20the%20World/WhatsApp%20Image%202023-03-10%20at%2011.51.19%20AM.jpeg)
 
-![Image](../images/term02/09_Measuring%20the%20World/WhatsApp%20Image%202023-03-10%20at%2011.51.20%20AM.jpeg)
+**Hands on work to capture data**
 
 ![Image](../images/term02/09_Measuring%20the%20World/WhatsApp%20Image%202023-03-10%20at%2011.51.21%20AM%20(1).jpeg)
-
-![Image](../images/term02/09_Measuring%20the%20World/WhatsApp%20Image%202023-03-10%20at%2011.51.21%20AM.jpeg)
 
 ![Image](../images/term02/09_Measuring%20the%20World/WhatsApp%20Image%202023-03-10%20at%2011.51.22%20AM.jpeg)
 
 ![Image](../images/term02/09_Measuring%20the%20World/WhatsApp%20Image%202023-03-10%20at%2011.51.23%20AM.jpeg)
-
 
 ## Group Hack MD
 
