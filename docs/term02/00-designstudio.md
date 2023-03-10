@@ -307,3 +307,24 @@ For this intervention, we tested this out with our MDEF peers.
 ![Design Space 2](../images/term02/01_Design%20Studio/Design%20Space%203%20(2).jpg)
 
 ## Exploring Alternative Presents
+
+### Instructions
+
+*Map, visualize and analyze the evolution of your design space over the 3 iterations based on ways of drifting, create a narrative in relation to your alternative present.*
+
+### Reflections
+
+![Research Methods](../images/week2/Research.png)
+
+Based on my experience, I think my [design space](https://wenqianchua.github.io/MDEF/reflections/) follows an expansive model. This is because even though everything seems very disconnected, they are still very relatable in some ways. I think one point that ties everything together is my focus on UX and interests in human behaviors and motivation. From that, I was able to expand into different fields such as mental health, children activities, and urban agricultural systems.
+
+I will approach my alternative present in my personal perception. 
+
+My narrative would be:
+
+Wen is struggling to find good UX opportunities as there are limited resources and faculty that are specialized in the interaction design field in the MDEF program. It seems that the program has a more emphasis on physical objects and engaging with the community. Actually what Wen wants is really simple, is that her talents would be able to be contributed in the right place at the right time.
+
+Alternative Presents:
+
+Wen started to find opportunities by looking around what is available to her. Instead of focusing on things that she cannot change, she starts to actively engage and look for signals around her cohort. Even though she failed a few times during interviews to get a UX design intern position, she is still able to use it as a practice ground so that she is able to be more confident in future opportunities.
+
