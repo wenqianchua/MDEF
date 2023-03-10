@@ -305,3 +305,5 @@ For this intervention, we tested this out with our MDEF peers.
 ![Design Space 1](../images/term02/01_Design%20Studio/Design%20Space%203%20(1).jpg)
 
 ![Design Space 2](../images/term02/01_Design%20Studio/Design%20Space%203%20(2).jpg)
+
+## Exploring Alternative Presents
