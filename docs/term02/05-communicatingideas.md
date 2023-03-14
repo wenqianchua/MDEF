@@ -5,6 +5,24 @@
 
 In this seminar, we are exposed to topics on the importance of communicating Ideas. As a designer, I think it is important to be able to sell  our ideas through effective communication. What makes you different from the others and how do you want to work with other people? Without the skillset of presenting and understanding where you stand, it might be hard to work efficiently in the field that you desire.
 
+During the second class, they are inviting us to think of our work as a holistic thing. One example would be who you are and what you did. Also, with today's activity we would be helping to make sense of what we did last time and see the way it fits into the overall narrative. From this, we are aiming to prepare a communication strategy for the project. One of the examples that I find interesting is this [project](https://www.elisava.net/es/proyectos/designing-realities-project) by a fellow alumni.
+
+![Image](../images/term02/05_communicatingideas/1.jpeg)
+
+During the class activity, we are required to write down our stakeholders/ audience and project that you have.
+
+![Image](../images/term02/05_communicatingideas/2.jpeg)
+
+Then, we gone through something like piority planning. We tried to fit in our stakeholders into different categories.
+
+![Image](../images/term02/05_communicatingideas/3.jpeg)
+
+After that, we classified them into different matrix.
+
+![Image](../images/term02/05_communicatingideas/4.jpeg)
+
+Last but not least, we tried to fill in this form to make sense of our overall project strategy.
+
 ## Assignment 
 
 **Purpose**
