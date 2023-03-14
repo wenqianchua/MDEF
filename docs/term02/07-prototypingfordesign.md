@@ -369,3 +369,53 @@ I got most of my resources from the [course website](https://fablabbcn-projects.
 
 Through this class, I hope that I will have more confidence when handling CNC machines. I had some experience learning about it in architecture school but not really handling it. Also, I hope to use this knowledge and build something related to our collective intervention.
 
+## Week 06
+
+### Microchallenge II
+
+#### Reflection
+
+>Generally, I think this project creates an opportunity to take our project to the next level.
+
+We are able to incoporate new system to our existing project, and at the same time explore new tools that make our project meaningful.
+
+#### Project topic
+
+>As a team, we are interested in exploring future perception and attitudes of school children. Now, we are planning to bring this project to another level by incorporating different layers of element to our exisitng sturcture.
+
+It is quite challenging as we would need to compile the project together without over complicate the process. We also hope that this project can remain children friendly despite the extensive plan.
+
+**Perception Board VII**
+
+*Image to be uploaded*
+
+#### Explain your contribution to the project
+
+>In terms of personal contribution, like last time, we divided our jobs so that we can work together smoothly based on our strengths.
+
+Ariel is incharge of electronics, while Jimena will be working on the MVP, documentation adn project planning.
+
+I will be in charge of mainly on project ideation, providing sketches, designing the physical artifact, documentation, and the Rhino File preparation. 
+
+Things that I take into account is the size of each compartment for the pointers, and also what would be the ideal size for children to hold it. I designed the pointer so that there is about 4mm off set space when it is placed on the board. Furthermore, since the distance between the scale on the board need not be based on a real ruler, I separated it based on the distance between the compartments. 
+
+#### Reflect your learning goals
+
+>I think as a team one of the struggles that we had is still electronics
+
+Even though this time we spend a significant less time since we have a clearer idea of the artifact and pre planned things, it is still rather challenging working with new components.
+
+When we are doing the 3D printing for the microphone, we also struggled with the time as it takes so much longer that we expected. To solve this, we split the file into two different printers so that the total time taken would be shorter.
+
+#### References
+
+[Group GitHub Link TBD](https://github.com/wenqianchua/microchallenge-01)
+
+[HackMD](https://hackmd.io/Iz_rpbC6QTOnNludjkmHSQ)
+
+[Other Group's Repo](https://docs.google.com/spreadsheets/d/1-60QVH3x2LaUiPu3w8ohj8AE5UwWMwvt-9cHhG3qqVo/edit#gid=0)
+
+[Course Miro](https://miro.com/app/board/uXjVMeaB6bc=/?share_link_id=619014669848)
+
+[Microchallenge Website](https://docs.google.com/presentation/d/14Ia03okyyRmJDppE57lsJ3-kP8qs3i2mAHjoODl5ZSs/edit#slide=id.g1119e89b4c6_0_0)
+
