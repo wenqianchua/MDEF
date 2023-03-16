@@ -428,9 +428,9 @@ Even though there are some small accidents here and there, as a team, we managed
 
 #### References
 
-[Group GitHub Link TBD](https://github.com/wenqianchua/microchallenge-01)
+[Group GitHub Link](https://github.com/jimenasalinasgroppo/microchallenge-02)
 
-[HackMD](https://hackmd.io/Iz_rpbC6QTOnNludjkmHSQ)
+[HackMD](https://hackmd.io/@Kg_pc2JTTZe5jnIcsbUSKQ/BJOM9qexn/edit)
 
 [Other Group's Repo](https://docs.google.com/spreadsheets/d/1-60QVH3x2LaUiPu3w8ohj8AE5UwWMwvt-9cHhG3qqVo/edit#gid=0)
 
