@@ -422,9 +422,13 @@ For the CNC part, we also took an excessive time to figure out the digital files
 
 In the end, everything turns out alright. It looks cohesive and we are quite pleased with what we had done.
 
-![Image](../images/term02/08_digitalprototyping/Microchallenge%202/cardholder.jpeg.jpeg)
+![Image](../images/term02/08_digitalprototyping/Microchallenge%202/cardholder.jpeg)
 
 Even though there are some small accidents here and there, as a team, we managed to resolve the issues.
+
+<iframe src="https://drive.google.com/file/d/16vvRVimmYO-sxQxR-dgNAKxNHtgwH7Sd/preview" width="640" height="480" allow="autoplay"></iframe>
+
+![Image](..//images/term02/08_digitalprototyping/Microchallenge%202/End.jpeg)
 
 #### References
 
