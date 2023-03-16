@@ -399,6 +399,13 @@ I will be in charge of mainly on project ideation, providing sketches, designing
 
 Things that I take into account is the size of each compartment for the pointers, and also what would be the ideal size for children to hold it. I designed the pointer so that there is about 4mm off set space when it is placed on the board. Furthermore, since the distance between the scale on the board need not be based on a real ruler, I separated it based on the distance between the compartments. 
 
+I am also contributed to the design and crafting for the sensor box.
+
+![Image](../images/term02/08_digitalprototyping/Microchallenge%202/drawing.jpeg)
+
+
+![Image](../images/term02/08_digitalprototyping/Microchallenge%202/whole%20box.jpeg)
+
 #### Reflect your learning goals
 
 >I think as a team one of the struggles that we had is still electronics
@@ -406,6 +413,18 @@ Things that I take into account is the size of each compartment for the pointers
 Even though this time we spend a significant less time since we have a clearer idea of the artifact and pre planned things, it is still rather challenging working with new components.
 
 When we are doing the 3D printing for the microphone, we also struggled with the time as it takes so much longer that we expected. To solve this, we split the file into two different printers so that the total time taken would be shorter.
+
+![Image](../images/term02/08_digitalprototyping/Microchallenge%202/crate.jpeg)
+
+For the CNC part, we also took an excessive time to figure out the digital files. We were required to make 2D of the file so that it is readable. Then, we had to go through the whole thing through the rhino cam so that it is readable.
+
+![Image](../images/term02/08_digitalprototyping/Microchallenge%202/whole%20project.jpeg)
+
+In the end, everything turns out alright. It looks cohesive and we are quite pleased with what we had done.
+
+![Image](../images/term02/08_digitalprototyping/Microchallenge%202/cardholder.jpeg.jpeg)
+
+Even though there are some small accidents here and there, as a team, we managed to resolve the issues.
 
 #### References
 

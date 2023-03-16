@@ -60,3 +60,9 @@ For me, it’s important to help the most people I can and hurt the least. Right
 **Personal Brand Kit**
 
 ![Personal Brand](../images/term02/05_communicatingideas/Personal%20Brand.jpg)
+
+**Key audiences, Key Channels, Cadences and Formats**
+
+I will be preparing this on two main projects: future for the children and the ROMI project.
+
+![Assignment](../images/term02/05_communicatingideas/Assignment.PNG)
