@@ -10,13 +10,11 @@ If I were be using a few sentence to summarize what a Mushroom Model does in a d
 
 On the first day, we choose ChatGPT is our topic.
 
-![image](../images/term03/01_distributeddesign/day01/WhatsApp%20Image%202023-04-12%20at%206.32.49%20PM%20(1).jpeg)
+![image](../images/term03/01_distributeddesign/day01/02.jpeg)
 
-![image](../images/term03/01_distributeddesign/day01/WhatsApp%20Image%202023-04-12%20at%206.32.49%20PM.jpeg)
+![image](../images/term03/01_distributeddesign/day01/03.jpeg)
 
-![image](../images/term03/01_distributeddesign/day01/WhatsApp%20Image%202023-04-12%20at%206.32.50%20PM.jpeg)
-
-![image](../images/term03/01_distributeddesign/day01/WhatsApp%20Image%202023-04-12%20at%206.32.51%20PM.jpeg)
+![image](../images/term03/01_distributeddesign/day01/04.jpeg)
 
 As an conclusion, we find it quite hard to start a dialougue on this topic as it is quite abstract. Eventually, we were able to exchange opinions and did some research as a group so that we collect useful data to prove our points. The way we move around the mushroom is also quite interesting, we started with making > power > value > knowledge. It is slightly different comparing to the other groups, or example the fertilizer, the bread and the hairpin group.
 
