@@ -2,7 +2,7 @@
 
 ## Reflections
 
-In this seminar, we learned about distributed design. It is an interesting introduction to systems thinking + design thinking. I also learned about different groups of people and how to get exposed to different student opportunities. I find the notion of system design interesting as it brings the responsibility of the successfulness of a design decision on the efficiency of the system instead of putting it on the shoulders of the stakeholders.
+In this seminar, we learned about distributed design. It is an interesting introduction to systems thinking + design thinking. I also learned about different groups of people and how to get exposed to exciting student opportunities. I find the notion of system design interesting as it brings the responsibility of the successfulness of a design decision on the efficiency of the system instead of putting it on the shoulders of the stakeholders.
 
 If I were be using a few sentence to summarize what a Mushroom Model does in a design process, I would say that it is great for brain storming, risk checking, product analyzing. I am quite interested to learn more about the parameters to measure the successfulness of the mushroom model and comparing how it is applied to physical and digital product.
 
