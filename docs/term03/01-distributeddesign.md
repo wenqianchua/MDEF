@@ -10,7 +10,7 @@ If I were be using a few sentence to summarize what a Mushroom Model does in a d
 
 On the first day, we choose ChatGPT is our topic.
 
-![image](../images/term03/01_distributeddesign/day01/02.jpeg)
+![Diagram](../images/term03/01_distributeddesign/day01/02.jpeg)
 
 ![image](../images/term03/01_distributeddesign/day01/03.jpeg)
 
