@@ -6,6 +6,8 @@ In this seminar, we learned about distributed design. It is an interesting intro
 
 If I were be using a few sentence to summarize what a Mushroom Model does in a design process, I would say that it is great for brain storming, risk checking, product analyzing. I am quite interested to learn more about the parameters to measure the successfulness of the mushroom model and comparing how it is applied to physical and digital product.
 
+During the next day, we learned about why do we measure impact. I learned that it is important as it allows you to understand your project better and it will serve as a good communication tool. If you know what you want to measure, it is a way of letting other people know what’s important to you and create alternative presents where we can extend our projects to a bigger platform.
+
 ### Group Mushroom Model 
 
 On the first day, we choose ChatGPT is our topic.
@@ -20,7 +22,7 @@ As an conclusion, we find it quite hard to start a dialougue on this topic as it
 
 ### Individual/ responses to the Reflection tree with group reflections
 
-TBD
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVMURNReQ=/?moveToViewport=-44162,128092,83450,31670&embedId=424013215188" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 ### Value Presentation
 
@@ -50,17 +52,18 @@ Personally, I am a flexible person and I do not have a strong opinion on things.
 #### Learning Skils
 *Which skills did I need during the activity and how can I translate into something useful for me and my future?*
 
-TBD
+For today, I learned to be more open minded and being able to access values in a more hollistic way. Using the parameter that is prepared, we are able to collectively discuss and see where our project stands.
 
 #### Dynamics
 *How was the dynamic inside the group?*
 
-TBD
+The dynamic was great as we are working in our existing group. We had a good working experience. Jimena, Ariel and I will be doing the reflection together since we have shared project. Then we had a discussion and reflect on the different areas of the project. In the end there will be a chart where we can see which value that is important to us, how can we improve the project so that it can improve. 
 
 #### Interactions
 *Did the role I played influence my opinion?*
 
-TBD
+No, my opinion is non bias and clear. We were able to remain rational while discussing options and possibilities of our project. 
+During the interactions, we were trying to break open value and trying to understand what they mean. The goal of the reflection tree is to help us to evaluate a selected project so we can understand our project impact in relation to the values. I think it is quite insightful.
 
 
 
