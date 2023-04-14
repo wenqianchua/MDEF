@@ -28,38 +28,40 @@ As an conclusion, we find it quite hard to start a dialougue on this topic as it
 
 TBD
 
-### Documenting your process on your web including the following reflections (learning skills, dynamics, interactions) for each day’s activity
+### Reflections
 
-### Day 01
+Documenting your process on your web including the following reflections (learning skills, dynamics, interactions) for each day’s activity
 
-#### Learning Skils
+#### Day 01
+
+##### Learning Skils
 *Which skills did I need during the activity and how can I translate into something useful for me and my future?*
 
 In terms of hard skills and soft skills, I learned that I would need to know more about history of chatGPT and AI chatbot in general so that I can have a comprehensive view on the subject. I think good communication skills is really important and I am still struggling to express vague ideas to something concrete. I will use this opportunity as a playgorund for me to trial and error on my communication skills.
 
-#### Dynamics
+##### Dynamics
 *How was the dynamic inside the group?*
 
 The first session, the dynamic is really great as were able to explore and raise interesting conversation regarding chatGPT. We started from making, power, then value and knowledge. Whereas when we are doing the next session, I find myself talking more as I am the one that's staying behind. I would say that we are quite open minded thus the discussion on chatGPT is rather fruitful.
 
-#### Interactions
+##### Interactions
 *Did the role I played influence my opinion?*
 
 Personally, I am a flexible person and I do not have a strong opinion on things. I am able to be unbias and rational about the opinion taht I would be sharing. As I am representing my group to speak up as a final presentation, I find myself being extra concious that I am just somebody that communicating our ideas. So in short, I do not think that my role has influenced my opinion.
 
-### Day 02
+#### Day 02
 
-#### Learning Skils
+##### Learning Skils
 *Which skills did I need during the activity and how can I translate into something useful for me and my future?*
 
 For today, I learned to be more open minded and being able to access values in a more hollistic way. Using the parameter that is prepared, we are able to collectively discuss and see where our project stands.
 
-#### Dynamics
+##### Dynamics
 *How was the dynamic inside the group?*
 
 The dynamic was great as we are working in our existing group. We had a good working experience. Jimena, Ariel and I will be doing the reflection together since we have shared project. Then we had a discussion and reflect on the different areas of the project. In the end there will be a chart where we can see which value that is important to us, how can we improve the project so that it can improve. 
 
-#### Interactions
+##### Interactions
 *Did the role I played influence my opinion?*
 
 No, my opinion is non bias and clear. We were able to remain rational while discussing options and possibilities of our project. 
