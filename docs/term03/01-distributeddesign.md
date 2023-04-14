@@ -27,7 +27,9 @@ On the first day, we choose ChatGPT is our topic.
 
 As an conclusion, we find it quite hard to start a dialougue on this topic as it is quite abstract. Eventually, we were able to exchange opinions and did some research as a group so that we collect useful data to prove our points. The way we move around the mushroom is also quite interesting, we started with making > power > value > knowledge. It is slightly different comparing to the other groups, or example the fertilizer, the bread and the hairpin group.
 
-### Individual/ responses to the Reflection tree with group reflections
+### Reflection Tree 
+
+Individual/ responses to the Reflection tree with group reflections
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVMURNReQ=/?moveToViewport=-44162,128092,83450,31670&embedId=424013215188" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
