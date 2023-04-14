@@ -10,7 +10,7 @@ During the next day, we learned about why do we measure impact. I learned that i
 
 On the third day, we started the day with an ice breaking activity. Each of us was given a paper and we will be taking turns to draw a portrait of another person. It is a great activity for us to get to know each other. Then we talk about value to find out what is important to you. We decided what value we would be using, in our case, justice, and will be figuring out justice as a framework. 
 
-The first things that came into my mind were commitment, kindness, resilience, responsibility and selflessness. I think commitment and responsibility is exceptionally important for everything that I do. As a group, we have chosen justice. We did a collage activity where we talked about justice and prepared the collage for a presentation.
+For the value seminar, the first things that came into my mind were commitment, kindness, resilience, responsibility and selflessness. I think commitment and responsibility is exceptionally important for everything that I do. As a group, we have chosen justice as the value to work on. We did a collage activity where we talked about justice and prepared the collage for a presentation.
 
 Overall, the distributed design seminar provides me a hollistic perspective on my ongoing work and also provide tools in designing a measurement framework for any prospective projects. I would apply what I learn from this seminar and have create a more inclusive and open project. 
 
