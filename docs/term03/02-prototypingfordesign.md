@@ -31,15 +31,19 @@ Trying out scripts on my computer:
 
 ![image](../images/term03/02_prototypingfordesign/robot/01_robot.PNG)
 
-Grasshopper Scripts for [first test](../files/robot/SCRIPT-RobotsAdvanced-LightPainting.gh)
+Trying out together with our friends:
 
-Grasshopper Scripts for [second test](../files/robot/SCRIPT-RobotsAdvanced.gh)
+![image](../images/term03/02_prototypingfordesign/robot/02_robot.jpeg)
 
-Grasshopper Scripts for [third test](../files/robot/SCRIPT-RobotsFull.gh)
+Grasshopper Scripts for [first test](../files/robot/SCRIPT-RobotsAdvanced-LightPainting.gh).
+
+Grasshopper Scripts for [second test](../files/robot/SCRIPT-RobotsAdvanced.gh).
+
+Grasshopper Scripts for [third test](../files/robot/SCRIPT-RobotsFull.gh).
 
 #### References
 
-For this class, I am mainly looking at the [lecture resources](https://fablabbcn-projects.gitlab.io/learning/educational-docs/mdef/classes/robots/)
+For this class, I am mainly looking at the [lecture resources](https://fablabbcn-projects.gitlab.io/learning/educational-docs/mdef/classes/robots/) here.
 
 
 #### Learning Outcomes
