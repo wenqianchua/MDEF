@@ -1,6 +1,6 @@
 # Design Studio
 
-## Reflection
+## Reflections
 
 During class, we had a sharing session on each other's project. For this design studio, we had a discussion on what we wanted to do and how we wantedprogress from what we had last time. As a team, we agree that we will be trying to improve our product and test it out with local school children. 
 

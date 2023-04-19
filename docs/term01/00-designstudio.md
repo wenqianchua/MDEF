@@ -1,6 +1,8 @@
 # Design Studio
 
-## Research and Prototyping
+## Reflections
+
+### Research and Prototyping
 
 *Reflect on your own RtD toolbox based on “your poster, your vision, and desired professional identity”. Reflect on the 4 different roles of prototyping by answering the following two questions. Which ones have you used and for what purposes? Which ones you haven’t used and how do you think could be interesting for you? Afterward, select the main roles of prototyping, combinations of them, and other design activities that you want to use.*
 
@@ -26,7 +28,7 @@ I have not experienced using prototyping as a Vehicle of Enquiry. This can be an
  
 Since I have quite some experiences with the different roles of prototyping, I would like to  start with using prototyping as a Vehicle of Enquiry, the one that I experienced the least so that I can equip myself with this skill set. It seems to me that Probing might be a good pairing with this role of prototyping. With this in mind, I will set this pair as a general direction when executing my upcoming design project. At the same time, I will keep an open mind to include other RtD tools and roles of prototyping whenever it is necessary should the scenario change.
 
-## My Work Space
+### My Work Space
 
 *Create a “new workspace” where your present and desired RtD toolbox can be used. You need to map what you have available for your project (materials, infrastructure, things, and people) either here or in other places.*
 
@@ -36,7 +38,7 @@ Since I have quite some experiences with the different roles of prototyping, I w
 
 ![My Work Space](../images/week2/Figure%202.jpg)
 
-## Communication Strategies
+### Communication Strategies
 
 *Choose 1 or more roles and formats from the list that was collectively created in class and put them into practice. Write a post with a reflection on the communication strategy that you are devising for the next stages of your project.*
 
@@ -85,7 +87,7 @@ I plan to execute my ideas in 4 different stages, and I am interested to use in-
 
 ![Image 9](../images/week5/Communication/9.jpg)
 
-## Intervention
+### Intervention
 
 **For my intervention, I would like to learn about**
 
