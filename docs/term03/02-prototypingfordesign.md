@@ -37,6 +37,23 @@ Trying out together with our friends:
 
 ![image](../images/term03/02_prototypingfordesign/robot/04_robot.jpeg)
 
+Process Images:
+
+![Images](../images/term03/02_prototypingfordesign/robot/1.jpeg)
+
+![Images](../images/term03/02_prototypingfordesign/robot/2.jpeg)
+
+![Images](../images/term03/02_prototypingfordesign/robot/3.jpeg)
+
+![Images](../images/term03/02_prototypingfordesign/robot/4.jpeg)
+
+![Images](../images/term03/02_prototypingfordesign/robot/5.jpeg)
+
+![Images](../images/term03/02_prototypingfordesign/robot/6.jpeg)
+
+![Images](../images/term03/02_prototypingfordesign/robot/7.jpeg)
+
+
 Grasshopper Scripts for [first test](../files/robot/SCRIPT-RobotsAdvanced-LightPainting.gh).
 
 Grasshopper Scripts for [second test](../files/robot/SCRIPT-RobotsAdvanced.gh).
