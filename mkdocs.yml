@@ -29,6 +29,10 @@ repo_url: 'https://github.com/wenqianchua/MDEF'
 #     - Making Sense & Meaning: term02/06-makingsenseandmeaning.md
 #     - Prototyping For Design: term02/07-prototypingfordesign.md
 #     - Measuring the World: term02/08-measuringtheworld.md
+#   - Works Term 3: refecltions/reflections.md
+#     - Design Studio:term03/00-designstudio.md
+#     - Distributed Design: term03/01-distributeddesign.md
+#     - Prototyping For Design: term03/02-prototypingfordesign.md
 #   - Self-care Resources: selfcare/selfcare.md
 
 nav:
@@ -58,6 +62,7 @@ nav:
     - Term 3:
       - Design Studio: term03/00-designstudio.md
       - Distributed Design: term03/01-distributeddesign.md
+      - Prototyping for Design: term03/02-prototypingfordesign.md
   - Self-care Resources: selfcare/selfcare.md 
 
 
