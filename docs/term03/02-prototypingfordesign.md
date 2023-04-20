@@ -37,7 +37,7 @@ Trying out together with our friends:
 
 ![image](../images/term03/02_prototypingfordesign/robot/04_robot.jpeg)
 
-Process Images:
+*Process Images*
 
 ![Images](../images/term03/02_prototypingfordesign/robot/1.jpeg)
 
@@ -53,9 +53,11 @@ Process Images:
 
 ![Images](../images/term03/02_prototypingfordesign/robot/7.jpeg)
 
-Process Video:
+*Process Video*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ycJ9lMgZVuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+*Grasshopper Scripts*
 
 Grasshopper Scripts for [first test](../files/robot/SCRIPT-RobotsAdvanced-LightPainting.gh).
 
