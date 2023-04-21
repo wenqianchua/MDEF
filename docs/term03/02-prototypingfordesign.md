@@ -73,3 +73,37 @@ For this class, I am mainly looking at the [lecture resources](https://fablabbcn
 #### Learning Outcomes
 
 My personal learning outcome for this section is to have better understanding on robots and understand how to use Rhino and Grasshopper as a tool to create stimulations.
+
+### Blender
+
+#### Reflection
+
+My personal learning outcome for this section is to have better understanding on robots and understand how to use Rhino and Grasshopper as a tool to create stimulations.
+
+Today, we learned about Blender. We learned about why it’s important to use Blender. Blender is not intended to be a CAD tool. The main reason why we use a tool is how we feel when we are using it. Freedom is more important than ability. 
+
+When using a tool in any discipline, the tools shape the results in any discipline, the tools shape the results of your creation. This is because when you are not sure what you want to do, you will let the tool guide you, then it will shape your creative work. Then, there is a danger of creating homogeneous work.
+Before using blender, it is important to understand why the tool we are using is the way that it is. The main point is for selling licenses and monetization. Thus, the tool designed will be designed to appeal to how the majority will like it. That means that if you are the 2% chances are your needs will not be attained.
+
+In this case, there will be misalignment from the business to the user. They sell the concept of an intuitive tool. But the truth is, something that is intuitive does not require the user to put in much effort, this is why the results are similar. Nowadays, people don’t like to go through too much trouble, they care more about feeling good and showing that they are amazing without really considering that what they made is exactly the same from other people. Thus, the ability to modify the tool is extremely important as a designer. We also learned about the concept of Free Software. After that, we learned about the brief history of blender and had the rest of the class learning and exploring about blender.
+
+I think what Victor shared is really valid. I appreciate understanding this before learning blender because it gave me an insight on how design tools work. Personally, I really enjoy using Figma and I do find some similarities from Figma and Blender. 
+
+#### Pictures and Exercises
+
+I have downloaded Blender on my computer and will try it out accordingly.
+
+![image](../images/term03/02_prototypingfordesign/robot/blender.PNG)
+
+#### References
+
+For this class, I am mainly looking at the [lecture resources](https://hackmd.io/ojtXMAVIQYyJJ86pPzzNpA?view) here.
+
+#### Learning Outcomes
+
+My personal learning outcome for this section is to feel more comfortable with Blender as a tool and start some projects using Blender.
+
+
+
+
+
