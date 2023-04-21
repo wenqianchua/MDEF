@@ -33,6 +33,7 @@ repo_url: 'https://github.com/wenqianchua/MDEF'
 #     - Design Studio:term03/00-designstudio.md
 #     - Distributed Design: term03/01-distributeddesign.md
 #     - Prototyping For Design: term03/02-prototypingfordesign.md
+#     - Design Ethics: term03/03-designethics.md
 #   - Self-care Resources: selfcare/selfcare.md
 
 nav:
@@ -63,6 +64,7 @@ nav:
       - Design Studio: term03/00-designstudio.md
       - Distributed Design: term03/01-distributeddesign.md
       - Prototyping for Design: term03/02-prototypingfordesign.md
+      - Design Ethics: term03/03-designethics.md
   - Self-care Resources: selfcare/selfcare.md 
 
 
