@@ -16,9 +16,11 @@ We also learned about the IceBerg model. I think this really helps me in underst
 - Underlying structures: how are the parts systematically related? > challenge and design
 - Mental Models: what value, assumption and belief shape the system? > transform
 
-It is interesting to learn how the technological aspect in our daily life is hidden. Sometimes we forget that technology is unavoidable. We forget that the systemic nature of technology is everywhere. When we see a normal picture, for example a picture of a forest or a bathroom, we forget the technological concept of this. The important lesson is that tech has receded from our perception. This is sometimes dangerous as somebody becomes oblivious and indifference, they are not aware of the impact they might create while using technology as a tool.
+It is interesting to learn how the technological aspect in our daily life is hidden. Sometimes we forget that technology is unavoidable. We forget that the systemic nature of technology is everywhere. When we see a normal picture, for example a picture of a forest or a bathroom, we forget the technological concept of this. The important lesson is that tech has receded from our perception. This is sometimes dangerous as somebody becomes oblivious and indifference, they are not aware of the impact they might create while using technology as a tool. For a product to be successful, or if we have plans to design a product or an interface for a person, it is important to design and include the design process with the people. 
 
 What I appreciate about this session is that Ariel emphasizes the importance of the value of each tool created. It also creates an awareness on why or how each culture or action is being carried out. We had an extensive conversation about guns as a tool and the values assigned behind the invention of guns. I personally find it really insightful and we had an interesting and extensive conversation about it in our class. 
+
+
 
 
 
