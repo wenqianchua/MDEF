@@ -176,7 +176,7 @@ We were trying to control LED strips using blender and arduino.
 
 ![image](../images/term03/02_prototypingfordesign/blender/8.jpeg)
 
-### References
+#### References
 
 For this class, I am mainly looking at the [lecture resources](https://hackmd.io/@vico/BJkjXX2YI) here.
 
