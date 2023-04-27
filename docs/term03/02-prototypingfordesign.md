@@ -78,8 +78,6 @@ My personal learning outcome for this section is to have better understanding on
 
 #### Reflection
 
-My personal learning outcome for this section is to have better understanding on robots and understand how to use Rhino and Grasshopper as a tool to create stimulations.
-
 Today, we learned about Blender. We learned about why it’s important to use Blender. Blender is not intended to be a CAD tool. The main reason why we use a tool is how we feel when we are using it. Freedom is more important than ability. 
 
 When using a tool in any discipline, the tools shape the results in any discipline, the tools shape the results of your creation. This is because when you are not sure what you want to do, you will let the tool guide you, then it will shape your creative work. Then, there is a danger of creating homogeneous work.
@@ -103,7 +101,72 @@ For this class, I am mainly looking at the [lecture resources](https://hackmd.io
 
 My personal learning outcome for this section is to feel more comfortable with Blender as a tool and start some projects using Blender.
 
+## Week 02
+
+### Life Coding As a Human Interface
+
+#### Reflection
+
+Today, we were introduced on how to use coding to create interactive interface.
+
+#### Pictures and Exercises
+
+We tried a couple settings on the Hydra website in class.
+
+![image](../images/term03/02_prototypingfordesign/code/1.jpeg)
+
+![image](../images/term03/02_prototypingfordesign/code/2.jpeg)
+
+![image](../images/term03/02_prototypingfordesign/code/3.jpeg)
+
+![image](../images/term03/02_prototypingfordesign/code/4.jpeg)
+
+![image](../images/term03/02_prototypingfordesign/code/5.jpeg)
+
+![image](../images/term03/02_prototypingfordesign/code/6.jpeg)
+
+#### References
+
+[Hydra](https://hydra.ojack.xyz/)
+
+[Hydra Resources](https://mega.nz/file/t5lzGRCC#SeLGrB8NX3VG9uRBtTdtASTExKSyXBW9wVxPkBHt0Qo)
+
+#### Learning Outcomes
+
+My personal learning outcome is to be able to try out different ways of creating interactive interface with coding.
 
 
+### Blender IO
 
+#### Reflection
+
+We learned about how the concept behind blender and python and see how we can control it.
+
+#### Pictures and Exercises
+
+As a class, we tried to run python in class in Blender together.
+
+![image](../images/term03/02_prototypingfordesign/blender/1.PNG)
+
+The command we used is add > mesh > monkey
+
+![image](../images/term03/02_prototypingfordesign/blender/3.PNG)
+
+This is Suzanne the Monkey.
+
+![image](../images/term03/02_prototypingfordesign/blender/4.PNG)
+
+I also learned that using bpy. we can have access to a lot of possibility.
+
+We also tried to array ten monkeys and executing it in class.
+
+![image](../images/term03/02_prototypingfordesign/blender/5.jpeg)
+
+### References
+
+For this class, I am mainly looking at the [lecture resources](https://hackmd.io/@vico/BJkjXX2YI) here.
+
+#### Learning Outcomes
+
+My personal learning outcome for this section is to be able to use Blender independently and imagine possible outcomes to incorporate it to my projects.
 
