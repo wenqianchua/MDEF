@@ -107,7 +107,11 @@ My personal learning outcome for this section is to feel more comfortable with B
 
 #### Reflection
 
-Today, we were introduced on how to use coding to create interactive interface.
+Today, we learned about human interface and explore how to use coding to create interactive interface.. We got insights about program language, device interfaces, data interfaces, wireless connection, and the other how to potentially appling it on art projects.
+
+It is interesting to see the connection between interaction, electronics and embodiment comes together with performing art and electronic art. We also saw some cool projects, and it inspire me to think about how I can potentially apply this on our final interventions.
+
+We were also introduced the concept of live coding, as it allows us to generate and think content in a non-linear format. They have also shared a video from ALGO polis 2022.
 
 #### Pictures and Exercises
 
@@ -162,9 +166,13 @@ We also tried to array ten monkeys and executing it in class.
 
 ![image](../images/term03/02_prototypingfordesign/blender/5.jpeg)
 
+After, we tried to rotate Suzanne with our phones. Since I am using an IOS devise, we need to find an application that can read the sensor.
+
 ### References
 
 For this class, I am mainly looking at the [lecture resources](https://hackmd.io/@vico/BJkjXX2YI) here.
+
+Recomended software for phone [here](https://phyphox.org/).
 
 #### Learning Outcomes
 
