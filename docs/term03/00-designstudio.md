@@ -35,3 +35,7 @@ Wen started to find opportunities by looking around what is available to her. In
 
 Roles:
 
+As a designer, I am aware that my decision could have a lasting impact on the user and the environment. I hope to be able to contribute my talent thinking about the planetary well-being. I will take an ethics-first approach to design when considering a product's accessibility and ease of use. It is important for me to know that my work will have a positive impact on people and the environment.
+
+Interventions Update:
+Ariel, Jime and I started to attend weekly meetings to wrap up everything we have about perception board. We started a file and divided tasks so that we can successfully deliver the project during the festival. We already have a schedule with a work plan to ensure we are efficient and intentional.
