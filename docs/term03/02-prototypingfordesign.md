@@ -166,7 +166,12 @@ We also tried to array ten monkeys and executing it in class.
 
 ![image](../images/term03/02_prototypingfordesign/blender/5.jpeg)
 
-After, we tried to rotate Suzanne with our phones. Since I am using an IOS devise, we need to find an application that can read the sensor.
+After, we tried to rotate Suzanne with our phones. Since I am using an IOS devise, we need to find an application that can read the sensor. After that, we were able to do a demo on arduino as well.
+
+![image](../images/term03/02_prototypingfordesign/blender/6.jpeg)
+
+![image](../images/term03/02_prototypingfordesign/blender/7.jpeg)
+
 
 ### References
 
