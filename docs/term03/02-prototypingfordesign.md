@@ -172,6 +172,9 @@ After, we tried to rotate Suzanne with our phones. Since I am using an IOS devis
 
 ![image](../images/term03/02_prototypingfordesign/blender/7.jpeg)
 
+We were trying to control LED strips using blender and arduino.
+
+![image](../images/term03/02_prototypingfordesign/blender/8.jpeg)
 
 ### References
 
