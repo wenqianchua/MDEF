@@ -69,7 +69,6 @@ Grasshopper Scripts for [third test](../files/robot/SCRIPT-RobotsFull.gh).
 
 For this class, I am mainly looking at the [lecture resources](https://fablabbcn-projects.gitlab.io/learning/educational-docs/mdef/classes/robots/) here.
 
-
 #### Learning Outcomes
 
 My personal learning outcome for this section is to have better understanding on robots and understand how to use Rhino and Grasshopper as a tool to create stimulations.
