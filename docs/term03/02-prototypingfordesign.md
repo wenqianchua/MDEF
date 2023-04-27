@@ -179,6 +179,14 @@ For this class, I am mainly looking at the [lecture resources](https://hackmd.io
 
 Recomended software for phone [here](https://phyphox.org/).
 
+*Blender Files*
+
+[Blender LED](../files/blender/led.blend)
+
+[Blender LED STRIP](../files/blender/ledStrip.blend)
+
+[Blender UDP](../files/blender/udp.blend)
+
 #### Learning Outcomes
 
 My personal learning outcome for this section is to be able to use Blender independently and imagine possible outcomes to incorporate it to my projects.

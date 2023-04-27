@@ -29,4 +29,9 @@ As a conclusion, I will keep working on both personal and team project. I have d
 
 *Task: Update your bio section in your website with an adaptation of your alternative present and your roles in it. Continue developing your interventions.*
 
+My Alternative Present:
+
+Wen started to find opportunities by looking around what is available to her. Instead of focusing on things that she cannot change, she starts to actively engage and look for signals around her cohort. Even though she failed a few times during interviews to get a UX design intern position, she is still able to use it as a practice ground so that she is able to be more confident in future opportunities.
+
+Roles:
 
