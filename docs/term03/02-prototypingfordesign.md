@@ -138,12 +138,13 @@ We tried a couple settings on the Hydra website in class.
 
 My personal learning outcome is to be able to try out different ways of creating interactive interface with coding.
 
-
 ### Blender IO
 
 #### Reflection
 
-We learned about how the concept behind blender and python and see how we can control it.
+We learned about how the concept behind blender and python and see how we can control it. Personally, I find it insightful because this allows me to have a deeper level of understanding on the capacity of Blender. Most of our class time were spent in trying out demo and understanding the concept of using Blender IO.
+
+I really appreciate this method of teaching in the seminar as we are able to follow through the lessons. I feel so guided and taken care of during the entire class time. If there is future possibilities, I hope there will be more classes like this. I sincerely enjoy my classes with Victor, as he is really patience and explain things well. He made sure everyone to be able to follow through his demo.
 
 #### Pictures and Exercises
 
