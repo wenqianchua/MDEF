@@ -3,6 +3,8 @@
 
 ## Reflections
 
+### Week 01
+
 In today's session, I learned that nowadays when designing, it's common that we design for monetization and make people make certain choices. The class started with these 3 important things about technology:
 
 - Technology is part of our existence
@@ -22,8 +24,9 @@ What I appreciate about this session is that Ariel emphasizes the importance of 
 
 In conclusion, this class has opened up new perspectives. Something relates to me personally is the notion of designing with the people. I always believe that in order for a product to be successful and attaining to user goals, we have to design with the party involved, instead of designing for them. It is important to have the values being throughly thought out before creating the any product. It teaches me to be more critical when viewing any designed object. An object is not just an object, it holds the value, the culture, or even the beliefs behind every design decision.
 
+### Week 02
 
-
+In today's
 
 
 

@@ -4,7 +4,7 @@
 
 ### Session 1
 
-During class, we had a sharing session on each other's project. For this design studio, we had a discussion on what we wanted to do and how we wantedprogress from what we had last time. As a team, we agree that we will be trying to improve our product and test it out with local school children. 
+During class, we had a sharing session on each other's project. For this design studio, we had a discussion on what we wanted to do and how we wanted to progress from what we had last time. As a team, we agree that we will be trying to improve our product and test it out with local school children. 
 
 For my personal work, I came out with a list of things that I will be doing and wrapping up for this term.
 
