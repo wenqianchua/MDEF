@@ -26,7 +26,10 @@ In conclusion, this class has opened up new perspectives. Something relates to m
 
 ### Week 02
 
-In today's
+In today’s session, we learned about the philosophical view of design. We explored what is design, and as a designer, what would be the impact that one can have based on the design decision. I fully agree that as a designer, especially in interaction design, we should not be forcing the user to behave in a certain way. I once took a course about UX Evil by design and recognized that a lot of the UX design strategies are intentionally forcing users to behave in a certain way. Thus, I found the concept of nudging preferable as it still gives users the choice to make decisions.
+
+In today’s digitalized world, it is getting more and more common to have more digitized products. Almost everyone will encounter or use an application on a daily basis. However, I think users should still have the freedom to decide what they want from the application themselves, not just justified by the UX design strategy. I think the fundamental problem about this is that UX is a new field and there are no guidelines that controls what should or should not be done. Secondly, UX is something that is heavily related to business goals. Almost all UX strategy has the intention to translate design decisions into monetization tools.
+
 
 
 
