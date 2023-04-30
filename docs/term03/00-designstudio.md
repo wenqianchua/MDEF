@@ -1,8 +1,8 @@
 # Design Studio
 
-## Reflections
+## Session 1
 
-### Session 1
+### Reflections
 
 During class, we had a sharing session on each other's project. For this design studio, we had a discussion on what we wanted to do and how we wanted to progress from what we had last time. As a team, we agree that we will be trying to improve our product and test it out with local school children. 
 
@@ -23,7 +23,9 @@ As a conclusion, I will keep working on both personal and team project. I have d
 
 ![Design Space](../images/term03/00_designstudio/01_Design%20Space.jpg)
 
-### Session 2
+## Session 2
+
+### Reflections
 
 *Deliverable: Update your alternative present including a description of the roles you would like to have in it.*
 
