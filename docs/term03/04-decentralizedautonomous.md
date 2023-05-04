@@ -15,7 +15,7 @@ As time advances, we design interfaces to improve the experience of us interacti
 
 The Internet is always marketed as a ‘free’ service, but is it really? Something that is free does not necessarily mean that it is available to all. Thus, when big companies use the notion of ‘providing free service’ to justify whatever decision they have to make, in reality to monetize and extract data, it is not really fair to all the people from unprivileged places.
 
-In the end, we did a simple reverse engineering from our digital lives. We did a map to understand better how information is being passed in the digital world, things that happened behind the scene. Personally, I think it is very insightful because the digital experience is almost like a black box and no one really knows what is going on.
+In the end, we did a simple reverse engineering from our digital lives. We did a map to understand better how information is being passed in the digital world, things that happened behind the scene. Personally, I think it is very insightful because the digital experience is almost like a black box and no one really knows what is going on. By understand the behind the scene processes, it is more helpful to design recognizing issues such as privacy and rights to certain data.
 
 ![image](../images/term03/04_decentralizedautonomous/1%20(1).jpeg)
 
