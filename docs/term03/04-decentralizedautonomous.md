@@ -26,3 +26,11 @@ In the end, we did a simple reverse engineering from our digital lives. We did a
 ![image](../images/term03/04_decentralizedautonomous/1%20(4).jpeg)
 
 In conclusion, it is a very enriching experience, I learned a lot from this session and I would apply the knowledge that I learn in my future design decisions.
+
+### Homework
+
+First thing that comes into your mind when you think of block chain, NFT etc:
+- Digitalized currency
+- Freedom of creating art
+- Right of art ownership
+- Independent source of money
