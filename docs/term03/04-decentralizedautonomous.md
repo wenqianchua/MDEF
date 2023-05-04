@@ -23,4 +23,6 @@ In the end, we did a simple reverse engineering from our digital lives. We did a
 
 ![image](../images/term03/04_decentralizedautonomous/1%20(3).jpeg)
 
+![image](../images/term03/04_decentralizedautonomous/1%20(4).jpeg)
+
 In conclusion, it is a very enriching experience, I learned a lot from this session and I would apply the knowledge that I learn in my future design decisions.
