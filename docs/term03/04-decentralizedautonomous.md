@@ -35,3 +35,15 @@ First thing that comes into your mind when I think of block chain, NFT etc are:
 - Freedom of creating art
 - Right of art ownership
 - Independent source of money
+
+### Week 02
+
+In the second class, we talked about some projects. One of the projects is about power. We were introduced to the approach on how to research using design tools or artistic research methods in order to see the effects of power. How can power, and how we are inscribed in power relations, and how it is affecting us in terms of emotion, behavior and mental health. The quote “Self care can’t cure social disease. Action dries your tears. Most of us are not doctors.” It is an interesting disclaimer when relating to mental health issues.
+
+We are also learning about proposals on an open protocol. When we are working with some specific tools, it is important to have a protocol. It can be open, it means it is a protocol that needs or should be reviewed within every specific situation. Being in a happy space doesn’t mean you don’t need a protocol or a good practice code to execute it. All of them share a commitment of taking care in terms of politics, ethics, ontology and epistemology. 
+
+In every design process,iIt is important to recognize who is not there. In my opinion, I think this is a valid notion as those who are missing are those that are most underrepresented. What is toxic? Pure? Artificial? Pure? Sometimes, separating things into yes or no, or black and white makes it really easy for people to be divided and focus on the differences. In my opinion, a lot of the time there is no right or wrong, good or bad. Things are just being. If we separate things and try to classify things, we assign positive or negative attribution to the classification.
+
+One of the great questions that we need to consider is that when we are working on something, who are we actually working for? This is important because it provides clarity in a situation. It raises awareness, so that our talents and contribution will not be used in the wrong manner. The second part will be about design justice. We talked about different practices and proposals. There is a list of 10 design justice principles, however it seems like there are not too many approaches in academia to use these principles.
+
+In conclusion, I find all the projects that were shared during class to be very insightful. There is so much opportunity to work with fiction. They open up different perspectives when viewing subject matters.
