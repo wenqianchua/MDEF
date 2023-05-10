@@ -35,6 +35,7 @@ repo_url: 'https://github.com/wenqianchua/MDEF'
 #     - Prototyping For Design: term03/02-prototypingfordesign.md
 #     - Design Ethics: term03/03-designethics.md
 #     - Decentralized Autonomous Organizations: term03/04-decentralizedautonomous.md
+#     - Collective Intelligence: term03/05-collectiveintelligence.md
 #   - Self-care Resources: selfcare/selfcare.md
 
 nav:
@@ -67,6 +68,7 @@ nav:
       - Prototyping for Design: term03/02-prototypingfordesign.md
       - Design Ethics: term03/03-designethics.md
       - Decentralized Autonomous Organizations: term03/04-decentralizedautonomous.md
+      - Collective Intelligence: term03/05-collectiveintelligence.md
   - Self-care Resources: selfcare/selfcare.md 
 
 
