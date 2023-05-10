@@ -15,5 +15,7 @@ It is very important to understand distributive systems and centralized systems.
 
 ![Image](../images/term03/05_collectiveintelligence/2.PNG)
 
+![Image](../images/term03/05_collectiveintelligence/3.PNG)
+
 As a group with Jime and Ariel, we had an extensive conversation about how we might potentially use AI to compliment on our projects. One of the ideas we had is to use the data collected from our intervention, converting text to image using AI. Potentially, we could use the image generated to conduct an exhibition.
 
