@@ -41,3 +41,13 @@ Then we created a market place [here](https://objkt.com/profile/tz1XKzgLFcftsgEq
 In the end, I have succesfully listed my NFT in the market place. [My art](https://objkt.com/asset/KT1LWZDB)
 
 ### Day 03
+
+For the first session of the class, we were introduced [Processing](https://processing.org/) as a simple way to start in coding and graphic programming. There is a really cool project that has been made into NFT in Barcelona, the Living Architecture project at Casa Batlo.
+
+We were also introduced to DAO. Dao is a decentralized autonomous org that uses blockchain to facilitate self enforcing rules and protocols. We were introduced to several projects that are related to DAO. Example, there is this [project](https://jlt.ltd/) that seems interesting. I think it is interesting that he is disguised as a chatbot and documented all the conversations over the years.
+
+After, we had a sharing session to share about what are the potentials in incorporating things that we learned for the past few days in our project. 
+
+#### Deliverables
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS7rJwWXSReQExywpBW0bKPvWJt6kfyu8u5uicM768OtuHFyZ6dbZo0FX_O9AjlF3kmqMihafSfdh_j/embed?start=true&loop=true&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
