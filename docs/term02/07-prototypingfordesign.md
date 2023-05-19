@@ -387,7 +387,7 @@ It is quite challenging as we would need to compile the project together without
 
 **Perception Board VII**
 
-*Image to be uploaded*
+![pic](../images/term02/08_digitalprototyping/Microchallenge%202/pic.jpg)
 
 #### Explain your contribution to the project
 

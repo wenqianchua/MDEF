@@ -194,3 +194,38 @@ Recomended software for phone [here](https://phyphox.org/).
 
 My personal learning outcome for this section is to be able to use Blender independently and imagine possible outcomes to incorporate it to my projects.
 
+## Week 03
+
+### Microchallenge III
+
+#### Reflection
+
+During this week, we had micro challenges on the interface. We need to consolidate what we learned in the past and apply it to our project.
+
+I think one key thing that I learn is to ask GPT the right questions. One of the important things that we learn is also to be able to list out the system diagram as one of the feedback sessions. Me, Ariel and Jime spend some time studying and figuring out a more detailed diagram to further complete our documentation.
+
+#### Project Topic
+
+This time, our project topic is to visualize the futures imagined by children in our first intervention creating collages with them. We also hope to create a digital gallery that can act as an exhibit that we share back with teachers and parents to raise funds as NFTs.
+
+Our aim was to develop a digital interface that allows children to create imagery out of the futures they create during the futures literacy workshop.
+
+#### Explain your contribution to the project
+
+In terms of personal contribution, me and Ariel worked together to find the right code to execute for our project. We realized that the previous year example has some problems. There is trouble connecting to the server and the code is not working. Therefore, we had to troubleshoot and find new resources.
+
+Also, as a UX designer,  Jime and I contributed some inputs on usability, microcopy, web aesthetics to make our final product more desirable.
+
+#### Reflect your learning goals
+
+I think as a team, none of us have a solid coding experience thus this is a very intimidating process. We tried many things: such as html, collab etc. Thankfully, with the help of ChatGPT and online resources, we are able to make it work. 
+
+Even though we are using ChatGPT in our project, we also realized that you need to have some basic understanding on how the code works in order to ask ChatGPT the right questions. This is because sometimes, there would be trouble in comprehending your request and the code will break. Therefore, while we got help from ChatGPT, in the asking process, we also learned about how the system actually works.
+
+#### Resources
+
+[Refference](https://github.com/chris-ernst/fabacademy-challenge-3)
+
+[HackMD](https://hackmd.io/akMO2Kq5TRyMYkDd-UVvWA)
+
+[Group GitHub](https://github.com/jimenasalinasgroppo/microchallenge-03)
