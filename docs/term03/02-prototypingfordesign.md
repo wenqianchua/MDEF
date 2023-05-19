@@ -216,6 +216,14 @@ In terms of personal contribution, me and Ariel worked together to find the righ
 
 Also, as a UX designer,  Jime and I contributed some inputs on usability, microcopy, web aesthetics to make our final product more desirable.
 
+![image](../images/term03/02_prototypingfordesign/microchallenge/1.jpeg)
+
+
+![image](../images/term03/02_prototypingfordesign/microchallenge/2.jpeg)
+
+
+![image](../images/term03/02_prototypingfordesign/microchallenge/3.jpeg)
+
 #### Reflect your learning goals
 
 I think as a team, none of us have a solid coding experience thus this is a very intimidating process. We tried many things: such as html, collab etc. Thankfully, with the help of ChatGPT and online resources, we are able to make it work. 
