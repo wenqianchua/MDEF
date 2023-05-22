@@ -113,4 +113,7 @@ Schools in Barcelona (pilot in Sant Andreu in Baladona), schools in Latin Americ
 
 In the short term, activities in school in Badalona, long term activities are replicated by external participants. Potentials to share our projects on a wider platform.
 
+**Latest Pitch**
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FuOMyI6194EmIxtUgXjSZdM%2FLittle-Big-Futures%3Ftype%3Ddesign%26node-id%3D307-20%26scaling%3Dscale-down-width%26page-id%3D46%253A2%26starting-point-node-id%3D307%253A20" allowfullscreen></iframe>
 
