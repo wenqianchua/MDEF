@@ -19,7 +19,7 @@ Since everything starting to look clearer in my perspective, I updated my design
 
 As a conclusion, I will keep working on both personal and team project. I have drafed out a whole three month proposal for RoMi UXR and will be talking to Jonathan about it. For our team, we have also drafted a plan and will execute it accordingly.
 
-### Updated Design Space
+**Updated Design Space**
 
 ![Design Space](../images/term03/00_designstudio/01_Design%20Space.jpg)
 
@@ -89,5 +89,23 @@ For my collective project with Jime and Ariel, we are planning to get more visib
 Also, we designed a landing page for presentation purposes so that people can understand our project better. As a team, we present ourselves together and we think it would help us in getting people to trust us and understand our drive.
 
 We are also trying to build a business model to sustain ourselves with our Big Little Futures project. I think one of our strengths is that Jime, Ariel and I are involved in other things professionally so we could support ourselves when working on our projects. We are thinking of keeping this project on the side, reaching out to potential opportunities and continuing to keep in touch after the MDEF ends.
+
+**The 5W's of scaling**
+
+
+*Why?*
+Create a distributed network of teachers and/or designers interested in implementing our Perception Board, collage workshop or other education tools to help children design future solutions for the world’s most pressing problems. To reimagine future tools of education creating alternative ways for children and teenagers to talk about difficult topics and improve the dialogue skills in the society
+
+*What?*
+Digital assets and databases including all the materials, documentation and files to set up or run workshops with schools in Barcelona and elsewhere. Perception Board and Tools, both physical and digital.
+
+*Who?*
+Network of private and public schools in Barcelona, teachers working on climate change and innovation, designers collaborating with children
+
+*Where?*
+Schools in Barcelona (pilot in Sant Andreu in Baladona), schools in Latin America and/or Asia, after school spaces / parks / public spaces. Could also happen online.
+
+*When?*
+In the short term, activities in school in Badalona, long term activities are replicated by external participants. Potentials to share our projects on a wider platform.
 
 
