@@ -94,18 +94,23 @@ We are also trying to build a business model to sustain ourselves with our Big L
 
 
 *Why?*
+
 Create a distributed network of teachers and/or designers interested in implementing our Perception Board, collage workshop or other education tools to help children design future solutions for the world’s most pressing problems. To reimagine future tools of education creating alternative ways for children and teenagers to talk about difficult topics and improve the dialogue skills in the society
 
 *What?*
+
 Digital assets and databases including all the materials, documentation and files to set up or run workshops with schools in Barcelona and elsewhere. Perception Board and Tools, both physical and digital.
 
 *Who?*
+
 Network of private and public schools in Barcelona, teachers working on climate change and innovation, designers collaborating with children
 
 *Where?*
+
 Schools in Barcelona (pilot in Sant Andreu in Baladona), schools in Latin America and/or Asia, after school spaces / parks / public spaces. Could also happen online.
 
 *When?*
+
 In the short term, activities in school in Badalona, long term activities are replicated by external participants. Potentials to share our projects on a wider platform.
 
 
